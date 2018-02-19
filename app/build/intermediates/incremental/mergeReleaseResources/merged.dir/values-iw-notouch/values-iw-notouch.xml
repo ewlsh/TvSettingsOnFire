@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"סלון"</item>
+    <item msgid="7887185726776968055">"חדר מדיה"</item>
+    <item msgid="372573326176756144">"חדר משפחה"</item>
+    <item msgid="8112576067079559786">"חדר אוכל"</item>
+    <item msgid="2891751328917513846">"חדר עבודה"</item>
+    <item msgid="7390608863950443962">"חדר שינה"</item>
+    <item msgid="682313511953895794">"מטבח"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"אף חשבון אינו מאחסן כרגע נתונים מגובים"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"האם להפסיק גיבוי של סיסמאות ה-Wi-Fi, הסימניות, הגדרות אחרות ונתוני האפליקציות ולמחוק את כל העותקים משרתי Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"שנה"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"האם למחוק את כל המידע האישי שלך ואת האפליקציות שהורדת? לא ניתן לבטל את הפעולה!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"מחק הכל"</string>
+    <string msgid="5972936200641815527" name="custom_room">"הזן שם בהתאמה אישית…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"נקה קובץ שמור"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"נקה נתונים"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"כל הנתונים של האפליקציה הזו יימחקו לצמיתות."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"הפעולה הזו כוללת את כל הקבצים, ההגדרות, החשבונות, מסדי הנתונים וכו\'."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"נקה ברירות מחדל"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"לא הוגדרו ברירות מחדל"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"הגדר הפעלה של האפליקציה לפעולות מסוימות"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"אלץ עצירה"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"אם אתה מאלץ עצירה של אפליקציה, ייתכן שהיא לא תפעל כהלכה."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"התראות"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"פתח"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"אישורים"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"הסר התקנה"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"האם אתה רוצה להסיר את ההתקנה של האפליקציה הזו?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"גרסה <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"ללא"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"מתי לעבור למצב שינה"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"המסך נכבה לאחר חוסר פעילות במשך פרק זמן זה."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> לאחר מעבר לחלום בהקיץ"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"חלום בהקיץ"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"מתי לעבור למצב חלום בהקיץ"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"מצב ׳חלום בהקיץ׳ מתחיל לאחר תקופת חוסר הפעילות הזו. אם לא נבחר ׳חלום בהקיץ׳, המסך כבה."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"לאחר <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> של חוסר פעילות"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"התחל עכשיו"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"סגור הכול"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"כשהתכונה פועלת, הודעות חדשות יופיעו רק ב\'הגדרות\'"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"נא לא להפריע"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"הפעולה הזו תמחק את כל הנתונים מהאחסון הפנימי במכשיר שלך, כולל: חשבון Google שלך, אפליקציות שהורדת, נתונים והגדרות של המערכת ושל אפליקציות."</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"אפס את המכשיר"</string>
+    <string msgid="549230720820096102" name="keep_settings">"אל תשנה"</string>
+    <string msgid="2164687828212723531" name="menu_help">"עזרה"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"אין"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"שחזור אוטומטי"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"חשבון גיבוי"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"גבה את הנתונים שלי"</string>
+    <string msgid="4080602542483519716" name="select_description">"מתן שם יעזור בזיהוי ה-^1 שלך בעת גישה אליו ממכשירים אחרים, כמו טלפון, טאבלט או מחשב."</string>
+    <string msgid="2657901623249723536" name="select_title">"בחר שם עבור ה-^1 שלך"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"ביטול"</string>
+    <string msgid="4439170658516725721" name="settings_off">"כבוי"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"אישור"</string>
+    <string msgid="1295064657786011878" name="settings_on">"מופעל"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" הוא השם של ה-^2 הזה. האם ברצונך לשנות זאת?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"ל-^1 הזה יש שם"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"נסה שוב"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"אירעה שגיאה"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"החיבור הצליח!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"הזן סיסמה עבור <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"נשמר בהצלחה!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"מצטרף אל ^1"</string>
+</resources>

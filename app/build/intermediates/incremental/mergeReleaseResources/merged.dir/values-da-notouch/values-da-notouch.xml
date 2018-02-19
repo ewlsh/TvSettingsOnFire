@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Stue"</item>
+    <item msgid="7887185726776968055">"Medierum"</item>
+    <item msgid="372573326176756144">"Alrum"</item>
+    <item msgid="8112576067079559786">"Spisestue"</item>
+    <item msgid="2891751328917513846">"Hyggestue"</item>
+    <item msgid="7390608863950443962">"Soveværelse"</item>
+    <item msgid="682313511953895794">"Køkken"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Der er i øjeblikket ikke nogen konto, der lagrer sikkerhedskopierede data"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Vil du stoppe sikkerhedskopieringen af dine Wi-Fi-adgangskoder, bogmærker, andre indstillinger og appdata samt rydde alle kopier på Google-servere?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Skift"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Vil du slette alle dine personlige oplysninger og downloadede apps? Denne handling kan ikke fortrydes!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Slet alt"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Angiv et tilpasset navn…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Ryd cache"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Ryd data"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Alle denne apps data vil blive slettet permanent."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Dette omfatter alle filer, indstillinger, konti, databaser osv."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Ryd standarder"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Der er ikke angivet nogen standarder"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Åbn denne app ved visse handlinger"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Tving til at standse"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Hvis du tvinger en app til at standse, kan det medføre, at den ikke fungerer korrekt."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Underretninger"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Åbn"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Tilladelser"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Afinstaller"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Vil du afinstallere denne app?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"version <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Ingen"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Hvornår dvaletilstand skal slås til"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"Skærmen slukker efter denne inaktivitetsperiode."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> efter aktivering af Dagdrøm"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Dagdrøm"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Hvornår der skal dagdrømmes"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Dagdrømmen vises først efter dette tidsrum uden aktivitet. Hvis der ikke er valgt nogen dagdrøm, slukkes skærmen."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Efter <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>s inaktivitet"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Start nu"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Luk alle"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Når slået til, vises nye underretninger kun i Indstillinger"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Vil ikke forstyrres"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Dette medfører sletning af alle data fra enhedens interne lager, herunder din Google-konto, data og indstillinger for system og apps samt downloadede apps"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Nulstil enheden"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Skift ikke"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Hjælp"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Ingen"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Automatisk gendannelse"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Konto til sikkerhedskopiering"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Sikkerhedskopier mine data"</string>
+    <string msgid="4080602542483519716" name="select_description">"Et navn kan hjælpe dig med at identificere din ^1, når du skal have adgang til den fra andre enheder, f.eks. din telefon, tablet eller computer."</string>
+    <string msgid="2657901623249723536" name="select_title">"Vælg et navn til din ^1"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Annuller"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Fra"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Til"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" er navnet på denne ^2. Vil du ændre navnet?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"Denne ^1 er navngivet"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Prøv igen"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Der er opstået en fejl"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Tilsluttet!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Angiv adgangskoden til <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Gemt!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Slutter til ^1"</string>
+</resources>

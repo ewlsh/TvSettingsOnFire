@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedactions_item_pressed.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedactions_item_unpressed.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_decelerator_4.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_decelerator_4.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_controls_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_description_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_controls_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedstep_slide_up.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_adjacent_number_exit.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/src/main/res/animator/pin_adjacent_number_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_rows_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_logo_exit.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_rows_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedactions_item_unpressed.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_start_button_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_title_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_adjacent_number_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/src/main/res/animator/pin_adjacent_number_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_description_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_start_button_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_description_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_logo_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_rows_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_controls_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_focused_number_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/animator/pin_focused_number_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_focused_number_exit.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/animator/pin_focused_number_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedstep_slide_down.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_focused_number_exit.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/src/main/res/animator/pin_focused_number_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedactions_item_pressed.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_start_button_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_decelerator_4.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_decelerator_4.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_adjacent_number_exit.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/animator/pin_adjacent_number_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_decelerator_2.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_decelerator_2.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_start_button_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedstep_slide_up.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_page_indicator_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_description_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_decelerator_2.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_decelerator_2.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_controls_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_focused_number_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/src/main/res/animator/pin_focused_number_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_guidedstep_slide_down.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_playback_rows_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_logo_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_logo_exit.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/pin_adjacent_number_enter.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/animator/pin_adjacent_number_enter.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/animator/lb_onboarding_title_enter.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator/lb_onboarding_title_enter.xml"
+    }
+]

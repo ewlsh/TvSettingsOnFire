@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Sala de estar"</item>
+    <item msgid="7887185726776968055">"Sala multimédia"</item>
+    <item msgid="372573326176756144">"Sala"</item>
+    <item msgid="8112576067079559786">"Sala de jantar"</item>
+    <item msgid="2891751328917513846">"Gabinete privado"</item>
+    <item msgid="7390608863950443962">"Quarto"</item>
+    <item msgid="682313511953895794">"Cozinha"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"De momento, não há nenhuma conta a armazenar dados de cópia de segurança"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Deixar de fazer cópia de segurança de palavras-passe de Wi-Fi, marcadores, outras definições e dados da aplicação e apagar todas as cópias nos servidores da Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Alterar"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Pretende apagar todas as informações pessoais e aplicações transferidas? Não é possível reverter esta ação!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Apagar tudo"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Introduzir nome personalizado…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Limpar cache"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Limpar dados"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Todos os dados desta aplicação serão eliminados permanentemente."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Isto inclui todos os ficheiros, definições, contas, bases de dados, etc."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Limpar predefinições"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Nenhuma predefinição definida"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Def. para iniciar esta apl. para ações"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Forçar paragem"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Se forçar a paragem de uma aplicação, esta poderá apresentar um comportamento anormal."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Notificações"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Abrir"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Permissões"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Desinstalar"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Pretende desinstalar esta aplicação?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"versão <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Nenhum"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Quando deve entrar em suspensão"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"O ecrã desliga-se após este período de inatividade."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> após ativação do Sonho"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Sonho"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Quando sonhar acordado"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"A visualização Sonho é iniciada após este período de inatividade. Se o Sonho não for selecionado, o ecrã desliga-se."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Após <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> de inatividade"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Iniciar agora"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Ignorar tudo"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Se at., as not. novas só surgem em Def."</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Não incomodar"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Esta ação irá apagar todos os dados da memória de armazenamento interno do dispositivo, incluindo: a sua Conta Google, dados e definições do sistema e das aplicações, e aplicações transferidas."</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Repor dispositivo"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Não alterar"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Ajuda"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Nenhuma"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Restauro automático"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Conta de segurança"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Fazer uma cópia de segurança dos meus dados"</string>
+    <string msgid="4080602542483519716" name="select_description">"Um nome ajudará a identificar o ^1 quando aceder ao mesmo a partir de outros dispositivos, tais como o telemóvel, o tablet ou o computador."</string>
+    <string msgid="2657901623249723536" name="select_title">"Escolher um nome para o ^1"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Cancelar"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Desativado"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Ativado"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" é o nome deste ^2. Pretende alterar isto?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"Este ^1 tem nome"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Tentar novamente"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Ocorreu um erro"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Ligação com êxito!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Introduzir palavra-passe para <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Guardada com êxito!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"A juntar-se a ^1"</string>
+</resources>

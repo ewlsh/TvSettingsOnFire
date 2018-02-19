@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6590559258588648873" name="av_receiver_brand_selection_title">"Valige AV-vastuvõtja bränd"</string>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Ühelegi kontole ei ole praegu salvestatud varundatud andmeid"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Kas soovite WiFi paroolide, järjehoidjate, muude seadete ja rakenduste andmete varundamise lõpetada ning kõik Google\'i serverites olevad koopiad kustutada?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Kas kustutada kõik teie isiklikud andmed ja allalaaditud rakendused? Seda toimingut ei saa tagasi võtta."</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Kustuta kõik"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Tühjenda vahemälu"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Kustuta andmed"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Rakenduse andmed kustutatakse jäädavalt."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"See hõlmab kõiki faile, seadeid, kontosid, andmebaase jms."</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Sunni peatuma"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Kui sunnite rakenduse peatuma, võib see valesti käituda."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Märguanded"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Load"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Desinstalli"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Kas soovite selle rakenduse desinstallida?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"versioon <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Puudub"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Unerežiim"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Millal aktiveerida unerežiim?"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Unerežiim algab pärast seda tegevusetuse perioodi. Kui unerežiimi pole valitud, lülitub ekraan välja."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Pärast <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> jõudeolekut"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Alusta kohe"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Loobu kõigist"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"See kustutab kõik andmed seadme sisemisest salvestusruumist, sealhulgas teie Google\'i konto, süsteemi ja rakenduse andmed ning seaded ja allalaaditud rakendused"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Lähtesta seade"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Puudub"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Automaatne taastamine"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Varukonto"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Minu andmete varundamine"</string>
+    <string msgid="4332681403776201898" name="remote_input_control_avr">"AV-vastuvõtja"</string>
+    <string msgid="4463232750558670880" name="remote_input_control_description">"Millist seadet peaks teie kaugjuhtimispuldi sisendklahv juhtima?"</string>
+    <string msgid="2288173413092344097" name="remote_input_control_more_info">"Lisateave"</string>
+    <string msgid="2162123799829832793" name="remote_input_control_title">"Sisendi juhtimine"</string>
+    <string msgid="1161797798141087133" name="remote_input_control_tv">"Teler"</string>
+    <string msgid="7915107400409384444" name="remote_power_control_avr">"AV-vastuvõtja"</string>
+    <string msgid="3169112762029996294" name="remote_power_control_description">"Millist seadet peaks teie kaugjuhtimispuldi toiteklahv juhtima?"</string>
+    <string msgid="6548476606481318540" name="remote_power_control_more_info">"Lisateave"</string>
+    <string msgid="6900887500636256080" name="remote_power_control_title">"Toite juhtimine"</string>
+    <string msgid="20401013011107997" name="remote_power_control_tv">"Teler"</string>
+    <string msgid="1375513531893934307" name="remote_programmed_successfully_ok">"OK"</string>
+    <string msgid="4110689241054488465" name="remote_setup_av_receiver_message_choice_no">"Ei, ainult teler"</string>
+    <string msgid="7929184207846917118" name="remote_setup_av_receiver_message_choice_unknown">"Ma ei ole kindel"</string>
+    <string msgid="4425950273612887422" name="remote_setup_av_receiver_message_choice_yes">"Jah"</string>
+    <string msgid="6684021872456430428" name="remote_setup_av_receiver_message_title">"Kas kasutate AV-vastuvõtjat helitugevuse reguleerimiseks või videoallikate valimiseks?"</string>
+    <string msgid="4298074971218301801" name="remote_setup_av_receiver_works_choice_no">"Ei, see ei toimi"</string>
+    <string msgid="3958668567541773813" name="remote_setup_av_receiver_works_choice_yes">"Jah, see toimib"</string>
+    <string msgid="6233717853267060396" name="remote_setup_avr_unable_to_configure_continue">"Jätka seadistamist"</string>
+    <string msgid="1160999973083806587" name="remote_setup_avr_unable_to_configure_hint">"Saate seda hiljem teha jaotises Seaded."</string>
+    <string msgid="7801918594788868621" name="remote_setup_avr_unable_to_configure_title">"Seda AV-vastuvõtjat ei saa seadistada"</string>
+    <string msgid="4693947869846354939" name="remote_setup_avr_unable_to_configure_try_again">"Proovi uuesti"</string>
+    <string msgid="895288876842034764" name="remote_setup_complete_hint">"Saate seda muuta ja värskendada jaotises Seaded"</string>
+    <string msgid="7561911666937200298" name="remote_setup_complete_indicator">"✔"</string>
+    <string msgid="5621039651988402414" name="remote_setup_complete_title">"Teie kaugjuhtimispult on seadistatud"</string>
+    <string msgid="426693490088036953" name="remote_setup_configuring_title">"Seadistamine"</string>
+    <string msgid="5556977469090883888" name="remote_setup_failure_title">"Paistab, et proovisite kõiki Sony teleri jaoks saadaolevaid koode ja ükski neist ei toiminud"</string>
+    <string msgid="8248001602463811004" name="remote_setup_no_more_codes_title">"Valitud brändi jaoks pole rohkem ühtegi valikut."</string>
+    <string msgid="3805427230334915588" name="remote_setup_tv_unable_to_configure_continue">"Jätka seadistamist"</string>
+    <string msgid="1731804913207624724" name="remote_setup_tv_unable_to_configure_hint">"Saate seda hiljem teha jaotises Seaded."</string>
+    <string msgid="4278769121940609448" name="remote_setup_tv_unable_to_configure_title">"Seda telerit ei saa seadistada"</string>
+    <string msgid="6302613495483136852" name="remote_setup_tv_unable_to_configure_try_again">"Proovi uuesti"</string>
+    <string msgid="3284401175722431348" name="remote_setup_tv_works_choice_exit">"Vii hiljem lõpule"</string>
+    <string msgid="4592512199517822882" name="remote_setup_tv_works_choice_no">"Ei, see ei toimi"</string>
+    <string msgid="4845224377319634589" name="remote_setup_tv_works_choice_yes">"Jah, see toimib"</string>
+    <string msgid="1450743243355011188" name="remote_setup_welcome_message_choice_learn_more">"Lisateave"</string>
+    <string msgid="4512130141361047728" name="remote_setup_welcome_message_choice_no">"Mitte praegu"</string>
+    <string msgid="5685232858099010013" name="remote_setup_welcome_message_choice_yes">"Seadista seda"</string>
+    <string msgid="9134446428396720516" name="remote_setup_welcome_message_description">"Kaugjuhtimispult suudab juhtida teleri ja AV-vastuvõtja toidet, sisendi vahetamist ning helitugevust"</string>
+    <string msgid="3193005012448600181" name="remote_setup_welcome_message_hint">"Saate seda hiljem muuta jaotises Seaded"</string>
+    <string msgid="1210344689909782196" name="remote_volume_control_avr">"AV-vastuvõtja"</string>
+    <string msgid="1709266463890271158" name="remote_volume_control_description">"Millist seadet peaks teie kaugjuhtimispuldi helitugevuseklahvid juhtima?"</string>
+    <string msgid="3974235951312948896" name="remote_volume_control_more_info">"Lisateave"</string>
+    <string msgid="42790796387499754" name="remote_volume_control_title">"Helitugevuse reguleerimine"</string>
+    <string msgid="8238742772961949484" name="remote_volume_control_tv">"Teler"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Tühista"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Väljas"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Sees"</string>
+    <string msgid="8305193430921797241" name="setup_ir">"Kaugjuhtimispuldi seadistamine"</string>
+    <string msgid="115806286404235523" name="tv_brand_selection_title">"Valige teleri bränd"</string>
+    <string msgid="269543338100774333" name="verify_av_receiver_works_title">"Proovige järele"</string>
+    <string msgid="5746428972280536169" name="verify_av_receiver_works_title_second">"Kuidas nüüd?"</string>
+    <string msgid="3032439000825004562" name="verify_tv_works_title">"Proovige järele"</string>
+    <string msgid="385858407975452465" name="verify_tv_works_title_second">"Kuidas nüüd?"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Ühendamine õnnestus!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Sisestage võrgu <ns1:g id="SSID">%1$s</ns1:g> parool"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Liitumine võrguga ^1"</string>
+</resources>

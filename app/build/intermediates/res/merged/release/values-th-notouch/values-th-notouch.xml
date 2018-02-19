@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"ห้องนั่งเล่น"</item>
+    <item msgid="7887185726776968055">"ห้องเล่นสื่อ"</item>
+    <item msgid="372573326176756144">"ห้องสำหรับทั้งครอบครัว"</item>
+    <item msgid="8112576067079559786">"ห้องรับประทานอาหาร"</item>
+    <item msgid="2891751328917513846">"ห้องส่วนตัว"</item>
+    <item msgid="7390608863950443962">"ห้องนอน"</item>
+    <item msgid="682313511953895794">"ห้องครัว"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"ไม่มีบัญชีใดในปัจจุบันที่จัดเก็บข้อมูลสำรองไว้"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"ต้องการหยุดการสำรองข้อมูลรหัสผ่าน WiFi, บุ๊กมาร์ก, การตั้งค่าอื่นๆ และข้อมูลในแอป และลบสำเนาทั้งหมดในเซิร์ฟเวอร์ของ Google ไหม"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"เปลี่ยน"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"ลบข้อมูลส่วนบุคคลและแอปที่ดาวน์โหลดทั้งหมดหรือไม่ คุณไม่สามารถย้อนกลับการทำงานนี้ได้!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"ลบทุกอย่าง"</string>
+    <string msgid="5972936200641815527" name="custom_room">"ป้อนชื่อที่กำหนดเอง…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"ล้างแคช"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"ล้างข้อมูล"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"ข้อมูลทั้งหมดของแอปนี้จะถูกลบอย่างถาวร"</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"ข้อมูลดังกล่าวรวมถึงไฟล์ การตั้งค่า บัญชี ฐานข้อมูล เป็นต้น"</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"ล้างค่าเริ่มต้น"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"ไม่ได้ตั้งค่าเริ่มต้น"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"ตั้งค่าเพื่อเปิดใช้แอปนี้ในการทำงานบางส่วน"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"บังคับให้หยุด"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"หากคุณบังคับปิดแอป อาจทำให้การทำงานผิดพลาดได้"</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"การแจ้งเตือน"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"เปิด"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"การอนุญาต"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"ถอนการติดตั้ง"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"คุณต้องการถอนการติดตั้งแอปนี้หรือไม่"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"เวอร์ชัน <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"ไม่มี"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"เข้าสู่โหมดสลีปเมื่อใด"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"หน้าจอจะดับลงหลังจากไม่มีการใช้งานระยะหนึ่ง"</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> หลังจากเดย์ดรีมทำงาน"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"เดย์ดรีม"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"เดย์ดรีมเมื่อใด"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"เดย์ดรีมจะเริ่มขึ้นหลังจากไม่มีการใช้งานตามช่วงเวลานี้ หากไม่ได้เลือกค่าใด จอแสดงผลจะปิดลง"</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"หลังจากไม่ได้ใช้งานเป็นเวลา <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"เริ่มเลย"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"ปิดทั้งหมด"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"เมื่อเปิดใช้ การแจ้งเตือนใหม่ๆ จะปรากฏเฉพาะในการตั้งค่า"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"ห้ามรบกวน"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"การดำเนินการนี้จะลบข้อมูลทั้งหมดจากที่เก็บข้อมูลภายในของอุปกรณ์ ได้แก่ บัญชี Google, การตั้งค่าและข้อมูลระบบและแอป และแอปที่ดาวน์โหลด"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"รีเซ็ตอุปกรณ์"</string>
+    <string msgid="549230720820096102" name="keep_settings">"ไม่เปลี่ยน"</string>
+    <string msgid="2164687828212723531" name="menu_help">"ความช่วยเหลือ"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"ไม่มี"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"คืนค่าอัตโนมัติ"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"บัญชีข้อมูลสำรอง"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"สำรองข้อมูลของฉัน"</string>
+    <string msgid="4080602542483519716" name="select_description">"ชื่อจะช่วยระบุ ^1 ของคุณเมื่อเข้าถึงจากอุปกรณ์อื่นๆ เช่น โทรศัพท์ แท็บเล็ต หรือคอมพิวเตอร์"</string>
+    <string msgid="2657901623249723536" name="select_title">"เลือกชื่อสำหรับ ^1 ของคุณ"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"ยกเลิก"</string>
+    <string msgid="4439170658516725721" name="settings_off">"ปิด"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"ตกลง"</string>
+    <string msgid="1295064657786011878" name="settings_on">"เปิด"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" เป็นชื่อของ ^2 นี้ คุณต้องการเปลี่ยนชื่อไหม"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"ตั้งชื่อ ^1 แล้ว"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"ลองอีกครั้ง"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"เกิดข้อผิดพลาด"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"เชื่อมต่อสำเร็จ!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"ป้อนรหัสผ่านสำหรับ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"บันทึกสำเร็จแล้ว!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"กำลังเข้าร่วม ^1"</string>
+</resources>

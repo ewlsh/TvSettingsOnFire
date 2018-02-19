@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/drawable-v21/lb_selectable_item_rounded_rect.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/drawable-v21/lb_card_foreground.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/drawable-v21/lb_action_bg.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-v21/lb_action_bg.xml"
+    }
+]

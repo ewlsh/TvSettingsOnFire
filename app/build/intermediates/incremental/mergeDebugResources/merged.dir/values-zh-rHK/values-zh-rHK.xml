@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="account_detail_settings">
+    <item msgid="2736778804563540468">"名稱"</item>
+    <item msgid="6466271488216028049">"相片"</item>
+    <item msgid="5763918836533170723">"安全性"</item>
+    <item msgid="5219275476980441834">"Google 電子錢包"</item>
+    <item msgid="5333563881963545303">"購買記錄"</item>
+    <item msgid="6174147587962184914">"移除帳戶"</item>
+  </string-array>
+    <string-array name="ampm">
+    <item msgid="4375405926289364989">"上午"</item>
+    <item msgid="4802437431289555052">"下午"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+    <item msgid="6966595852691619795">"關閉動畫"</item>
+    <item msgid="1302400121783768928">"動畫比例 .5x"</item>
+    <item msgid="9088460595137551270">"動畫比例 1x"</item>
+    <item msgid="5640745580399155880">"動畫比例 1.5x"</item>
+    <item msgid="3320199023884342141">"動畫比例 2x"</item>
+    <item msgid="5620232666163371843">"動畫比例 5x"</item>
+    <item msgid="8580701701183364590">"動畫比例 10x"</item>
+  </string-array>
+    <string-array name="app_process_limit_entries">
+    <item msgid="9052853079905663082">"標準限制"</item>
+    <item msgid="6534728802931195545">"無背景處理程序"</item>
+    <item msgid="290172167371846384">"最多 1 個處理程序"</item>
+    <item msgid="4818593824413771192">"最多 2 個處理程序"</item>
+    <item msgid="8337569181800165433">"最多 3 個處理程序"</item>
+    <item msgid="8261219565766202947">"最多 4 個處理程序"</item>
+  </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="5333047169042840730">"無"</item>
+    <item msgid="7663488423233018922">"外框"</item>
+    <item msgid="7891048730741670843">"陰影"</item>
+    <item msgid="6613725572146700438">"外凸"</item>
+    <item msgid="1007736533206905292">"內凹"</item>
+  </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4304493614734189861">"非常小"</item>
+    <item msgid="1694402928400844023">"小"</item>
+    <item msgid="1235495470844109970">"標準"</item>
+    <item msgid="481223375568095790">"大"</item>
+    <item msgid="8614563351231073075">"非常大"</item>
+  </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7311196539184412021">"25%"</item>
+    <item msgid="4609292560884303243">"50%"</item>
+    <item msgid="1626485489418859846">"75%"</item>
+    <item msgid="1811192455405034366">"100%"</item>
+  </string-array>
+    <string-array name="captioning_preset_selector_titles">
+    <item msgid="7937747884375690010">"黑底白字"</item>
+    <item msgid="5187532965364561774">"白底黑字"</item>
+    <item msgid="7275908232441066633">"黑底黃字"</item>
+    <item msgid="3907210401785295669">"藍底黃字"</item>
+    <item msgid="7050475937183962123">"自訂"</item>
+  </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+    <item msgid="4410581208185456276">"預設"</item>
+    <item msgid="9033306684422202101">"Sans-serif"</item>
+    <item msgid="1864985245839120339">"Sans-serif condensed"</item>
+    <item msgid="2707402752636362906">"Sans-serif 等寬字型"</item>
+    <item msgid="4549910217342216388">"Serif"</item>
+    <item msgid="4764344884232052861">"Serif 等寬字型"</item>
+    <item msgid="8561996903323025702">"行書"</item>
+    <item msgid="8403638572764467550">"草書"</item>
+    <item msgid="5560655268137500927">"小楷"</item>
+  </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+    <item msgid="6733816499120044964">"關閉"</item>
+    <item msgid="8974325215258674273">"顯示透支區域"</item>
+    <item msgid="5877416885028854162">"顯示透支計數器"</item>
+  </string-array>
+    <string-array name="enable_opengl_traces_entries">
+    <item msgid="7803412455089800607">"無"</item>
+    <item msgid="1284340221135955876">"Logcat"</item>
+    <item msgid="5054298948370382226">"Systrace (圖片)"</item>
+    <item msgid="6650537879885155020">"調用 glGetError 堆疊"</item>
+  </string-array>
+    <string-array name="hdcp_checking_summaries">
+    <item msgid="28682351350387246">"永不"</item>
+    <item msgid="5583820743908145007">"針對 DRM 內容"</item>
+    <item msgid="6148080515126921450">"永遠"</item>
+  </string-array>
+    <string-array name="hdmi_optimization_entries">
+    <item msgid="3490064566563023094">"最佳解像度"</item>
+    <item msgid="8319005042985738916">"最佳畫面速率"</item>
+  </string-array>
+    <string-array name="playback_rate">
+    <item msgid="2256013827330361362">"-32x"</item>
+    <item msgid="8015022487770548480">"-16x"</item>
+    <item msgid="6059574568244647874">"-8x"</item>
+    <item msgid="2843793773083341043">"-4x"</item>
+    <item msgid="9116032734624497341">"-2x"</item>
+    <item msgid="8985811210531660085">"2x"</item>
+    <item msgid="8446986380658461054">"4x"</item>
+    <item msgid="8690234526777393881">"8x"</item>
+    <item msgid="5018600639704774041">"16x"</item>
+    <item msgid="1207415094508824492">"32x"</item>
+  </string-array>
+    <string-array name="screen_off_timeout_entries">
+    <item msgid="8244337465472020927">"30 分鐘"</item>
+    <item msgid="1001586019759702505">"1 小時"</item>
+    <item msgid="5216959047515554188">"3 小時"</item>
+    <item msgid="4152882798140628647">"6 小時"</item>
+    <item msgid="412984226950404956">"12 小時"</item>
+    <item msgid="2178434662173258997">"永不"</item>
+  </string-array>
+    <string-array name="sleep_timeout_entries">
+    <item msgid="1213527366819650274">"5 分鐘"</item>
+    <item msgid="3695675702735844029">"10 分鐘"</item>
+    <item msgid="5742541267966746817">"15 分鐘"</item>
+    <item msgid="4333958225402992378">"30 分鐘"</item>
+    <item msgid="3103819305854192542">"1 小時"</item>
+  </string-array>
+    <string-array name="track_frame_time_entries">
+    <item msgid="3161533682947406047">"關閉"</item>
+    <item msgid="6446688182396957172">"在屏幕上顯示為列"</item>
+    <item msgid="9080500692341488612">"在「adb shell dumpsys gfxinfo」指令中"</item>
+  </string-array>
+    <string-array name="transition_animation_scale_entries">
+    <item msgid="5604755386232556553">"關閉動畫"</item>
+    <item msgid="5578331490208019526">"動畫比例 .5x"</item>
+    <item msgid="5338802612080069593">"動畫比例 1x"</item>
+    <item msgid="1309704285131661878">"動畫比例 1.5x"</item>
+    <item msgid="5654221040036850960">"動畫比例 2x"</item>
+    <item msgid="6092484055733043622">"動畫比例 5x"</item>
+    <item msgid="4049359393103906268">"動畫比例 10x"</item>
+  </string-array>
+    <string-array name="tts_rate_entries">
+    <item msgid="6425501867101281228">"極慢"</item>
+    <item msgid="3458529225374884970">"慢"</item>
+    <item msgid="4131204219571166311">"一般"</item>
+    <item msgid="786682416218616624">"快"</item>
+    <item msgid="1708844147149066133">"極快"</item>
+  </string-array>
+    <string-array name="wifi_signal_strength">
+    <item msgid="6926038943588801452">"差"</item>
+    <item msgid="5986166866411161790">"一般"</item>
+    <item msgid="7541004325985469896">"佳"</item>
+    <item msgid="1546771355788926692">"優"</item>
+  </string-array>
+    <string-array name="wifi_status">
+    <item msgid="6120109946893037801"/>
+    <item msgid="5210943529756743284">"正在掃瞄..."</item>
+    <item msgid="7895190850044173217">"正在連線..."</item>
+    <item msgid="7589307602609991992">"正在認證…"</item>
+    <item msgid="7439429469102224627">"正在取得 IP 位址…"</item>
+    <item msgid="7079865889809010740">"已連線"</item>
+    <item msgid="8018480471737227053">"已暫停"</item>
+    <item msgid="9110004131358099530">"正在中斷連線..."</item>
+    <item msgid="2366780999250675263">"已中斷連線"</item>
+    <item msgid="944848437579938960">"不成功"</item>
+    <item msgid="6501589509838730555">"已封鎖"</item>
+    <item msgid="1877062378387320625">"目前正暫時避開欠佳的連線"</item>
+  </string-array>
+    <string-array name="wifi_status_with_ssid">
+    <item msgid="8339598300796362026"/>
+    <item msgid="4703591207522320165">"正在掃瞄..."</item>
+    <item msgid="7351421574703844779">"正在連線至 <ns1:g id="NETWORK_NAME">%1$s</ns1:g>…"</item>
+    <item msgid="874502389678205660">"正在取得 <ns1:g id="NETWORK_NAME">%1$s</ns1:g> 的授權…"</item>
+    <item msgid="7964187733783647040">"正在從 <ns1:g id="NETWORK_NAME">%1$s</ns1:g> 取得 IP 位址..."</item>
+    <item msgid="4990222034464002805">"已連線至 <ns1:g id="NETWORK_NAME">%1$s</ns1:g>"</item>
+    <item msgid="5347651564202902346">"已暫停"</item>
+    <item msgid="4812777464932254477">"正在中斷 <ns1:g id="NETWORK_NAME">%1$s</ns1:g> 的連線…"</item>
+    <item msgid="4985746712759777559">"已中斷連線"</item>
+    <item msgid="6482743140170037710">"不成功"</item>
+    <item msgid="7486075980265993798">"已封鎖"</item>
+    <item msgid="6842213039083339420">"目前正暫時避開欠佳的連線"</item>
+  </string-array>
+    <string-array name="window_animation_scale_entries">
+    <item msgid="258143468897415016">"關閉動畫"</item>
+    <item msgid="5618283113978106483">"動畫比例 .5x"</item>
+    <item msgid="397451685490290179">"動畫比例 1x"</item>
+    <item msgid="6331600473492644688">"動畫比例 1.5x"</item>
+    <item msgid="7004952449777104295">"動畫比例 2x"</item>
+    <item msgid="1063528777234221038">"動畫比例 5x"</item>
+    <item msgid="6926378938392529339">"動畫比例 10x"</item>
+  </string-array>
+    <plurals name="inputs_header_connected_input">
+    <item msgid="5569334300062609355" quantity="one">"已連線的輸入裝置"</item>
+    <item msgid="280747600882155182" quantity="other">"已連線的輸入裝置"</item>
+  </plurals>
+    <plurals name="inputs_header_disconnected_input">
+    <item msgid="4711426139459946065" quantity="one">"未連線的輸入裝置"</item>
+    <item msgid="4526893384805247472" quantity="other">"未連線的輸入裝置"</item>
+  </plurals>
+    <plurals name="inputs_header_standby_input">
+    <item msgid="737206065869471978" quantity="one">"待機輸入裝置"</item>
+    <item msgid="1673538341842385592" quantity="other">"待機輸入裝置"</item>
+  </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+    <item msgid="5114936540577834412" quantity="one">"允許 1 個應用程式"</item>
+    <item msgid="5242661864373721262" quantity="other">"允許 %d 個應用程式"</item>
+  </plurals>
+    <plurals name="show_dev_countdown">
+    <item msgid="5656331074727404150" quantity="one">"只剩餘 <ns1:g id="STEP_COUNT">%1$d</ns1:g> 個步驟，完成後您就能成為開發人員"</item>
+    <item msgid="6907126743472136795" quantity="other">"只剩餘 <ns1:g id="STEP_COUNT">%1$d</ns1:g> 個步驟，完成後您就能成為開發人員"</item>
+  </plurals>
+    <string msgid="1769540499832401944" name="about_additional_terms">"查看附加條款"</string>
+    <string msgid="3364786994943748337" name="about_ads">"廣告"</string>
+    <string msgid="9148789767199785676" name="about_build">"版本"</string>
+    <string msgid="8511870741437307531" name="about_legal_info">"法律資訊"</string>
+    <string msgid="7867205982113209033" name="about_legal_license">"開放原始碼授權"</string>
+    <string msgid="8522566562321418498" name="about_license_activity_unavailable">"無法提供授權資料"</string>
+    <string msgid="6625269442206323995" name="about_model">"模型"</string>
+    <string msgid="4131396784531360434" name="about_preference">"關於"</string>
+    <string msgid="7104996228479152643" name="about_privacy_policy">"查看私隱權政策"</string>
+    <string msgid="2723560490027171187" name="about_serial">"序號"</string>
+    <string msgid="7282772247661356586" name="about_system_update">"系統更新"</string>
+    <string msgid="3025043473995690659" name="about_terms_of_service">"查看服務條款"</string>
+    <string msgid="1177287676732287266" name="about_version">"版本"</string>
+    <string msgid="5736003473060436384" name="about_warranty">"保用"</string>
+    <string msgid="6133896463407851079" name="accessibility_captions">"字幕"</string>
+    <string msgid="4290317621720499628" name="accessibility_captions_description">"影片隱藏式字幕文字重疊設定"</string>
+    <string msgid="3441648940134070004" name="accessibility_none">"無"</string>
+    <string msgid="322888335240595695" name="accessibility_service_settings">"服務設定"</string>
+    <string msgid="1347802656349218830" name="accessories_add">"新增配件"</string>
+    <string msgid="5892952745770640383" name="accessories_add_bluetooth_inst">"配對藍牙裝置前，請確認裝置處於配對模式"</string>
+    <string msgid="3900633668371061399" name="accessories_add_multiple">"如要選擇其他裝置，請按此裝置上的 [配對] 按鈕"</string>
+    <string msgid="3696794187001405647" name="accessories_add_multiple_select">"如要與所選的裝置配對，請按住此裝置上的 [配對] 按鈕 5 秒"</string>
+    <string msgid="6940361421891873321" name="accessories_add_title">"正在搜尋配件…"</string>
+    <string msgid="8455249961819802466" name="accessories_add_title_multiple">"找到多部裝置"</string>
+    <string msgid="8618829246837821752" name="accessories_autopair_msg">"已找到一部裝置，其將於 <ns1:g id="COUNTDOWN">%1$s</ns1:g> 秒後自動配對"</string>
+    <string msgid="503302832375993697" name="accessories_camera">"相機"</string>
+    <string msgid="2188138914890229082" name="accessories_remote">"遙控器"</string>
+    <string msgid="3115459158860792046" name="accessories_remote_list_title">"遙控器資料：<ns1:g id="SERIALNUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1107690327150126038" name="accessories_wifi_display">"Wi-Fi 顯示裝置"</string>
+    <string msgid="4779506305656453262" name="accessories_wifi_display_enable">"Wi-Fi 顯示"</string>
+    <string msgid="3242645267864813273" name="accessories_wifi_display_pin_required">"必須輸入 PIN"</string>
+    <string msgid="7416728299196887186" name="accessories_wifi_display_rename_device">"重新命名"</string>
+    <string msgid="2156489304110030393" name="accessory_connected">"已連線"</string>
+    <string msgid="4799658564005710297" name="accessory_options">"配件"</string>
+    <string msgid="3250766501262581206" name="accessory_rename">"重新命名"</string>
+    <string msgid="4419328837733619447" name="accessory_state_canceled">"已取消"</string>
+    <string msgid="8777884957977608529" name="accessory_state_connecting">"正在連線…"</string>
+    <string msgid="4529815543328841909" name="accessory_state_error">"無法配對"</string>
+    <string msgid="1959238931866401476" name="accessory_state_paired">"已配對"</string>
+    <string msgid="7501989679637780963" name="accessory_state_pairing">"正在配對…"</string>
+    <string msgid="8242725516604465355" name="accessory_unpair">"解除配對"</string>
+    <string msgid="7568241162181184667" name="accessory_unpairing">"正在解除配對裝置…"</string>
+    <string msgid="3288957118207682685" name="account_header_remove_account">"移除帳戶"</string>
+    <string msgid="2679585471372319471" name="account_header_sync">"同步處理"</string>
+    <string msgid="4313580520737295272" name="account_remove">"移除帳戶"</string>
+    <string msgid="980654375770693544" name="account_remove_failed">"無法移除帳戶"</string>
+    <string msgid="773808124331714965" name="account_sync">"選擇已同步的應用程式"</string>
+    <string msgid="4364261457368041502" name="action_off_description">"關閉"</string>
+    <string msgid="3157728958166559966" name="action_off_title">"關閉"</string>
+    <string msgid="4559342592998850852" name="action_on_description">"開啟"</string>
+    <string msgid="6852389884236870765" name="action_on_title">"開啟"</string>
+    <string msgid="4098060223200619258" name="add_account">"新增帳戶"</string>
+    <string msgid="7950769159839284068" name="add_account_button_label">"新增帳戶"</string>
+    <string msgid="2074883912462075625" name="add_network">"新增網絡"</string>
+    <string msgid="1235622082275451350" name="agree">"同意"</string>
+    <string msgid="1057645533268907906" name="alwaysUseOption">"每次都使用"</string>
+    <string msgid="7128459989232213727" name="alwaysUseQuestion">"每次都使用這個應用程式執行此操作？"</string>
+    <string msgid="6818309827329010677" name="app_not_supported_in_limited">"這個應用程式不支援限制存取的個人檔案"</string>
+    <string msgid="1967195038085624916" name="app_sees_restricted_accounts">"這個應用程式可以存取您的帳戶"</string>
+    <string msgid="4222190849854323480" name="apps_downloaded">"已下載的應用程式"</string>
+    <string msgid="6430310491739956228" name="apps_running">"執行中的應用程式"</string>
+    <string msgid="2499191125802829425" name="apps_system">"系統應用程式"</string>
+    <string msgid="4152153558528588479" name="bluetooth_cancel">"取消"</string>
+    <string msgid="7031117992819855434" name="bluetooth_confirm_passkey_msg">"如要與 &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b> 配對，請確認此裝置正顯示以下密碼金鑰：&lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b>"</string>
+    <string msgid="8951451728250058901" name="bluetooth_display_passkey_pin_msg">"如要與「&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>」配對，&lt;br>請在裝置上輸入：&lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b>，然後按 Return 鍵或 Enter 鍵。"</string>
+    <string msgid="7980787196089653577" name="bluetooth_enter_passkey_msg">"如要與「&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>」配對，&lt;br>請輸入裝置要求的密鑰："</string>
+    <string msgid="7443458826667686394" name="bluetooth_enter_pin_msg">"如要與「&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>」配對，&lt;br>請輸入裝置要求的 PIN："</string>
+    <string msgid="8234127565393932499" name="bluetooth_incoming_pairing_msg">"來自：&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>&lt;br>要與這部裝置配對嗎？"</string>
+    <string msgid="7836818609620478122" name="bluetooth_pair">"配對"</string>
+    <string msgid="4523088117471287665" name="bluetooth_pairing_request">"藍牙配對要求"</string>
+    <string msgid="2319900367581543300" name="bluetooth_pin_values_hint">"通常是 0000 或 1234"</string>
+    <string msgid="72080729155950127" name="captioning_preview_text">"字幕將會是這樣："</string>
+    <string msgid="448518890988125453" name="captions_backgroundcolor">"背景顏色"</string>
+    <string msgid="2643722493273126220" name="captions_backgroundopacity">"背景透明度"</string>
+    <string msgid="7423638523487868230" name="captions_captionstyle">"字幕樣式"</string>
+    <string msgid="5537548915977371014" name="captions_configure">"設定"</string>
+    <string msgid="2699780648112330911" name="captions_customoptions">"自訂選項"</string>
+    <string msgid="735692527287125548" name="captions_display">"顯示"</string>
+    <string msgid="496953007835201523" name="captions_display_off">"關閉"</string>
+    <string msgid="1989009878719500520" name="captions_display_on">"開啟"</string>
+    <string msgid="845125757332620884" name="captions_edgecolor">"邊緣顏色"</string>
+    <string msgid="841331274533086103" name="captions_edgetype">"邊緣類型"</string>
+    <string msgid="6840670778173003604" name="captions_fontfamily">"字型系列"</string>
+    <string msgid="3291057448460880449" name="captions_lanaguage">"語言"</string>
+    <string msgid="3233568269335050287" name="captions_textcolor">"文字顏色"</string>
+    <string msgid="5536765490446288641" name="captions_textopacity">"文字透明度"</string>
+    <string msgid="4828195509546070971" name="captions_textsize">"文字大小"</string>
+    <string msgid="8986165172260903279" name="captions_windowcolor">"視窗顏色"</string>
+    <string msgid="2784473496224936703" name="captions_windowopacity">"視窗透明度"</string>
+    <string msgid="6672090823838639972" name="choose_account_title">"選擇帳戶"</string>
+    <string msgid="34004552592079689" name="choose_account_type_title">"選擇帳戶類型"</string>
+    <string msgid="8804213372565106403" name="color_black">"黑色"</string>
+    <string msgid="6761708560115194175" name="color_blue">"藍色"</string>
+    <string msgid="796226330055745" name="color_cyan">"洋青色"</string>
+    <string msgid="5637299846460438696" name="color_gray">"灰色"</string>
+    <string msgid="3745551274773976763" name="color_green">"綠色"</string>
+    <string msgid="6395786485839439122" name="color_magenta">"洋紅色"</string>
+    <string msgid="5281446963475996688" name="color_none">"無"</string>
+    <string msgid="5630553203246525989" name="color_red">"紅色"</string>
+    <string msgid="65537523012024751" name="color_white">"白色"</string>
+    <string msgid="1023390829879874964" name="color_yellow">"黃色"</string>
+    <string msgid="2955133568424704042" name="computing_size">"正在計算..."</string>
+    <string msgid="7563100162902079938" name="connected">"已連線"</string>
+    <string msgid="2858199826425132228" name="connectivity_advanced_options">"進階選項"</string>
+    <string msgid="370129113175689226" name="connectivity_advanced_options_description">"<ns1:g id="SSID_0">%1$s</ns1:g>，<ns1:g id="SSID_1">%2$s</ns1:g>"</string>
+    <string msgid="2182407318634700320" name="connectivity_ethernet">"以太網"</string>
+    <string msgid="8321537111272398501" name="connectivity_network">"網絡"</string>
+    <string msgid="489974791299647708" name="connectivity_wifi">"Wi-Fi"</string>
+    <string msgid="7882269975674640060" name="date_separator">"/"</string>
+    <string msgid="4142806827237093397" name="delete_location_history_desc">"這會刪除您透過這部裝置儲存在這個 Google 帳戶中的所有位置記錄，一旦刪除即無法復原。部分應用程式會因此停止運作，包括「Google 即時資訊」在內。"</string>
+    <string msgid="5804802702252280549" name="delete_location_history_title">"刪除位置記錄"</string>
+    <string msgid="6997571927680580633" name="desc_auto_date_time">"使用網絡提供的時間"</string>
+    <string msgid="7187242843867404657" name="desc_configure_keyboard">"鍵盤選項"</string>
+    <string msgid="9180435229638772838" name="device_apps">"應用程式"</string>
+    <string msgid="5627523987587511884" name="device_backup_restore">"備份與還原"</string>
+    <string msgid="8632962533376605191" name="device_calibration">"校正"</string>
+    <string msgid="4933581408059561077" name="device_daydream">"Daydream"</string>
+    <string msgid="101455384386372747" name="device_display">"顯示"</string>
+    <string msgid="2670488158531273028" name="device_name">"裝置名稱"</string>
+    <string msgid="2827002349560023125" name="device_reset">"恢復原廠設定"</string>
+    <string msgid="7793281745920228622" name="device_sound_effects">"系統音效"</string>
+    <string msgid="5536683600091277826" name="device_storage">"儲存設備"</string>
+    <string msgid="1425978936501134425" name="device_storage_reset">"儲存空間與重設"</string>
+    <string msgid="5536822848499568335" name="dhcp">"DHCP"</string>
+    <string msgid="9170636026862400981" name="disagree">"不同意"</string>
+    <string msgid="5504549024985225774" name="display_options">"顯示選項"</string>
+    <string msgid="300552308104354666" name="error_action_not_supported">"不支援此操作"</string>
+    <string msgid="2467496590891949814" name="gateway">"閘道"</string>
+    <string msgid="3382840371861269146" name="google_location_services_title">"Google 定位服務"</string>
+    <string msgid="823295909353025991" name="header_category_accessories">"遙控器和配件"</string>
+    <string msgid="4855983928659541345" name="header_category_device">"裝置"</string>
+    <string msgid="8893959635328775096" name="header_category_personal">"個人"</string>
+    <string msgid="175105555164713972" name="header_category_preferences">"偏好設定"</string>
+    <string msgid="3243287334177831637" name="header_category_system">"系統"</string>
+    <string msgid="5704676433978730340" name="inputs_aux">"Aux"</string>
+    <string msgid="3843526039402969407" name="inputs_blu_ray">"藍光"</string>
+    <string msgid="9081641596942038538" name="inputs_cable">"有線電視"</string>
+    <string msgid="8403155117662874704" name="inputs_cec_settings">"裝置控制設定"</string>
+    <string msgid="5584925321693432362" name="inputs_custom_name">"自訂名稱"</string>
+    <string msgid="374036983231176581" name="inputs_custom_title">"自訂名稱："</string>
+    <string msgid="7510049770946999285" name="inputs_device_auto_off">"自動關閉裝置電源"</string>
+    <string msgid="2679638131351116942" name="inputs_device_auto_off_desc">"透過電視關閉 HDMI 裝置電源"</string>
+    <string msgid="602486238850738828" name="inputs_dvd">"DVD"</string>
+    <string msgid="1114086481110094757" name="inputs_game">"遊戲主機"</string>
+    <string msgid="2462240356665628563" name="inputs_hdmi_control">"HDMI 控制項"</string>
+    <string msgid="2300590479729796132" name="inputs_hdmi_control_desc">"允許電視控制 HDMI 裝置"</string>
+    <string msgid="3701104827756278489" name="inputs_header_cec">"客戶電子控制 (CEC)"</string>
+    <string msgid="1575971556150395486" name="inputs_hide">"已隱藏"</string>
+    <string msgid="8172670556559886526" name="inputs_hide_desc">"切換輸入裝置時不顯示"</string>
+    <string msgid="4249080110281833521" name="inputs_inputs">"輸入"</string>
+    <string msgid="2463661081264605403" name="inputs_state_connected">"已連線"</string>
+    <string msgid="2861557722523733817" name="inputs_state_connected_standby">"待機"</string>
+    <string msgid="558532410057350104" name="inputs_state_disconnected">"已中斷連線"</string>
+    <string msgid="2627932269256793797" name="inputs_tv_auto_on">"自動開啟電視電源"</string>
+    <string msgid="7658625130577708249" name="inputs_tv_auto_on_desc">"透過 HDMI 裝置開啟電視電源"</string>
+    <string msgid="6051458702672920102" name="justOnceOption">"只此一次"</string>
+    <string msgid="6178494892357077274" name="last_synced">"上次同步處理時間：<ns1:g id="TIME">%1s</ns1:g>"</string>
+    <string msgid="5107150533945388559" name="launcher_network_app_name">"網絡"</string>
+    <string msgid="671448012575234643" name="launcher_restricted_profile_app_name">"限制存取的個人檔案"</string>
+    <string msgid="5782771766725939392" name="launcher_settings_app_name">"設定"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"繼續"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"完成"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"導覽選單"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"下一頁"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"開始使用"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"停用字幕"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"啟用字幕"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"向前快轉"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"快轉 %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"停用高畫質"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"啟用高畫質"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"更多動作"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"暫停"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"進入「畫中畫模式」"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"播放"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"重複播放所有媒體項目"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"不重複播放"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"重複播放一個媒體項目"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"向後倒轉"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"倒帶 %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"停用隨機播放"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"啟用隨機播放"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"移至下一個媒體項目"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"移至上一個媒體項目"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"取消選取不喜歡"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"選取不喜歡"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"取消選取喜歡"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"選取喜歡"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"搜尋"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"使用語音搜尋"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"搜尋「<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>」"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"使用語音搜尋「<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>」"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string msgid="3437903422445812245" name="location_category_recent_location_requests">"最近的定位要求"</string>
+    <string msgid="576143332793626088" name="location_high_battery_use">"高電池用量"</string>
+    <string msgid="2946680949724247804" name="location_history">"位置記錄"</string>
+    <string msgid="3861249867748294369" name="location_history_desc">"啟用此帳戶的位置記錄後，Google 就能儲存裝置的位置資料，以供您的應用程式使用。\n\n例如，「Google 地圖」能為您規劃路線，而「Google 即時資訊」能為您提供交通資訊。\n\n您隨時可以關閉位置記錄，但系統不會因此刪除記錄內容。如要查看及管理您的位置記錄，請瀏覽 maps.google.com/locationhistory。"</string>
+    <string msgid="5756040390248358148" name="location_low_battery_use">"低電池用量"</string>
+    <string msgid="6573195849329396150" name="location_mode_title">"模式"</string>
+    <string msgid="2778774510654527264" name="location_mode_wifi_description">"使用 Wi-Fi 確定約略的位置"</string>
+    <string msgid="4218851908476344030" name="location_no_recent_apps">"最近沒有應用程式要求存取位置資料"</string>
+    <string msgid="3054236612250063073" name="location_reporting">"位置報告"</string>
+    <string msgid="6256424995139430823" name="location_reporting_desc">"Google 將在「Google 即時資訊」和「Google 地圖」等產品使用這項功能。啟用「位置報告」功能後，任何使用這項功能的 Google 產品，均可透過連結的 Google 帳戶儲存及使用裝置最近的位置資料。"</string>
+    <string msgid="5441085185119797200" name="location_services">"定位服務"</string>
+    <string msgid="3456414279428237558" name="location_status">"位置狀態"</string>
+    <string msgid="7600163182794860262" name="location_title">"我的位置"</string>
+    <string msgid="7653487431810593891" name="network_ssid">"網絡 SSID"</string>
+    <string msgid="4197983402774959346" name="noApplications">"沒有應用程式可執行此操作。"</string>
+    <string msgid="5663180241276177314" name="noAppsGoBack">"返回"</string>
+    <string msgid="1746564297589309465" name="no_application">"無"</string>
+    <string msgid="4118071594685269322" name="normal_date_format">"本地 (<ns1:g id="DATE">%s</ns1:g>)"</string>
+    <string msgid="6858480380326923017" name="not_connected">"未連線"</string>
+    <string msgid="5264189545064767245" name="off">"關閉"</string>
+    <string msgid="6683600681314500652" name="on">"開啟"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"搜尋動作"</string>
+    <string msgid="3539704463099544488" name="other_network">"其他網絡…"</string>
+    <string msgid="1322790875762726719" name="password">"密碼"</string>
+    <string msgid="5541414789309863965" name="pin_button_cancel">"取消"</string>
+    <string msgid="939191809977197451" name="pin_button_done">"完成"</string>
+    <string msgid="1510456697040826496" name="pin_enter_again">"重新輸入新 PIN"</string>
+    <string msgid="4788218421265924211" name="pin_enter_new_pin">"設定新 PIN"</string>
+    <string msgid="851029058127630869" name="pin_enter_old_pin">"輸入舊 PIN"</string>
+    <string msgid="821552376577935497" name="pin_enter_pin">"輸入 PIN"</string>
+    <string msgid="5980400420298506069" name="pin_enter_unlock_channel">"輸入 PIN 即可觀看這個頻道"</string>
+    <string msgid="52453773316071511" name="pin_enter_unlock_program">"輸入 PIN 即可觀看這個節目"</string>
+    <string msgid="5653864140710683928" name="pin_enter_wrong">"您已輸入 5 次錯誤的 PIN。\n請於 <ns1:g id="RELATIVE_TIME_SPAN">%1$s</ns1:g>再試一次。"</string>
+    <string msgid="5886041789737632996" name="pin_toast_not_match">"PIN 不符，請再試一次"</string>
+    <string msgid="4628358195224633248" name="pin_toast_wrong">"PIN 錯誤，請再試一次"</string>
+    <string msgid="4428793978424303244" name="proxy_error_empty_host_set_port">"如果主機欄位沒有內容，請將連接埠欄位留空"</string>
+    <string msgid="6835658067776408062" name="proxy_error_empty_port">"連接埠欄位不可留空"</string>
+    <string msgid="4921547051724987804" name="proxy_error_invalid_exclusion_list">"排除清單無效，請輸入要排除的網域清單 (以逗號分隔)。"</string>
+    <string msgid="3660415920668138953" name="proxy_error_invalid_host">"主機名稱無效"</string>
+    <string msgid="1434922103959603993" name="proxy_error_invalid_port">"連接埠無效"</string>
+    <string msgid="86175095050438325" name="proxy_exclusionlist_hint">"請輸入要排除的網域清單 (以半形逗號分隔) 或留空。\n範例：example.com,mycomp.test.com,localhost"</string>
+    <string msgid="3719688422767210803" name="proxy_hostname_hint">"請輸入有效的主機名稱。\n範例：proxy.example.com"</string>
+    <string msgid="8532733797275927007" name="proxy_port_hint">"請輸入有效的通訊埠。\n範例：8080"</string>
+    <string msgid="6160239282535986523" name="proxy_warning_limited_support">"瀏覽器使用了 HTTP Proxy，但其他應用程式可能不支援 HTTP Proxy"</string>
+    <string msgid="8221482127562510757" name="rename_device">"重新命名裝置"</string>
+    <string msgid="2903829140619950232" name="restricted_profile_allowed">"允許"</string>
+    <string msgid="2848537651211816659" name="restricted_profile_change_password_title">"變更 PIN 碼"</string>
+    <string msgid="5269477581791409700" name="restricted_profile_configure_apps_description_loading">"請稍候…"</string>
+    <string msgid="11507255932348492" name="restricted_profile_configure_apps_title">"允許的應用程式"</string>
+    <string msgid="4684188123147519620" name="restricted_profile_configure_title">"設定"</string>
+    <string msgid="5749967525546068650" name="restricted_profile_confirm_password">"確認要離開受限制的個人檔案時需使用的 PIN 碼"</string>
+    <string msgid="7081117593480952518" name="restricted_profile_create">"建立受限使用者"</string>
+    <string msgid="8418415019078825537" name="restricted_profile_customize_restrictions">"自訂限制"</string>
+    <string msgid="2998929625283492853" name="restricted_profile_delete_dialog_title">"移除受限使用者？"</string>
+    <string msgid="3445944923018324707" name="restricted_profile_delete_title">"刪除受限制的個人檔案"</string>
+    <string msgid="5961473119032585585" name="restricted_profile_enter_password">"輸入 PIN 碼以離開受限制的個人檔案"</string>
+    <string msgid="1622620680118897330" name="restricted_profile_not_allowed">"不允許"</string>
+    <string msgid="3989154189940037175" name="restricted_profile_set_password">"設定要離開受限制的個人檔案時需使用的新 PIN 碼"</string>
+    <string msgid="1893784095623209495" name="restricted_profile_switch_out">"離開受限制的個人檔案"</string>
+    <string msgid="1926433350907032138" name="restricted_profile_switch_to">"進入受限制的個人檔案"</string>
+    <string msgid="3104855945910233028" name="restriction_description">"<ns1:g id="DESCRIPTION">%1$s</ns1:g>\n<ns1:g id="VALUE">%2$s</ns1:g>"</string>
+    <string msgid="4195349388342385870" name="restriction_location_enable_summary">"允許應用程式使用您的位置資訊"</string>
+    <string msgid="2575116135395354938" name="restriction_location_enable_title">"地點"</string>
+    <string msgid="5474988613144349415" name="search_title">"搜尋"</string>
+    <string msgid="524443802004143058" name="security_type">"安全性類型"</string>
+    <string msgid="7167350583097191925" name="security_unknown_sources_confirm_desc">"您的裝置和個人資料較易受到來歷不明的應用程式入侵。如因使用這些應用程式而導致裝置受損或資料遺失，您同意負上全責。"</string>
+    <string msgid="7197053279914817124" name="security_unknown_sources_desc">"允許安裝「Play 商店」以外的來源所提供的應用程式"</string>
+    <string msgid="769762478057744545" name="security_unknown_sources_title">"不明來源"</string>
+    <string msgid="1456317893117818733" name="security_verify_apps_desc">"不允許安裝可能造成損壞的應用程式，或在安裝前顯示警告"</string>
+    <string msgid="5787946958632254988" name="security_verify_apps_title">"驗證應用程式"</string>
+    <string msgid="4243616485579754401" name="settings_app_name">"設定"</string>
+    <string msgid="7525967300421794483" name="show_dev_already">"不用了，您已經是開發人員"</string>
+    <string msgid="8997172736024819952" name="show_dev_on">"您現已成為開發人員！"</string>
+    <string msgid="6380260543776712357" name="skip_network">"略過"</string>
+    <string msgid="4366049071039081219" name="storage_apps_usage">"應用程式"</string>
+    <string msgid="1241005580092138871" name="storage_available">"可用空間"</string>
+    <string msgid="2644732407412520565" name="storage_calculating_size">"計算中…"</string>
+    <string msgid="2977564696540645452" name="storage_dcim_usage">"相片和影片"</string>
+    <string msgid="6172975879962599380" name="storage_downloads_usage">"下載"</string>
+    <string msgid="5906737163212649904" name="storage_media_cache_usage">"快取資料"</string>
+    <string msgid="6066868724030127457" name="storage_media_misc_usage">"其他"</string>
+    <string msgid="3509327591741514083" name="storage_music_usage">"音訊"</string>
+    <string msgid="8958530823208352781" name="storage_size">"空間總量：<ns1:g id="TOTAL_SPACE">%1$s</ns1:g>"</string>
+    <string msgid="2132026108559493394" name="storage_title">"儲存空間"</string>
+    <string msgid="5839264070098894371" name="sync_cancel">"取消同步處理"</string>
+    <string msgid="3089360175872892781" name="sync_disabled">"已停用"</string>
+    <string msgid="1330721038775646022" name="sync_in_progress">"正在同步…"</string>
+    <string msgid="8229476000384257186" name="sync_is_failing">"同步處理目前無法運作，但將於短時間內恢復。"</string>
+    <string msgid="8732244492880016471" name="sync_now">"立即同步處理"</string>
+    <string msgid="6215431399759498005" name="system_accessibility">"協助工具"</string>
+    <string msgid="3216531917536720277" name="system_accessibility_config">"設定"</string>
+    <string msgid="6714782635926048678" name="system_accessibility_service_off_confirm_desc">"若選取 [確定]，「<ns1:g id="SERVICE">%1$s</ns1:g>」就會關閉。"</string>
+    <string msgid="963297812889694832" name="system_accessibility_service_off_confirm_title">"關閉「<ns1:g id="SERVICE">%1$s</ns1:g>」？"</string>
+    <string msgid="1102358356500113060" name="system_accessibility_service_on_confirm_desc">"除了密碼之外，「<ns1:g id="SERVICE">%1$s</ns1:g>」可收集您輸入的所有文字，包括信用卡號碼等個人資料。"</string>
+    <string msgid="8200707259067035823" name="system_accessibility_service_on_confirm_title">"使用「<ns1:g id="SERVICE">%1$s</ns1:g>」？"</string>
+    <string msgid="4389074529913575327" name="system_accessibility_status">"狀態"</string>
+    <string msgid="8905477795536714590" name="system_accessibility_tts_output">"文字轉語音"</string>
+    <string msgid="3635672039775772910" name="system_allow_mock_locations">"允許模擬位置"</string>
+    <string msgid="1866566828098009853" name="system_always_check">"一律檢查"</string>
+    <string msgid="7413512458963984521" name="system_animator_duration_scale">"Animator 片長比例"</string>
+    <string msgid="6293850468968494924" name="system_apps">"應用程式"</string>
+    <string msgid="3629668599205033272" name="system_auto_date_time">"自動設定日期和時間"</string>
+    <string msgid="7921766877363771436" name="system_background_process_limit">"背景處理程序限制"</string>
+    <string msgid="6622796686823406402" name="system_backup_password">"備份密碼"</string>
+    <string msgid="2425757846046504431" name="system_bt_hci_log">"藍牙 HCI 記錄"</string>
+    <string msgid="6421567823845207156" name="system_cast">"Google 投放"</string>
+    <string msgid="8716366734950874267" name="system_check_for_drm_content_only">"僅檢查 DRM 內容"</string>
+    <string msgid="7690908744371594279" name="system_choose_date_format">"選擇日期格式"</string>
+    <string msgid="5923988155158351543" name="system_collecting_bug_report">"正在收集錯誤報告！\n報告預備好後，我們會請您提供更多資料。"</string>
+    <string msgid="1396108342854067722" name="system_collecting_bug_report_error">"無法收集錯誤報告！\n請稍後再試。"</string>
+    <string msgid="2767108116769558081" name="system_date">"日期"</string>
+    <string msgid="8898457978560618950" name="system_date_time">"日期和時間"</string>
+    <string msgid="7204447785851191331" name="system_debugging">"偵錯"</string>
+    <string msgid="6454962099870874762" name="system_desc_backup_password">"保護桌面完整備份"</string>
+    <string msgid="4219265203570411773" name="system_desc_bt_hci_log">"啟用藍牙 HCI 窺探記錄"</string>
+    <string msgid="6879753401058891183" name="system_desc_hdcp_checking">"僅使用 DRM 內容"</string>
+    <string msgid="4400727262768931480" name="system_desc_hdmi_optimization">"優化顯示設定以達到最高解像度或最佳畫面速率。這只會影響 Ultra HD 高畫質顯示。變更這項設定後，裝置將重新啟動。"</string>
+    <string msgid="4243551425631207495" name="system_desc_location">"允許經您許可的應用程式使用您的位置資料"</string>
+    <string msgid="3394374680078903193" name="system_desc_network_location">"讓 Google 協助應用程式確定位置，即必需將匿名位置資料傳送給 Google (不論應用程式是否正在執行)。"</string>
+    <string msgid="3929125496258579850" name="system_desc_network_location_confirm">"允許 Google 的定位服務收集匿名位置資料，有些資料可能會儲存在您的裝置中。即使裝置並未執行任何應用程式，仍可能會收集這些資料。"</string>
+    <string msgid="2836283129486718887" name="system_desc_profile_gpu_rendering">"量度「adb shell dumpsys gfxinfo」指令中的轉譯時間"</string>
+    <string msgid="1367498732529710136" name="system_desc_reboot_confirm">"裝置必須重新啟動才能更新這項設定"</string>
+    <string msgid="6151280238151381703" name="system_desc_show_cpu_usage">"在屏幕上重疊顯示目前的 CPU 使用量"</string>
+    <string msgid="8204945204510618865" name="system_desc_show_gpu_overdraw">"由最好至最差：藍色、綠色、淺紅色、紅色"</string>
+    <string msgid="8045162296029336710" name="system_desc_show_gpu_view_updates">"使用 GPU 繪圖時，在視窗中閃動畫面"</string>
+    <string msgid="642854466995400529" name="system_desc_show_hardware_layer">"更新硬件層時閃綠燈"</string>
+    <string msgid="3449386884226708985" name="system_desc_show_layout_bounds">"顯示剪輯範圍、邊界等"</string>
+    <string msgid="8177734845253807688" name="system_desc_show_surface_updates">"更新視窗表層時閃動整個表層"</string>
+    <string msgid="229588006508356238" name="system_desc_stay_awake">"停用休眠功能"</string>
+    <string msgid="4647420860235689510" name="system_desc_strict_mode_enabled">"當應用程式在主執行緒中進行長時間作業時，讓屏幕閃爍"</string>
+    <string msgid="1627218971851223147" name="system_desc_take_bug_report">"將報告傳送至電郵地址"</string>
+    <string msgid="5168830368191788731" name="system_desc_usb_debugging">"連接 USB 時進入偵錯模式"</string>
+    <string msgid="6722973410408262393" name="system_desc_verify_apps_over_usb">"透過 ADB/ADT 檢查安裝的應用程式有否有害的行為"</string>
+    <string msgid="2342968959255039368" name="system_desc_wait_for_debugger">"在執行已偵錯的應用程式前，先等候附加偵錯程式"</string>
+    <string msgid="1559904751873455868" name="system_desc_wifi_verbose_logging">"啟用 Wi‑Fi 詳細記錄"</string>
+    <string msgid="3237985523474863638" name="system_developer_options">"開發人員選項"</string>
+    <string msgid="7906911077198718958" name="system_dont_keep_activities">"不要保留活動"</string>
+    <string msgid="6573389872154957039" name="system_drawing">"繪圖"</string>
+    <string msgid="8669468986250302378" name="system_email_address">"電郵地址"</string>
+    <string msgid="4038210655699986482" name="system_enable_traces">"啟用追蹤"</string>
+    <string msgid="3535958631591158282" name="system_general">"一般"</string>
+    <string msgid="8470793875143334320" name="system_hdcp_checking">"HDCP 檢查"</string>
+    <string msgid="9120919064234265144" name="system_hdmi_optimization">"HDMI 優化"</string>
+    <string msgid="6164987320529039626" name="system_input">"輸入"</string>
+    <string msgid="2413907183796651102" name="system_inputs">"輸入"</string>
+    <string msgid="8920883886563714355" name="system_install_voice_data">"安裝語音資料"</string>
+    <string msgid="7680159735294672514" name="system_keyboard">"鍵盤"</string>
+    <string msgid="2337138146114609247" name="system_language">"語言"</string>
+    <string msgid="502463575930545806" name="system_location">"位置"</string>
+    <string msgid="8424072546138094053" name="system_monitoring">"監控"</string>
+    <string msgid="3095006393148731886" name="system_network_location">"Wi-Fi 網絡位置"</string>
+    <string msgid="8435144328428634060" name="system_network_location_confirm">"同意記錄位置資料"</string>
+    <string msgid="6666520460705041617" name="system_never_check">"不要檢查"</string>
+    <string msgid="7187293932891811148" name="system_play_sample">"播放範例"</string>
+    <string msgid="2673764026490179227" name="system_pointer_location">"指標位置"</string>
+    <string msgid="8258210139854655567" name="system_preferred_engine">"首選引擎"</string>
+    <string msgid="3438771015102629799" name="system_profile_gpu_rendering">"分析 GPU 轉譯"</string>
+    <string msgid="534407910866199191" name="system_reboot_confirm">"要立即重新啟動嗎？"</string>
+    <string msgid="2837264654143247611" name="system_search">"搜尋"</string>
+    <string msgid="4190058778883258927" name="system_security">"安全性和限制"</string>
+    <string msgid="8592021815119618485" name="system_select_debug_app">"選取除錯應用程式"</string>
+    <string msgid="7230571820151215779" name="system_services">"服務"</string>
+    <string msgid="2437586307768561116" name="system_set_date">"設定日期"</string>
+    <string msgid="4661804115501057452" name="system_set_time">"設定時間"</string>
+    <string msgid="4447882066895090612" name="system_set_time_format">"使用 24 小時制"</string>
+    <string msgid="8239601932757697259" name="system_set_time_zone">"設定時區"</string>
+    <string msgid="3601183436857424712" name="system_show_all_anrs">"顯示所有 ANR"</string>
+    <string msgid="4797599582027671138" name="system_show_cpu_usage">"顯示 CPU 使用量"</string>
+    <string msgid="707861254106800199" name="system_show_gpu_overdraw">"顯示 GPU 透支"</string>
+    <string msgid="7936280271091152459" name="system_show_gpu_view_updates">"顯示 GPU 畫面更新"</string>
+    <string msgid="7301942527058509453" name="system_show_hardware_layer">"顯示硬件層"</string>
+    <string msgid="645732439882291943" name="system_show_layout_bounds">"顯示版面界限"</string>
+    <string msgid="8878834675712192327" name="system_show_surface_updates">"顯示表層更新"</string>
+    <string msgid="2179121368437801757" name="system_show_touches">"顯示觸控回應"</string>
+    <string msgid="5264650214879185873" name="system_speak_passwords">"朗讀密碼"</string>
+    <string msgid="8128688499687306982" name="system_speech">"語音"</string>
+    <string msgid="8099856582088545576" name="system_speech_rate">"語音速率"</string>
+    <string msgid="1212296404230848490" name="system_stay_awake">"保持啟用"</string>
+    <string msgid="5728680397806673270" name="system_strict_mode_enabled">"嚴格模式已啟用"</string>
+    <string msgid="3550575498907672342" name="system_take_bug_report">"取得錯誤報告"</string>
+    <string msgid="6726022312605226285" name="system_time">"時間"</string>
+    <string msgid="2964817709721784757" name="system_transition_animation_scale">"轉場動畫比例"</string>
+    <string msgid="3777895294421924323" name="system_usb_debugging">"USB 偵錯"</string>
+    <string msgid="7340861918835270609" name="system_verify_apps_over_usb">"透過 USB 驗證應用程式"</string>
+    <string msgid="4007354935701089555" name="system_wait_for_debugger">"等待除錯程式"</string>
+    <string msgid="3474525355071613242" name="system_wifi_verbose_logging">"Wi-Fi 詳細記錄"</string>
+    <string msgid="3213952676672537856" name="system_window_animation_scale">"視窗動畫比例"</string>
+    <string msgid="3785289190730642093" name="text_obfuscation_toggle_caption">"隱藏密碼"</string>
+    <string msgid="4089136801976399147" name="third_party_location_services_title">"第三方定位服務"</string>
+    <string msgid="7760859333083008983" name="time_separator">":"</string>
+    <string msgid="4846143417666038604" name="title_cancel">"取消"</string>
+    <string msgid="6929522003149212388" name="title_configure">"設定"</string>
+    <string msgid="4259032357469819835" name="title_current_keyboard">"目前的鍵盤"</string>
+    <string msgid="1513875539231931892" name="title_dns_1">"DNS 1"</string>
+    <string msgid="7805767982172685879" name="title_dns_2">"DNS 2"</string>
+    <string msgid="8710084774588697646" name="title_internet_connection">"互聯網連線"</string>
+    <string msgid="4533523100923004711" name="title_ip_address">"IP 位址"</string>
+    <string msgid="6408399523925189065" name="title_ip_settings">"IP 設定"</string>
+    <string msgid="3428401680168668544" name="title_mac_address">"MAC 位址"</string>
+    <string msgid="3222416880787889272" name="title_network_prefix_length">"網絡前置字元長度"</string>
+    <string msgid="1021329453788761592" name="title_ok">"確定"</string>
+    <string msgid="1038871400014761952" name="title_select_wifi_network">"選取 Wi-Fi 網絡"</string>
+    <string msgid="205478650262078041" name="title_signal_strength">"訊號強度"</string>
+    <string msgid="4858945903642469730" name="title_ssid">"輸入 Wi-Fi 網絡名稱"</string>
+    <string msgid="6690544371649264526" name="title_static">"靜態"</string>
+    <string msgid="1202798409060082670" name="title_test_connection">"測試連線"</string>
+    <string msgid="5389467736846644832" name="title_wifi_advanced_options">"設定 <ns1:g id="SSID">%1$s</ns1:g> Proxy 和 IP 設定？"</string>
+    <string msgid="9080004548419447580" name="title_wifi_could_not_connect">"無法連線至 <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="328274688839033015" name="title_wifi_could_not_connect_ap_reject">"Wi-Fi 網絡不接受連線"</string>
+    <string msgid="4836595650380723944" name="title_wifi_could_not_connect_authentication_failure">"Wi-Fi 密碼無效"</string>
+    <string msgid="5158184646985406394" name="title_wifi_could_not_connect_timeout">"找不到 <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="708638317882707069" name="title_wifi_could_not_save">"無法儲存 <ns1:g id="SSID">%1$s</ns1:g> 的設定"</string>
+    <string msgid="8202712852864206601" name="title_wifi_dns1">"DNS 1："</string>
+    <string msgid="2673986973918499478" name="title_wifi_dns2">"DNS 2："</string>
+    <string msgid="7210935277165358134" name="title_wifi_gateway">"閘道："</string>
+    <string msgid="1176502993805009566" name="title_wifi_ip_address">"IP 位址："</string>
+    <string msgid="1176973848286865602" name="title_wifi_ip_settings">"IP 設定"</string>
+    <string msgid="7228948551397955678" name="title_wifi_ip_settings_invalid">"IP 設定無效"</string>
+    <string msgid="819998498700202436" name="title_wifi_known_network">"<ns1:g id="SSID">%1$s</ns1:g> 是已儲存的網絡"</string>
+    <string msgid="4821632382990582038" name="title_wifi_network_prefix_length">"網絡前置字元長度："</string>
+    <string msgid="7127675763248224969" name="title_wifi_no_networks_available">"正在掃瞄…"</string>
+    <string msgid="4522775396659538614" name="title_wifi_proxy_bypass">"略過以下 Proxy："</string>
+    <string msgid="4655634673840885248" name="title_wifi_proxy_hostname">"Proxy 主機名稱："</string>
+    <string msgid="9194893429116021337" name="title_wifi_proxy_port">"Proxy 通訊埠："</string>
+    <string msgid="7728120764469991303" name="title_wifi_proxy_settings">"Proxy 設定"</string>
+    <string msgid="7380479044141040849" name="title_wifi_proxy_settings_invalid">"Proxy 設定無效"</string>
+    <string msgid="2946168478936086933" name="user_add_profile_item_summary">"限制透過您的帳戶存取應用程式和其他內容"</string>
+    <string msgid="336521054830056189" name="user_new_profile_name">"限制存取的個人檔案"</string>
+    <string msgid="2107349341393761750" name="user_restrictions_controlled_by">"由 <ns1:g id="APP">%1$s</ns1:g> 控制"</string>
+    <string msgid="8317193312532216351" name="user_restrictions_title">"應用程式和內容存取權"</string>
+    <string msgid="8382179653567099571" name="whichApplication">"完成操作的應用程式"</string>
+    <string msgid="8165601242122651326" name="wifi_action_advanced_no">"否 (建議)"</string>
+    <string msgid="8615353318560146504" name="wifi_action_advanced_options_description">"<ns1:g id="PROXY_SETTINGS_SUMMARY">%1$s</ns1:g>；<ns1:g id="IP_SETTINGS_SUMMARY">%2$s</ns1:g>"</string>
+    <string msgid="3242132674399983503" name="wifi_action_advanced_options_title">"進階選項"</string>
+    <string msgid="8586473568311558982" name="wifi_action_advanced_yes">"確定"</string>
+    <string msgid="5196215981075986148" name="wifi_action_change_network">"變更"</string>
+    <string msgid="6338911832360962268" name="wifi_action_dhcp">"DHCP"</string>
+    <string msgid="1449920958930251977" name="wifi_action_dont_change_network">"不要變更"</string>
+    <string msgid="5932500664228395779" name="wifi_action_ok">"確定"</string>
+    <string msgid="8402002777441261064" name="wifi_action_proxy_manual">"手動"</string>
+    <string msgid="4457231399674182650" name="wifi_action_proxy_none">"無"</string>
+    <string msgid="4673786410274206843" name="wifi_action_save">"儲存"</string>
+    <string msgid="1025855501453321749" name="wifi_action_static">"靜態"</string>
+    <string msgid="7664354971197839253" name="wifi_action_status_info">"狀態資料"</string>
+    <string msgid="3308643222864163092" name="wifi_action_try_again">"重試"</string>
+    <string msgid="560074338908947419" name="wifi_action_view_available_networks">"查看可用的網絡"</string>
+    <string msgid="8570424816865506077" name="wifi_connect">"連線"</string>
+    <string msgid="1299861268647323455" name="wifi_connecting">"正在連線至 <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="5100439885010143290" name="wifi_disabled_generic">"已停用"</string>
+    <string msgid="7558613087615078317" name="wifi_disabled_network_failure">"已避免欠佳的互聯網連線"</string>
+    <string msgid="1318626812163574372" name="wifi_disabled_password_failure">"認證問題"</string>
+    <string msgid="214345156394229347" name="wifi_dns1_hint">"請輸入有效的 IP 位址或留空。\n範例：8.8.8.8"</string>
+    <string msgid="1075709328208368894" name="wifi_dns2_hint">"請輸入有效的 IP 位址或留空。\n範例：8.8.4.4"</string>
+    <string msgid="7302755141573045803" name="wifi_forget_network">"刪除網絡"</string>
+    <string msgid="3328285160018330334" name="wifi_forget_network_description">"用於連接此網絡的資料將被清除，包括已儲存的密碼"</string>
+    <string msgid="7687219682024189028" name="wifi_gateway_hint">"請輸入有效的 IP 位址或留空。\n例如：192.168.1.1"</string>
+    <string msgid="1895267564692073689" name="wifi_ip_address_hint">"請輸入有效的 IP 位址。\n範例：192.168.1.128"</string>
+    <string msgid="6172189835428184828" name="wifi_ip_settings_invalid_dns">"請輸入有效的 DNS 位址"</string>
+    <string msgid="3292444764474145026" name="wifi_ip_settings_invalid_gateway">"請輸入有效的閘道位址"</string>
+    <string msgid="5228247770505105107" name="wifi_ip_settings_invalid_ip_address">"請輸入有效的 IP 位址"</string>
+    <string msgid="6209978918929182270" name="wifi_ip_settings_invalid_network_prefix_length">"請輸入介乎 0 至 32 之間的網絡前置字元長度"</string>
+    <string msgid="332915798888599682" name="wifi_network_prefix_length_hint">"請輸入有效的網絡前置字元長度。\n範例：24"</string>
+    <string msgid="342867509887486418" name="wifi_not_in_range">"超出可用範圍"</string>
+    <string msgid="710973813096194477" name="wifi_remembered">"已儲存"</string>
+    <string msgid="1269061570772019215" name="wifi_saving">"正在儲存 <ns1:g id="SSID">%1$s</ns1:g> 的設定"</string>
+    <string msgid="9147292132572887175" name="wifi_secured_first_item">"透過 <ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g> 加密保護"</string>
+    <string msgid="4204734116810783051" name="wifi_secured_second_item">"，透過 <ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g> 加密保護"</string>
+    <string msgid="1241101191574932821" name="wifi_security_none">"無"</string>
+    <string msgid="1106303698253987745" name="wifi_security_type_eap">"802.1x EAP"</string>
+    <string msgid="6622722325237471927" name="wifi_security_type_none">"無"</string>
+    <string msgid="3836879161029325671" name="wifi_security_type_wep">"WEP"</string>
+    <string msgid="4948411057925876780" name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
+    <string msgid="1244646604369133314" name="wifi_setting_available_networks">"可用的網絡"</string>
+    <string msgid="6244107218643835636" name="wifi_setting_header_available_networks">"Wi-Fi"</string>
+    <string msgid="1530334691232749342" name="wifi_setting_header_other_options">"其他選項"</string>
+    <string msgid="2791106243851894788" name="wifi_setting_other_options_add_network">"新增網絡"</string>
+    <string msgid="2320322351779996152" name="wifi_setting_other_options_wps">"透過 WPS 連線"</string>
+    <string msgid="3217814666041974878" name="wifi_setting_see_all">"顯示全部"</string>
+    <string msgid="7583498018733069053" name="wifi_summary_description_connected_to_wifi_network">"已連接 <ns1:g id="SSID">%1$s</ns1:g>。要連接至其他網絡嗎？"</string>
+    <string msgid="8329216588732277139" name="wifi_summary_title_connected">"已連接網絡"</string>
+    <string msgid="3799548944869386251" name="wifi_summary_title_not_connected">"未連接網絡"</string>
+    <string msgid="7903601448928422642" name="wifi_summary_unknown_network">"未知的網絡"</string>
+    <string msgid="2505782834128907733" name="wifi_wps_available_first_item">"有 WPS 可供使用"</string>
+    <string msgid="375469856423243587" name="wifi_wps_available_second_item">" (有 WPS 可供使用)"</string>
+    <string msgid="3562470978552920877" name="wifi_wps_cancel_scan">"取消"</string>
+    <string msgid="8934636373182298397" name="wifi_wps_failed_generic">"未能找到 Wi-Fi 路由器"</string>
+    <string msgid="3091222818050940041" name="wifi_wps_failed_overlap">"另一個 WPS 工作階段正在執行中，請在數分鐘後再試。"</string>
+    <string msgid="1712545345594227319" name="wifi_wps_failed_tkip">"不支援 Wi-Fi 路由器安全設定 (TKIP)"</string>
+    <string msgid="9158670824165143348" name="wifi_wps_failed_wep">"不支援 Wi-Fi 路由器安全設定 (WEP)"</string>
+    <string msgid="7082889465182680949" name="wifi_wps_in_progress">"WPS 已在執行，最多需時 2 分鐘就能完成"</string>
+    <string msgid="3618110962669110034" name="wifi_wps_instructions">"在路由器按下「Wi-Fi 保護設定」按鈕。\n該按鈕可能標示為「WPS」或左側標有此符號。"</string>
+    <string msgid="594985182235834825" name="wifi_wps_onstart_pin">"請在 Wi-Fi 路由器中輸入 PIN <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="4206001352944024353" name="wifi_wps_onstart_pin_description">"輸入 PIN 後，設定需時最多 2 分鐘"</string>
+    <string msgid="6171190323753080808" name="wifi_wps_retry_scan">"重試"</string>
+    <string msgid="1872305810119408482" name="wifi_wps_title">"正在搜尋 WPS 路由器…"</string>
+    <string msgid="1052148085426051873" name="wps_network">"透過 WPS 連線"</string>
+</resources>

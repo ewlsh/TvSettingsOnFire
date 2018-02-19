@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"បន្ទប់​ទទួល​ភ្ញៀវ"</item>
+    <item msgid="7887185726776968055">"បន្ទប់​​ព័ត៌មាន"</item>
+    <item msgid="372573326176756144">"បន្ទប់​គ្រួសារ"</item>
+    <item msgid="8112576067079559786">"បន្ទប់​​​អាហារ​ពេល​​ល្ងាច"</item>
+    <item msgid="2891751328917513846">"បន្ទប់​ធ្វើការ"</item>
+    <item msgid="7390608863950443962">"បន្ទប់​ដេក"</item>
+    <item msgid="682313511953895794">"ផ្ទះបាយ"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"បច្ចុប្បន្ន​ គ្មាន​គណនី​រក្សាទុក​ទិន្នន័យ​បម្រុង​ទុក​ទេ"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"ឈប់​បម្រុងទុក​ពាក្យ​សម្ងាត់​វ៉ាយហ្វាយ, ចំណាំ, ការ​កំណត់​ផ្សេងៗ និង​ទិន្នន័យ​កម្មវិធី​របស់​អ្នក រួ​ច​ហើយ​លុប​ច្បាប់​ចម្លង​ទាំងអស់​​ដែល​មាន​នៅ​លើ​ម៉ាស៊ីន​មេ Google មែន​ទេ?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"ផ្លាស់ប្ដូរ"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"លុប​ព័ត៌មាន​ផ្ទាល់ខ្លួន​របស់​អ្នក​ទាំងអស់ និង​កម្មវិធី​ដែល​បាន​​ទាញ​យក? អ្នក​មិន​អាច​​ត្រឡប់​សកម្មភាព​នេះ​វិញ​បាន​ទេ!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"លុប​​​ទាំងអស់"</string>
+    <string msgid="5972936200641815527" name="custom_room">"បញ្ចូល​ឈ្មោះ​​តាម​បំណង ..."</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"សម្អាត​ឃ្លាំង"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"សម្អាត​ទិន្នន័យ"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"ទិន្នន័យ​របស់​កម្មវិធី​នេះ​ទាំងអស់​នឹង​ត្រូវ​លុបចេញ​ជា​រៀង​រហូត។"</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"នេះ​រួមមាន​ឯកសារ​ ការ​កំណត់ គណនី មូលដ្ឋាន​ទិន្នន័យ​ទាំងអស់។ល។"</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"សម្អាត​លំនាំដើម"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"មិន​មាន​លំនាំដើម​បាន​កំណត់"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"កំណត់ដើម្បីចាប់ផ្ដើមកម្មវិធីសម្រាប់សកម្មភាពផ្សេងៗ"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"បង្ខំ​ឲ្យ​ឈប់"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"បើ​អ្នក​បង្ខំ​ឲ្យ​កម្មវិធី​ឈប់ វា​អាច​​ដំណើរ​មិន​ត្រឹមត្រូវ។"</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"ការ​ជូនដំណឹង"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"បើក"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"សិទ្ធិ​"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"លុប​ចេញ"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"តើ​អ្នក​ចង់​លុប​កម្មវិធី​នេះ​មែនទេ?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"កំណែ <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"គ្មាន"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"នៅ​ពេល​ដេក"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"​បិទ​អេក្រង់​បន្ទាប់ពី​រយៈ​ពេល​អសកម្ម​នេះ។"</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> បន្ទាប់​ពី​សុបិន"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"ស្រមើ​ស្រមៃ"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"នៅ​ពេល​​ស្រមើស្រមៃ"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"ការ​ស្រមើស្រមៃ​ចាប់ផ្ដើម​បន្ទាប់​ពី​ភាព​អសកម្ម​មួយ​រយៈ​នេះ។ ប្រសិនបើ​ មិន​ជ្រើស​ការ​ស្រមើស្រមៃ​ណា​មួយ​ទេ ការ​បង្ហាញ​នឹង​បិទ។"</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"បន្ទាប់​​ពី​ភាព​អសកម្ម​នៃ <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"ចាប់ផ្ដើម​ឥឡូវ"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"បោះបង់ចោល​ទាំងអស់"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"នៅ​ពេល​បាន​បើក​ដំណើរការ ការ​ជូន​ដំណឹង​ថ្មី​នឹង​​បង្ហាញ​តែ​នៅ​ក្នុង​ការ​កំណត់​ប៉ុណ្ណោះ"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"កុំ​រំខាន"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"នេះ​នឹង​លុប​ទិន្នន័យ​ទាំងអស់​ពី​កន្លែង​ផ្ទុក​ខាង​ក្នុង​នៃ​ឧបករណ៍​របស់​អ្នក រួម​មាន៖ គណនី Google, ប្រព័ន្ធ, ទិន្នន័យ​កម្មវិធី និង​ការ​កំណត់ ព្រមទាំង​​កម្មវិធី​ដែល​បាន​ទាញ​យក"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"កំណត់​ឧបករណ៍​ឡើង​វិញ"</string>
+    <string msgid="549230720820096102" name="keep_settings">"កុំ​ផ្លាស់ប្ដូរ"</string>
+    <string msgid="2164687828212723531" name="menu_help">"ជំនួយ"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"គ្មាន"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"ស្ដារ​ឡើង​វិញ​ស្វ័យ​ប្រវត្តិ"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"បម្រុង​ទុក​គណនី"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"បម្រុង​ទុក​ទិន្នន័យ​របស់​ខ្ញុំ"</string>
+    <string msgid="4080602542483519716" name="select_description">"ឈ្មោះ​នឹង​ជួយ​កំណត់​អត្ត​សញ្ញាណ​របស់​អ្នក ^1 ពេល​ចូល​ដំណើរការ​វា​ពី​ឧបករណ៍​ផ្សេង​ដូច​ជា​ទូរសព្ទ, កុំព្យូទ័រ​បន្ទះ ឬ​កុំព្យូទ័រ​របស់​អ្នក។"</string>
+    <string msgid="2657901623249723536" name="select_title">"ជ្រើស​ឈ្មោះ​សម្រាប់ ^1 របស់​អ្នក"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"បោះបង់"</string>
+    <string msgid="4439170658516725721" name="settings_off">"បិទ"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"យល់ព្រម"</string>
+    <string msgid="1295064657786011878" name="settings_on">"បើក"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" គឺ​ជា​ឈ្មោះ​របស់ ^2 នេះ។ តើ​អ្នក​ចង់​ប្ដូរ​វា?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"^1 នេះ​ត្រូវ​បាន​ដាក់ឈ្មោះ"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"ព្យាយាម​ម្ដងទៀត"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"កំហុស​មួយ​បាន​កើត​ឡើង"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"បាន​តភ្ជាប់​ដោយ​ជោគជ័យ​!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"បញ្ចូល​ពាក្យ​សម្ងាត់​សម្រាប់ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"បាន​រក្សា​ទុក​ដោយ​ជោគជ័យ​!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"ចូលរួម ^1"</string>
+</resources>

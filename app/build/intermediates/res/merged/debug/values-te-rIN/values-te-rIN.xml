@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="account_detail_settings">
+    <item msgid="2736778804563540468">"పేరు"</item>
+    <item msgid="6466271488216028049">"ఫోటో"</item>
+    <item msgid="5763918836533170723">"భద్రత"</item>
+    <item msgid="5219275476980441834">"Google Wallet"</item>
+    <item msgid="5333563881963545303">"కొనుగోలు చరిత్ర"</item>
+    <item msgid="6174147587962184914">"ఖాతాను తీసివేయి"</item>
+  </string-array>
+    <string-array name="ampm">
+    <item msgid="4375405926289364989">"AM"</item>
+    <item msgid="4802437431289555052">"PM"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+    <item msgid="6966595852691619795">"యానిమేషన్ ఆఫ్‌లో ఉంది"</item>
+    <item msgid="1302400121783768928">"యానిమేషన్ ప్రమాణం .5x"</item>
+    <item msgid="9088460595137551270">"యానిమేషన్ ప్రమాణం 1x"</item>
+    <item msgid="5640745580399155880">"యానిమేషన్ ప్రమాణం 1.5x"</item>
+    <item msgid="3320199023884342141">"యానిమేషన్ ప్రమాణం 2x"</item>
+    <item msgid="5620232666163371843">"యానిమేషన్ ప్రమాణం 5x"</item>
+    <item msgid="8580701701183364590">"యానిమేషన్ ప్రమాణం 10x"</item>
+  </string-array>
+    <string-array name="app_process_limit_entries">
+    <item msgid="9052853079905663082">"ప్రామాణిక పరిమితి"</item>
+    <item msgid="6534728802931195545">"నేపథ్య ప్రాసెస్‌లు లేవు"</item>
+    <item msgid="290172167371846384">"గరిష్టంగా 1 ప్రాసెస్"</item>
+    <item msgid="4818593824413771192">"గరిష్టంగా 2 ప్రాసెస్‌లు"</item>
+    <item msgid="8337569181800165433">"గరిష్టంగా 3 ప్రాసెస్‌లు"</item>
+    <item msgid="8261219565766202947">"గరిష్టంగా 4 ప్రాసెస్‌లు"</item>
+  </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="5333047169042840730">"ఏదీ వద్దు"</item>
+    <item msgid="7663488423233018922">"చుట్టుగీత"</item>
+    <item msgid="7891048730741670843">"నీడ ఉంచు"</item>
+    <item msgid="6613725572146700438">"పైకి ఉన్నట్లుగా"</item>
+    <item msgid="1007736533206905292">"క్రిందికి ఉన్నట్లుగా"</item>
+  </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4304493614734189861">"చాలా చిన్నది"</item>
+    <item msgid="1694402928400844023">"చిన్నది"</item>
+    <item msgid="1235495470844109970">"సాధారణం"</item>
+    <item msgid="481223375568095790">"పెద్దది"</item>
+    <item msgid="8614563351231073075">"చాలా పెద్దది"</item>
+  </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7311196539184412021">"25%"</item>
+    <item msgid="4609292560884303243">"50%"</item>
+    <item msgid="1626485489418859846">"75%"</item>
+    <item msgid="1811192455405034366">"100%"</item>
+  </string-array>
+    <string-array name="captioning_preset_selector_titles">
+    <item msgid="7937747884375690010">"నలుపు నేపథ్యంలో తెలుపు రంగు"</item>
+    <item msgid="5187532965364561774">"తెలుపు నేపథ్యంలో నలుపు రంగు"</item>
+    <item msgid="7275908232441066633">"నలుపు నేపథ్యంలో పసుపు రంగు"</item>
+    <item msgid="3907210401785295669">"నీలి నేపథ్యంలో పసుపు రంగు"</item>
+    <item msgid="7050475937183962123">"అనుకూలం"</item>
+  </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+    <item msgid="4410581208185456276">"డిఫాల్ట్"</item>
+    <item msgid="9033306684422202101">"Sans-serif"</item>
+    <item msgid="1864985245839120339">"Sans-serif సంక్షిప్తం"</item>
+    <item msgid="2707402752636362906">"Sans-serif మోనోస్పేస్"</item>
+    <item msgid="4549910217342216388">"Serif"</item>
+    <item msgid="4764344884232052861">"Serif మోనోస్పేస్"</item>
+    <item msgid="8561996903323025702">"సాధారణం"</item>
+    <item msgid="8403638572764467550">"కర్సివ్"</item>
+    <item msgid="5560655268137500927">"చిన్న క్యాపిటల్‌లు"</item>
+  </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+    <item msgid="6733816499120044964">"ఆఫ్ చేయి"</item>
+    <item msgid="8974325215258674273">"అతివ్యాప్త ప్రాంతాలను చూపు"</item>
+    <item msgid="5877416885028854162">"అతివ్యాప్త కౌంటర్‌ను చూపు"</item>
+  </string-array>
+    <string-array name="enable_opengl_traces_entries">
+    <item msgid="7803412455089800607">"ఏదీ వద్దు"</item>
+    <item msgid="1284340221135955876">"లాగ్‌క్యాట్"</item>
+    <item msgid="5054298948370382226">"సిస్‌ట్రేస్ (గ్రాఫిక్స్)"</item>
+    <item msgid="6650537879885155020">"glGetErrorలో స్టాక్‌ను కాల్ చేయండి"</item>
+  </string-array>
+    <string-array name="hdcp_checking_summaries">
+    <item msgid="28682351350387246">"ఎప్పటికీ వద్దు"</item>
+    <item msgid="5583820743908145007">"DRM కంటెంట్ కోసం"</item>
+    <item msgid="6148080515126921450">"ఎల్లప్పుడూ"</item>
+  </string-array>
+    <string-array name="hdmi_optimization_entries">
+    <item msgid="3490064566563023094">"ఉత్తమ రిజల్యూషన్"</item>
+    <item msgid="8319005042985738916">"ఉత్తమ ఫ్రేమ్‌రేట్"</item>
+  </string-array>
+    <string-array name="playback_rate">
+    <item msgid="2256013827330361362">"-32x"</item>
+    <item msgid="8015022487770548480">"-16x"</item>
+    <item msgid="6059574568244647874">"-8x"</item>
+    <item msgid="2843793773083341043">"-4x"</item>
+    <item msgid="9116032734624497341">"-2x"</item>
+    <item msgid="8985811210531660085">"2x"</item>
+    <item msgid="8446986380658461054">"4x"</item>
+    <item msgid="8690234526777393881">"8x"</item>
+    <item msgid="5018600639704774041">"16x"</item>
+    <item msgid="1207415094508824492">"32x"</item>
+  </string-array>
+    <string-array name="screen_off_timeout_entries">
+    <item msgid="8244337465472020927">"30 నిమిషాలు"</item>
+    <item msgid="1001586019759702505">"1 గంట"</item>
+    <item msgid="5216959047515554188">"3 గంటలు"</item>
+    <item msgid="4152882798140628647">"6 గంటలు"</item>
+    <item msgid="412984226950404956">"12 గంటలు"</item>
+    <item msgid="2178434662173258997">"ఎప్పటికీ వద్దు"</item>
+  </string-array>
+    <string-array name="sleep_timeout_entries">
+    <item msgid="1213527366819650274">"5 నిమిషాలు"</item>
+    <item msgid="3695675702735844029">"10 నిమిషాలు"</item>
+    <item msgid="5742541267966746817">"15 నిమిషాలు"</item>
+    <item msgid="4333958225402992378">"30 నిమిషాలు"</item>
+    <item msgid="3103819305854192542">"1 గంట"</item>
+  </string-array>
+    <string-array name="track_frame_time_entries">
+    <item msgid="3161533682947406047">"ఆఫ్ చేయి"</item>
+    <item msgid="6446688182396957172">"స్క్రీన్‌లో పట్టీలుగా"</item>
+    <item msgid="9080500692341488612">"adb shell dumpsys gfxinfoలో"</item>
+  </string-array>
+    <string-array name="transition_animation_scale_entries">
+    <item msgid="5604755386232556553">"యానిమేషన్ ఆఫ్‌లో ఉంది"</item>
+    <item msgid="5578331490208019526">"యానిమేషన్ ప్రమాణం .5x"</item>
+    <item msgid="5338802612080069593">"యానిమేషన్ ప్రమాణం 1x"</item>
+    <item msgid="1309704285131661878">"యానిమేషన్ ప్రమాణం 1.5x"</item>
+    <item msgid="5654221040036850960">"యానిమేషన్ ప్రమాణం 2x"</item>
+    <item msgid="6092484055733043622">"యానిమేషన్ ప్రమాణం 5x"</item>
+    <item msgid="4049359393103906268">"యానిమేషన్ ప్రమాణం 10x"</item>
+  </string-array>
+    <string-array name="tts_rate_entries">
+    <item msgid="6425501867101281228">"చాలా నెమ్మది"</item>
+    <item msgid="3458529225374884970">"నెమ్మది"</item>
+    <item msgid="4131204219571166311">"సాధారణం"</item>
+    <item msgid="786682416218616624">"వేగవంతం"</item>
+    <item msgid="1708844147149066133">"చాలా వేగవంతం"</item>
+  </string-array>
+    <string-array name="wifi_signal_strength">
+    <item msgid="6926038943588801452">"బలహీనం"</item>
+    <item msgid="5986166866411161790">"పర్వాలేదు"</item>
+    <item msgid="7541004325985469896">"బాగుంది"</item>
+    <item msgid="1546771355788926692">"అద్భుతం"</item>
+  </string-array>
+    <string-array name="wifi_status">
+    <item msgid="6120109946893037801"/>
+    <item msgid="5210943529756743284">"స్కాన్ చేస్తోంది…"</item>
+    <item msgid="7895190850044173217">"కనెక్ట్ అవుతోంది…"</item>
+    <item msgid="7589307602609991992">"ప్రామాణీకరిస్తోంది…"</item>
+    <item msgid="7439429469102224627">"IP చిరునామాను పొందుతోంది…"</item>
+    <item msgid="7079865889809010740">"కనెక్ట్ చేయబడింది"</item>
+    <item msgid="8018480471737227053">"తాత్కాలికంగా ఆపివేయబడింది"</item>
+    <item msgid="9110004131358099530">"డిస్‌కనెక్ట్ చేస్తోంది..."</item>
+    <item msgid="2366780999250675263">"డిస్‌కనెక్ట్ చేయబడింది"</item>
+    <item msgid="944848437579938960">"విఫలమైంది"</item>
+    <item msgid="6501589509838730555">"బ్లాక్ చేయబడింది"</item>
+    <item msgid="1877062378387320625">"బలహీన కనెక్షన్‌ను తాత్కాలికంగా నిరోధిస్తుంది"</item>
+  </string-array>
+    <string-array name="wifi_status_with_ssid">
+    <item msgid="8339598300796362026"/>
+    <item msgid="4703591207522320165">"స్కాన్ చేస్తోంది…"</item>
+    <item msgid="7351421574703844779">"<ns1:g id="NETWORK_NAME">%1$s</ns1:g>కి కనెక్ట్ అవుతోంది…"</item>
+    <item msgid="874502389678205660">"<ns1:g id="NETWORK_NAME">%1$s</ns1:g>తో ప్రామాణీకరిస్తోంది…"</item>
+    <item msgid="7964187733783647040">"<ns1:g id="NETWORK_NAME">%1$s</ns1:g> నుండి IP చిరునామాను పొందుతోంది…"</item>
+    <item msgid="4990222034464002805">"<ns1:g id="NETWORK_NAME">%1$s</ns1:g>కి కనెక్ట్ చేయబడింది"</item>
+    <item msgid="5347651564202902346">"తాత్కాలికంగా నిలిపివేయబడింది"</item>
+    <item msgid="4812777464932254477">"<ns1:g id="NETWORK_NAME">%1$s</ns1:g> నుండి డిస్‌కనెక్ట్ చేస్తోంది…"</item>
+    <item msgid="4985746712759777559">"డిస్‌కనెక్ట్ చేయబడింది"</item>
+    <item msgid="6482743140170037710">"విఫలమైంది"</item>
+    <item msgid="7486075980265993798">"బ్లాక్ చేయబడింది"</item>
+    <item msgid="6842213039083339420">"బలహీన కనెక్షన్‌ను తాత్కాలికంగా నిరోధిస్తుంది"</item>
+  </string-array>
+    <string-array name="window_animation_scale_entries">
+    <item msgid="258143468897415016">"యానిమేషన్ ఆఫ్‌లో ఉంది"</item>
+    <item msgid="5618283113978106483">"యానిమేషన్ ప్రమాణం .5x"</item>
+    <item msgid="397451685490290179">"యానిమేషన్ ప్రమాణం 1x"</item>
+    <item msgid="6331600473492644688">"యానిమేషన్ ప్రమాణం 1.5x"</item>
+    <item msgid="7004952449777104295">"యానిమేషన్ ప్రమాణం 2x"</item>
+    <item msgid="1063528777234221038">"యానిమేషన్ ప్రమాణం 5x"</item>
+    <item msgid="6926378938392529339">"యానిమేషన్ ప్రమాణం 10x"</item>
+  </string-array>
+    <plurals name="inputs_header_connected_input">
+    <item msgid="5569334300062609355" quantity="one">"కనెక్ట్ చేయబడిన ఇన్‌పుట్"</item>
+    <item msgid="280747600882155182" quantity="other">"కనెక్ట్ చేయబడిన ఇన్‌పుట్‌లు"</item>
+  </plurals>
+    <plurals name="inputs_header_disconnected_input">
+    <item msgid="4711426139459946065" quantity="one">"కనెక్ట్ చేయబడని ఇన్‌పుట్"</item>
+    <item msgid="4526893384805247472" quantity="other">"కనెక్ట్ చేయబడని ఇన్‌పుట్‌లు"</item>
+  </plurals>
+    <plurals name="inputs_header_standby_input">
+    <item msgid="737206065869471978" quantity="one">"స్టాండ్‌బై ఇన్‌పుట్"</item>
+    <item msgid="1673538341842385592" quantity="other">"స్టాండ్‌బై ఇన్‌పుట్‌లు"</item>
+  </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+    <item msgid="5114936540577834412" quantity="one">"1 అనువర్తనం అనుమతించబడింది"</item>
+    <item msgid="5242661864373721262" quantity="other">"%d అనువర్తనాలు అనుమతించబడ్డాయి"</item>
+  </plurals>
+    <plurals name="show_dev_countdown">
+    <item msgid="5656331074727404150" quantity="one">"మీరు ఇప్పుడు డెవలపర్‌గా కావడానికి <ns1:g id="STEP_COUNT">%1$d</ns1:g> దశ మాత్రమే మిగిలి ఉంది"</item>
+    <item msgid="6907126743472136795" quantity="other">"మీరు ఇప్పుడు డెవలపర్‌గా కావడానికి <ns1:g id="STEP_COUNT">%1$d</ns1:g> దశలు మాత్రమే మిగిలి ఉన్నాయి"</item>
+  </plurals>
+    <string msgid="1769540499832401944" name="about_additional_terms">"అదనపు నిబంధనలను వీక్షించండి"</string>
+    <string msgid="3364786994943748337" name="about_ads">"ప్రకటనలు"</string>
+    <string msgid="9148789767199785676" name="about_build">"నిర్మాణం"</string>
+    <string msgid="8511870741437307531" name="about_legal_info">"చట్టబద్ధమైన సమాచారం"</string>
+    <string msgid="7867205982113209033" name="about_legal_license">"ఓపెన్ సోర్స్ లైసెన్స్‌లు"</string>
+    <string msgid="8522566562321418498" name="about_license_activity_unavailable">"లైసెన్స్ డేటా అందుబాటులో లేదు"</string>
+    <string msgid="6625269442206323995" name="about_model">"నమూనా"</string>
+    <string msgid="4131396784531360434" name="about_preference">"పరిచయం"</string>
+    <string msgid="7104996228479152643" name="about_privacy_policy">"గోప్యతా విధానాన్ని వీక్షించండి"</string>
+    <string msgid="2723560490027171187" name="about_serial">"క్రమ సంఖ్య"</string>
+    <string msgid="7282772247661356586" name="about_system_update">"సిస్టమ్ నవీకరణ"</string>
+    <string msgid="3025043473995690659" name="about_terms_of_service">"సేవా నిబంధనలను వీక్షించండి"</string>
+    <string msgid="1177287676732287266" name="about_version">"సంస్కరణ"</string>
+    <string msgid="5736003473060436384" name="about_warranty">"వారంటీ"</string>
+    <string msgid="6133896463407851079" name="accessibility_captions">"శీర్షికలు"</string>
+    <string msgid="4290317621720499628" name="accessibility_captions_description">"వీడియోలో సంవృత శీర్షిక వచన అతివ్యాప్తికి సెట్టింగ్‌లు"</string>
+    <string msgid="3441648940134070004" name="accessibility_none">"ఏదీ లేదు"</string>
+    <string msgid="322888335240595695" name="accessibility_service_settings">"సేవా సెట్టింగ్‌లు"</string>
+    <string msgid="1347802656349218830" name="accessories_add">"ఉపకరణాన్ని జోడించండి"</string>
+    <string msgid="5892952745770640383" name="accessories_add_bluetooth_inst">"మీ బ్లూటూత్ పరికరాలను జత చేసే ముందు, అవి జత చేసే మోడ్‌లోనే ఉన్నాయని నిర్ధారించుకోండి"</string>
+    <string msgid="3900633668371061399" name="accessories_add_multiple">"వేరొక పరికరాన్ని ఎంచుకోవడానికి, ఈ పరికరంలోని జత చేసే బటన్‌ను నొక్కండి"</string>
+    <string msgid="3696794187001405647" name="accessories_add_multiple_select">"ఎంచుకున్న పరికరంతో జత చేయడానికి, ఈ పరికరం యొక్క జత చేసే బటన్‌ను 5 సెకన్లు నొక్కి, ఉంచండి"</string>
+    <string msgid="6940361421891873321" name="accessories_add_title">"యాక్సెసరీల కోసం శోధిస్తోంది..."</string>
+    <string msgid="8455249961819802466" name="accessories_add_title_multiple">"బహుళ పరికరాలు కనుగొనబడ్డాయి"</string>
+    <string msgid="8618829246837821752" name="accessories_autopair_msg">"ఒక పరికరం కనుగొనబడింది, అది <ns1:g id="COUNTDOWN">%1$s</ns1:g> సెకన్లలో స్వయంచాలకంగా జత చేయబడుతుంది"</string>
+    <string msgid="503302832375993697" name="accessories_camera">"కెమెరా"</string>
+    <string msgid="2188138914890229082" name="accessories_remote">"రిమోట్"</string>
+    <string msgid="3115459158860792046" name="accessories_remote_list_title">"రిమోట్ సమాచారం: <ns1:g id="SERIALNUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1107690327150126038" name="accessories_wifi_display">"Wi-Fi డిస్‌ప్లే"</string>
+    <string msgid="4779506305656453262" name="accessories_wifi_display_enable">"Wi-Fi డిస్‌ప్లే"</string>
+    <string msgid="3242645267864813273" name="accessories_wifi_display_pin_required">"PIN అవసరం"</string>
+    <string msgid="7416728299196887186" name="accessories_wifi_display_rename_device">"పేరు మార్చు"</string>
+    <string msgid="2156489304110030393" name="accessory_connected">"కనెక్ట్ చేయబడినది"</string>
+    <string msgid="4799658564005710297" name="accessory_options">"ఉపకరణం"</string>
+    <string msgid="3250766501262581206" name="accessory_rename">"పేరు మార్చండి"</string>
+    <string msgid="4419328837733619447" name="accessory_state_canceled">"రద్దు చేయబడింది"</string>
+    <string msgid="8777884957977608529" name="accessory_state_connecting">"కనెక్ట్ అవుతోంది…"</string>
+    <string msgid="4529815543328841909" name="accessory_state_error">"జత చేయడం సాధ్యపడలేదు"</string>
+    <string msgid="1959238931866401476" name="accessory_state_paired">"జత చేయబడింది"</string>
+    <string msgid="7501989679637780963" name="accessory_state_pairing">"జత చేస్తోంది..."</string>
+    <string msgid="8242725516604465355" name="accessory_unpair">"జతను తీసివేయి"</string>
+    <string msgid="7568241162181184667" name="accessory_unpairing">"జత చేయబడిన పరికరాన్ని తీసివేస్తోంది..."</string>
+    <string msgid="3288957118207682685" name="account_header_remove_account">"ఖాతాను తీసివేయి"</string>
+    <string msgid="2679585471372319471" name="account_header_sync">"సమకాలీకరణ"</string>
+    <string msgid="4313580520737295272" name="account_remove">"ఖాతాను తీసివేయి"</string>
+    <string msgid="980654375770693544" name="account_remove_failed">"ఖాతాను తీసివేయడం సాధ్యపడదు"</string>
+    <string msgid="773808124331714965" name="account_sync">"సమకాలీకృత అనువర్తనాలను ఎంచుకోండి"</string>
+    <string msgid="4364261457368041502" name="action_off_description">"ఆఫ్‌లో ఉంది"</string>
+    <string msgid="3157728958166559966" name="action_off_title">"ఆఫ్ చేయి"</string>
+    <string msgid="4559342592998850852" name="action_on_description">"ఆన్‌లో ఉంది"</string>
+    <string msgid="6852389884236870765" name="action_on_title">"ఆన్ చేయి"</string>
+    <string msgid="4098060223200619258" name="add_account">"ఖాతాను జోడించు"</string>
+    <string msgid="7950769159839284068" name="add_account_button_label">"కొత్త ఖాతాను జోడించు"</string>
+    <string msgid="2074883912462075625" name="add_network">"నెట్‌వర్క్‌ను జోడించండి"</string>
+    <string msgid="1235622082275451350" name="agree">"అంగీకరిస్తున్నాను"</string>
+    <string msgid="1057645533268907906" name="alwaysUseOption">"ఎల్లప్పుడూ ఉపయోగించు"</string>
+    <string msgid="7128459989232213727" name="alwaysUseQuestion">"ఈ చర్య కోసం ఎల్లప్పుడూ ఈ ఎంపికను ఉపయోగించాలా?"</string>
+    <string msgid="6818309827329010677" name="app_not_supported_in_limited">"నియంత్రిత ప్రొఫైల్‌ల్లో ఈ అనువర్తనానికి మద్దతు లేదు"</string>
+    <string msgid="1967195038085624916" name="app_sees_restricted_accounts">"ఈ అనువర్తనం మీ ఖాతాలను ప్రాప్యత చేయగలదు"</string>
+    <string msgid="4222190849854323480" name="apps_downloaded">"డౌన్‌లోడ్ చేసిన అనువర్తనాలు"</string>
+    <string msgid="6430310491739956228" name="apps_running">"అమలవుతున్న అనువర్తనాలు"</string>
+    <string msgid="2499191125802829425" name="apps_system">"సిస్టమ్ అనువర్తనాలు"</string>
+    <string msgid="4152153558528588479" name="bluetooth_cancel">"రద్దు చేయి"</string>
+    <string msgid="7031117992819855434" name="bluetooth_confirm_passkey_msg">"&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>తో జతచేయడానికి, అది ఈ &lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b> పాస్‌కీని చూపుతోందని నిర్ధారించుకోండి"</string>
+    <string msgid="8951451728250058901" name="bluetooth_display_passkey_pin_msg">"&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>&lt;br>తో జత చేయడానికి, దానిపై &lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b>ని టైప్ చేయండి, ఆపై తిరిగి వెళ్లు లేదా నమోదు చేయి నొక్కండి."</string>
+    <string msgid="7980787196089653577" name="bluetooth_enter_passkey_msg">"దీనితో జత చేయడానికి: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>, &lt;br>పరికర ఆవశ్యక పాస్‌కీని టైప్ చేయండి:"</string>
+    <string msgid="7443458826667686394" name="bluetooth_enter_pin_msg">"&lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>తో జత చేయడానికి, &lt;br>పరికరానికి అవసరమైన PINను టైప్ చేయండి:"</string>
+    <string msgid="8234127565393932499" name="bluetooth_incoming_pairing_msg">"దీని నుండి: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>&lt;br>ఈ పరికరానికి జత చేయాలా?"</string>
+    <string msgid="7836818609620478122" name="bluetooth_pair">"జత చేయి"</string>
+    <string msgid="4523088117471287665" name="bluetooth_pairing_request">"బ్లూటూత్ జత చేయడానికి అభ్యర్థన"</string>
+    <string msgid="2319900367581543300" name="bluetooth_pin_values_hint">"సాధారణంగా 0000 లేదా 1234"</string>
+    <string msgid="72080729155950127" name="captioning_preview_text">"శీర్షికలు ఈ విధంగా కనిపిస్తాయి"</string>
+    <string msgid="448518890988125453" name="captions_backgroundcolor">"నేపథ్య రంగు"</string>
+    <string msgid="2643722493273126220" name="captions_backgroundopacity">"నేపథ్య అపారదర్శకత"</string>
+    <string msgid="7423638523487868230" name="captions_captionstyle">"శీర్షిక శైలి"</string>
+    <string msgid="5537548915977371014" name="captions_configure">"కాన్ఫిగర్ చేయి"</string>
+    <string msgid="2699780648112330911" name="captions_customoptions">"అనుకూల ఎంపికలు"</string>
+    <string msgid="735692527287125548" name="captions_display">"ప్రదర్శన"</string>
+    <string msgid="496953007835201523" name="captions_display_off">"ఆఫ్‌లో ఉంది"</string>
+    <string msgid="1989009878719500520" name="captions_display_on">"ఆన్‌లో ఉంది"</string>
+    <string msgid="845125757332620884" name="captions_edgecolor">"అంచు రంగు"</string>
+    <string msgid="841331274533086103" name="captions_edgetype">"అంచు రకం"</string>
+    <string msgid="6840670778173003604" name="captions_fontfamily">"ఫాంట్ కుటుంబం"</string>
+    <string msgid="3291057448460880449" name="captions_lanaguage">"భాష"</string>
+    <string msgid="3233568269335050287" name="captions_textcolor">"వచనం రంగు"</string>
+    <string msgid="5536765490446288641" name="captions_textopacity">"వచన అపారదర్శకత"</string>
+    <string msgid="4828195509546070971" name="captions_textsize">"వచన పరిమాణం"</string>
+    <string msgid="8986165172260903279" name="captions_windowcolor">"విండో రంగు"</string>
+    <string msgid="2784473496224936703" name="captions_windowopacity">"విండో అపారదర్శకత"</string>
+    <string msgid="6672090823838639972" name="choose_account_title">"ఖాతాను ఎంచుకోండి"</string>
+    <string msgid="34004552592079689" name="choose_account_type_title">"ఖాతా రకాన్ని ఎంచుకోండి"</string>
+    <string msgid="8804213372565106403" name="color_black">"నలుపు"</string>
+    <string msgid="6761708560115194175" name="color_blue">"నీలి రంగు"</string>
+    <string msgid="796226330055745" name="color_cyan">"ముదురు నీలి రంగు"</string>
+    <string msgid="5637299846460438696" name="color_gray">"బూడిద రంగు"</string>
+    <string msgid="3745551274773976763" name="color_green">"ఆకుపచ్చ రంగు"</string>
+    <string msgid="6395786485839439122" name="color_magenta">"మెజెంటా రంగు"</string>
+    <string msgid="5281446963475996688" name="color_none">"ఏదీ వద్దు"</string>
+    <string msgid="5630553203246525989" name="color_red">"ఎరుపు రంగు"</string>
+    <string msgid="65537523012024751" name="color_white">"తెలుపు రంగు"</string>
+    <string msgid="1023390829879874964" name="color_yellow">"పసుపు రంగు"</string>
+    <string msgid="2955133568424704042" name="computing_size">"గణిస్తోంది…"</string>
+    <string msgid="7563100162902079938" name="connected">"కనెక్ట్ చేయబడింది"</string>
+    <string msgid="2858199826425132228" name="connectivity_advanced_options">"అధునాతన ఎంపికలు"</string>
+    <string msgid="370129113175689226" name="connectivity_advanced_options_description">"<ns1:g id="SSID_0">%1$s</ns1:g>, <ns1:g id="SSID_1">%2$s</ns1:g>"</string>
+    <string msgid="2182407318634700320" name="connectivity_ethernet">"ఈథర్‌నెట్"</string>
+    <string msgid="8321537111272398501" name="connectivity_network">"నెట్‌వర్క్"</string>
+    <string msgid="489974791299647708" name="connectivity_wifi">"Wi-Fi"</string>
+    <string msgid="7882269975674640060" name="date_separator">"/"</string>
+    <string msgid="4142806827237093397" name="delete_location_history_desc">"ఇది ఈ Google ఖాతా కోసం ఈ పరికరంలో నిల్వ చేయబడిన మొత్తం స్థాన చరిత్రను తొలగిస్తుంది. మీరు ఈ తొలగింపును రద్దు చేయలేరు. Google Nowతో సహా కొన్ని అనువర్తనాలు పని చేయకుండా ఆపివేయబడతాయి."</string>
+    <string msgid="5804802702252280549" name="delete_location_history_title">"స్థాన చరిత్రను తొలగించండి"</string>
+    <string msgid="6997571927680580633" name="desc_auto_date_time">"నెట్‌వర్క్-అందించిన సమయాన్ని ఉపయోగించు"</string>
+    <string msgid="7187242843867404657" name="desc_configure_keyboard">"కీబోర్డ్ ఎంపికలు"</string>
+    <string msgid="9180435229638772838" name="device_apps">"అనువర్తనాలు"</string>
+    <string msgid="5627523987587511884" name="device_backup_restore">"బ్యాకప్ &amp; పునరుద్ధరణ"</string>
+    <string msgid="8632962533376605191" name="device_calibration">"క్రమాంకనం"</string>
+    <string msgid="4933581408059561077" name="device_daydream">"డేడ్రీమ్"</string>
+    <string msgid="101455384386372747" name="device_display">"ప్రదర్శన"</string>
+    <string msgid="2670488158531273028" name="device_name">"పరికరం పేరు"</string>
+    <string msgid="2827002349560023125" name="device_reset">"ఫ్యాక్టరీ డేటా రీసెట్ చేయి"</string>
+    <string msgid="7793281745920228622" name="device_sound_effects">"సిస్టమ్ ధ్వనులు"</string>
+    <string msgid="5536683600091277826" name="device_storage">"నిల్వ"</string>
+    <string msgid="1425978936501134425" name="device_storage_reset">"నిల్వ &amp; రీసెట్"</string>
+    <string msgid="5536822848499568335" name="dhcp">"DHCP"</string>
+    <string msgid="9170636026862400981" name="disagree">"తిరస్కరిస్తున్నాను"</string>
+    <string msgid="5504549024985225774" name="display_options">"ప్రదర్శన ఎంపికలు"</string>
+    <string msgid="300552308104354666" name="error_action_not_supported">"ఈ చర్యకు మద్దతు లేదు"</string>
+    <string msgid="2467496590891949814" name="gateway">"గేట్‌వే"</string>
+    <string msgid="3382840371861269146" name="google_location_services_title">"Google స్థాన సేవలు"</string>
+    <string msgid="823295909353025991" name="header_category_accessories">"రిమోట్ &amp; ఉపకరణాలు"</string>
+    <string msgid="4855983928659541345" name="header_category_device">"పరికరం"</string>
+    <string msgid="8893959635328775096" name="header_category_personal">"వ్యక్తిగతం"</string>
+    <string msgid="175105555164713972" name="header_category_preferences">"ప్రాధాన్యతలు"</string>
+    <string msgid="3243287334177831637" name="header_category_system">"సిస్టమ్"</string>
+    <string msgid="5704676433978730340" name="inputs_aux">"ఆక్స్"</string>
+    <string msgid="3843526039402969407" name="inputs_blu_ray">"బ్లూ-రే"</string>
+    <string msgid="9081641596942038538" name="inputs_cable">"కేబుల్"</string>
+    <string msgid="8403155117662874704" name="inputs_cec_settings">"పరికర నియంత్రణ సెట్టింగ్‌లు"</string>
+    <string msgid="5584925321693432362" name="inputs_custom_name">"అనుకూల పేరు"</string>
+    <string msgid="374036983231176581" name="inputs_custom_title">"అనుకూల పేరు:"</string>
+    <string msgid="7510049770946999285" name="inputs_device_auto_off">"పరికర ఆటో పవర్ ఆఫ్"</string>
+    <string msgid="2679638131351116942" name="inputs_device_auto_off_desc">"టీవీతో ఉన్న HDMI పరికరాల పవర్‌ను ఆఫ్ చేస్తుంది"</string>
+    <string msgid="602486238850738828" name="inputs_dvd">"డివిడి"</string>
+    <string msgid="1114086481110094757" name="inputs_game">"గేమ్ కన్సోల్"</string>
+    <string msgid="2462240356665628563" name="inputs_hdmi_control">"HDMI నియంత్రణ"</string>
+    <string msgid="2300590479729796132" name="inputs_hdmi_control_desc">"HDMI పరికరాలను నియంత్రించడానికి టీవీని అనుమతిస్తుంది"</string>
+    <string msgid="3701104827756278489" name="inputs_header_cec">"కన్స్యూమర్ ఎలక్ట్రానిక్ కంట్రోల్ (CEC)"</string>
+    <string msgid="1575971556150395486" name="inputs_hide">"దాచబడింది"</string>
+    <string msgid="8172670556559886526" name="inputs_hide_desc">"ఇన్‌పుట్‌లను మారుస్తున్నప్పుడు చూపబడదు"</string>
+    <string msgid="4249080110281833521" name="inputs_inputs">"ఇన్‌పుట్‌లు"</string>
+    <string msgid="2463661081264605403" name="inputs_state_connected">"కనెక్ట్ చేయబడింది"</string>
+    <string msgid="2861557722523733817" name="inputs_state_connected_standby">"స్టాండ్‌బైలో ఉంది"</string>
+    <string msgid="558532410057350104" name="inputs_state_disconnected">"డిస్‌కనెక్ట్ చేయబడింది"</string>
+    <string msgid="2627932269256793797" name="inputs_tv_auto_on">"టీవీ ఆటో పవర్ ఆన్"</string>
+    <string msgid="7658625130577708249" name="inputs_tv_auto_on_desc">"HDMI పరికరంతో టీవీ పవర్‌ను ఆన్ చేస్తుంది"</string>
+    <string msgid="6051458702672920102" name="justOnceOption">"ఒకసారి మాత్రమే"</string>
+    <string msgid="6178494892357077274" name="last_synced">"చివరగా సమకాలీకరించబడినది <ns1:g id="TIME">%1s</ns1:g>"</string>
+    <string msgid="5107150533945388559" name="launcher_network_app_name">"నెట్‌వర్క్"</string>
+    <string msgid="671448012575234643" name="launcher_restricted_profile_app_name">"నియంత్రిత ప్రొఫైల్"</string>
+    <string msgid="5782771766725939392" name="launcher_settings_app_name">"సెట్టింగ్‌లు"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"కొనసాగించు"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"ముగించు"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"నావిగేషన్ మెను"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"తదుపరి"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ప్రారంభించు"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"సంవృత శీర్షికలను నిలిపివేయి"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"సంవృత శీర్షికలను ప్రారంభించు"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"వేగంగా ఫార్వార్డ్ చేయి"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"%1$dX ఫాస్ట్ ఫార్వార్డ్ చేయి"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"అధిక నాణ్యతను నిలిపివేయి"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"అధిక నాణ్యతను ప్రారంభించు"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"మరిన్ని చర్యలు"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"పాజ్ చేయి"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"చిత్రంలో చిత్రం మోడ్‌లోకి ప్రవేశించండి"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"ప్లే చేయి"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"అన్నీ పునరావృతం చేయి"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ఏదీ పునరావృతం చేయవద్దు"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"ఒకదాన్ని పునరావృతం చేయి"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"రివైండ్ చేయి"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"%1$dX రివైండ్ చేయి"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"షఫుల్‌ను నిలిపివేయి"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"షఫుల్‌ను ప్రారంభించు"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"తదుపరి దానికి దాటవేయి"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"మునుపటి దానికి దాటవేయి"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"ఓటమి సంకేతం ఎంపికను తీసివేయి"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"ఓటమి సంకేతాన్ని ఎంచుకోండి"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"విజయ సంకేతం ఎంపికను తీసివేయి"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"విజయ సంకేతాన్ని ఎంచుకోండి"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"శోధించండి"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"శోధించడానికి చదివి వినిపించండి"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>ని శోధించండి"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>ని శోధించడానికి చదివి వినిపించండి"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string msgid="3437903422445812245" name="location_category_recent_location_requests">"ఇటీవలి స్థాన అభ్యర్థనలు"</string>
+    <string msgid="576143332793626088" name="location_high_battery_use">"అధిక బ్యాటరీ వినియోగం"</string>
+    <string msgid="2946680949724247804" name="location_history">"స్థాన చరిత్ర"</string>
+    <string msgid="3861249867748294369" name="location_history_desc">"ఈ ఖాతాకి స్థాన చరిత్రను ఆన్ చేసినప్పుడు, మీ అనువర్తనాలు ఉపయోగించడం కోసం Google మీ పరికర స్థాన డేటాను నిల్వ చేస్తుంది.\n\nఉదాహరణకు, Google మ్యాప్స్ మీకు దిశలను అందించగలదు మరియు Google Now నిత్యప్రయాణ మార్గంలోని రద్దీ గురించి మీకు తెలియజేయగలదు.\n\nమీరు స్థాన చరిత్రను ఎప్పుడైనా ఆఫ్ చేయవచ్చు, అయితే అలా చేయడం వలన చరిత్ర ఏదీ తొలగించబడదు. మీ స్థాన చరిత్రను వీక్షించడానికి మరియు నిర్వహించడానికి, maps.google.com/locationhistoryని సందర్శించండి."</string>
+    <string msgid="5756040390248358148" name="location_low_battery_use">"తక్కువ బ్యాటరీ వినియోగం"</string>
+    <string msgid="6573195849329396150" name="location_mode_title">"మోడ్"</string>
+    <string msgid="2778774510654527264" name="location_mode_wifi_description">"స్థానాన్ని అంచనా వేయడానికి Wi‑Fiని ఉపయోగించండి"</string>
+    <string msgid="4218851908476344030" name="location_no_recent_apps">"స్థానాన్ని ఇటీవల అనువర్తనాలు ఏవీ అభ్యర్థించలేదు"</string>
+    <string msgid="3054236612250063073" name="location_reporting">"స్థాన నివేదన"</string>
+    <string msgid="6256424995139430823" name="location_reporting_desc">"Google ఈ లక్షణాన్ని Google Now మరియు Google మ్యాప్స్ వంటి ఉత్పత్తులలో ఉపయోగిస్తుంది. స్థాన నివేదనను ఆన్ చేయడం వలన ఈ లక్షణాన్ని ఉపయోగించే Google ఉత్పత్తి మీ Google ఖాతాతో అనుబంధంగా మీ పరికరం యొక్క అత్యంత ఇటీవలి స్థాన డేటాను నిల్వ చేస్తుంది మరియు ఉపయోగిస్తుంది."</string>
+    <string msgid="5441085185119797200" name="location_services">"స్థాన సేవలు"</string>
+    <string msgid="3456414279428237558" name="location_status">"స్థాన స్థితి"</string>
+    <string msgid="7600163182794860262" name="location_title">"నా స్థానం"</string>
+    <string msgid="7653487431810593891" name="network_ssid">"నెట్‌వర్క్ SSID"</string>
+    <string msgid="4197983402774959346" name="noApplications">"ఈ చర్యను అమలు చేయగల అనువర్తనాలు ఏవీ లేవు."</string>
+    <string msgid="5663180241276177314" name="noAppsGoBack">"వెనుకకు"</string>
+    <string msgid="1746564297589309465" name="no_application">"ఏదీ వద్దు"</string>
+    <string msgid="4118071594685269322" name="normal_date_format">"ప్రాంతీయం (<ns1:g id="DATE">%s</ns1:g>)"</string>
+    <string msgid="6858480380326923017" name="not_connected">"కనెక్ట్ చేయబడలేదు"</string>
+    <string msgid="5264189545064767245" name="off">"ఆఫ్‌లో ఉంది"</string>
+    <string msgid="6683600681314500652" name="on">"ఆన్‌లో ఉంది"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"శోధన చర్య"</string>
+    <string msgid="3539704463099544488" name="other_network">"ఇతర నెట్‌వర్క్‌…"</string>
+    <string msgid="1322790875762726719" name="password">"పాస్‌వర్డ్"</string>
+    <string msgid="5541414789309863965" name="pin_button_cancel">"రద్దు"</string>
+    <string msgid="939191809977197451" name="pin_button_done">"సరే"</string>
+    <string msgid="1510456697040826496" name="pin_enter_again">"కొత్త PINని మళ్లీ నమోదు చేయండి"</string>
+    <string msgid="4788218421265924211" name="pin_enter_new_pin">"కొత్త PINని సెట్ చేయండి"</string>
+    <string msgid="851029058127630869" name="pin_enter_old_pin">"పాత PINని నమోదు చేయండి"</string>
+    <string msgid="821552376577935497" name="pin_enter_pin">"PIN‌ని నమోదు చేయండి"</string>
+    <string msgid="5980400420298506069" name="pin_enter_unlock_channel">"ఈ ఛానెల్‌ను చూడటానికి PINని నమోదు చేయండి"</string>
+    <string msgid="52453773316071511" name="pin_enter_unlock_program">"ఈ ప్రోగ్రామ్‌ను చూడటానికి PINని నమోదు చేయండి"</string>
+    <string msgid="5653864140710683928" name="pin_enter_wrong">"మీరు 5 సార్లు తప్పు PINని నమోదు చేశారు.\nమళ్లీ ప్రయత్నించండి <ns1:g id="RELATIVE_TIME_SPAN">%1$s</ns1:g>."</string>
+    <string msgid="5886041789737632996" name="pin_toast_not_match">"మళ్లీ ప్రయత్నించండి, PIN సరిపోలలేదు"</string>
+    <string msgid="4628358195224633248" name="pin_toast_wrong">"తప్పు PIN, మళ్లీ ప్రయత్నించండి"</string>
+    <string msgid="4428793978424303244" name="proxy_error_empty_host_set_port">"హోస్ట్ ఫీల్డ్ ఖాళీగా ఉంటే, పోర్ట్ ఫీల్డ్‌ని ఖాళీగా వదిలిపెట్టండి"</string>
+    <string msgid="6835658067776408062" name="proxy_error_empty_port">"పోర్ట్ ఫీల్డ్ ఖాళీగా ఉండకూడదు"</string>
+    <string msgid="4921547051724987804" name="proxy_error_invalid_exclusion_list">"ఈ మినహాయింపు జాబితా చెల్లదు. కామాతో వేరు చేసిన మినహాయింపు డొమైన్‌ల జాబితాను నమోదు చేయండి."</string>
+    <string msgid="3660415920668138953" name="proxy_error_invalid_host">"హోస్ట్ పేరు చెల్లదు"</string>
+    <string msgid="1434922103959603993" name="proxy_error_invalid_port">"పోర్ట్ చెల్లదు"</string>
+    <string msgid="86175095050438325" name="proxy_exclusionlist_hint">"మినహాయించిన డొమైన్‌లను కామాతో వేరు చేస్తూ జాబితా రూపంలో నమోదు చేయండి లేదా ఖాళీగా వదిలిపెట్టండి.\nఉదాహరణ: example.com,mycomp.test.com,localhost"</string>
+    <string msgid="3719688422767210803" name="proxy_hostname_hint">"చెల్లుబాటు అయ్యే హోస్ట్‌పేరును నమోదు చేయండి.\nఉదాహరణ: proxy.example.com"</string>
+    <string msgid="8532733797275927007" name="proxy_port_hint">"చెల్లుబాటు అయ్యే పోర్ట్‌ను నమోదు చేయండి.\nఉదాహరణ: 8080"</string>
+    <string msgid="6160239282535986523" name="proxy_warning_limited_support">"HTTP ప్రాక్సీని బ్రౌజర్ ఉపయోగిస్తుంది కానీ ఇతర అనువర్తనాలు ఉపయోగించవు"</string>
+    <string msgid="8221482127562510757" name="rename_device">"పరికరం పేరు మార్చు"</string>
+    <string msgid="2903829140619950232" name="restricted_profile_allowed">"అనుమతించబడింది"</string>
+    <string msgid="2848537651211816659" name="restricted_profile_change_password_title">"పిన్‌ను మార్చండి"</string>
+    <string msgid="5269477581791409700" name="restricted_profile_configure_apps_description_loading">"ఒక క్షణం…"</string>
+    <string msgid="11507255932348492" name="restricted_profile_configure_apps_title">"అనుమతించిన అనువర్తనాలు"</string>
+    <string msgid="4684188123147519620" name="restricted_profile_configure_title">"సెట్టింగ్‌లు"</string>
+    <string msgid="5749967525546068650" name="restricted_profile_confirm_password">"పరిమిత ప్రొఫైల్ నుండి నిష్క్రమించేందుకు ఉపయోగించడానికి PIN కోడ్‌ను నిర్ధారించండి"</string>
+    <string msgid="7081117593480952518" name="restricted_profile_create">"నియంత్రిత వినియోగదారుని సృష్టించు"</string>
+    <string msgid="8418415019078825537" name="restricted_profile_customize_restrictions">"పరిమితులను అనుకూలీకరించు"</string>
+    <string msgid="2998929625283492853" name="restricted_profile_delete_dialog_title">"నియంత్రిత వినియోగదారుని తీసివేయాలా?"</string>
+    <string msgid="3445944923018324707" name="restricted_profile_delete_title">"పరిమిత ప్రొఫైల్‌ను తొలగించు"</string>
+    <string msgid="5961473119032585585" name="restricted_profile_enter_password">"పరిమిత ప్రొఫైల్ నుండి నిష్క్రమించడానికి PIN కోడ్‌ను నమోదు చేయండి"</string>
+    <string msgid="1622620680118897330" name="restricted_profile_not_allowed">"అనుమతించబడలేదు"</string>
+    <string msgid="3989154189940037175" name="restricted_profile_set_password">"పరిమిత ప్రొఫైల్ నుండి నిష్క్రమించేందుకు ఉపయోగించడానికి కొత్త PIN కోడ్‌ను సెట్ చేయండి"</string>
+    <string msgid="1893784095623209495" name="restricted_profile_switch_out">"పరిమిత ప్రొఫైల్ నుండి నిష్క్రమించు"</string>
+    <string msgid="1926433350907032138" name="restricted_profile_switch_to">"నియంత్రిత ప్రొఫైల్‌లోకి ప్రవేశించు"</string>
+    <string msgid="3104855945910233028" name="restriction_description">"<ns1:g id="DESCRIPTION">%1$s</ns1:g>\n<ns1:g id="VALUE">%2$s</ns1:g>"</string>
+    <string msgid="4195349388342385870" name="restriction_location_enable_summary">"మీ స్థాన సమాచారాన్ని ఉపయోగించడానికి అనువర్తనాలను అనుమతించండి"</string>
+    <string msgid="2575116135395354938" name="restriction_location_enable_title">"స్థానం"</string>
+    <string msgid="5474988613144349415" name="search_title">"శోధించండి"</string>
+    <string msgid="524443802004143058" name="security_type">"భద్రతా రకం"</string>
+    <string msgid="7167350583097191925" name="security_unknown_sources_confirm_desc">"తెలియని మూలాల నుండి అందించబడిన అనువర్తనాలు మీ పరికరం మరియు వ్యక్తిగత డేటాపై దాడి చేసే అవకాశం ఎక్కువగా ఉంటుంది. ఈ అనువర్తనాలను ఉపయోగించడం వల్ల మీ పరికరానికి ఏదైనా నష్టం వాటిల్లినా లేదా డేటాను కోల్పోయినా అందుకు మీదే పూర్తి బాధ్యత అని మీరు అంగీకరిస్తున్నారు."</string>
+    <string msgid="7197053279914817124" name="security_unknown_sources_desc">"Play Store కాకుండా ఇతర మూలాల నుండి అనువర్తనాలను ఇన్‌స్టాల్ చేయడాన్ని అనుమతించు"</string>
+    <string msgid="769762478057744545" name="security_unknown_sources_title">"తెలియని మూలాలు"</string>
+    <string msgid="1456317893117818733" name="security_verify_apps_desc">"హాని కలిగించే అనువర్తనాలను ఇన్‌స్టాల్ చేయడానికి ముందు వాటిని అనుమతించవద్దు లేదా హెచ్చరించు"</string>
+    <string msgid="5787946958632254988" name="security_verify_apps_title">"అనువర్తనాలను ధృవీకరించండి"</string>
+    <string msgid="4243616485579754401" name="settings_app_name">"సెట్టింగ్‌లు"</string>
+    <string msgid="7525967300421794483" name="show_dev_already">"అవసరం లేదు, మీరు ఇప్పటికే డెవలపర్"</string>
+    <string msgid="8997172736024819952" name="show_dev_on">"మీరు ఇప్పుడు డెవలపర్!"</string>
+    <string msgid="6380260543776712357" name="skip_network">"దాటవేయండి"</string>
+    <string msgid="4366049071039081219" name="storage_apps_usage">"అనువర్తనాలు"</string>
+    <string msgid="1241005580092138871" name="storage_available">"అందుబాటులో ఉంది"</string>
+    <string msgid="2644732407412520565" name="storage_calculating_size">"గణిస్తోంది..."</string>
+    <string msgid="2977564696540645452" name="storage_dcim_usage">"ఫోటోలు &amp; వీడియోలు"</string>
+    <string msgid="6172975879962599380" name="storage_downloads_usage">"డౌన్‌లోడ్‌లు"</string>
+    <string msgid="5906737163212649904" name="storage_media_cache_usage">"కాష్ చేసిన డేటా"</string>
+    <string msgid="6066868724030127457" name="storage_media_misc_usage">"నానావిధమైనవి"</string>
+    <string msgid="3509327591741514083" name="storage_music_usage">"ఆడియో"</string>
+    <string msgid="8958530823208352781" name="storage_size">"మొత్తం ఖాళీ: <ns1:g id="TOTAL_SPACE">%1$s</ns1:g>"</string>
+    <string msgid="2132026108559493394" name="storage_title">"నిల్వ"</string>
+    <string msgid="5839264070098894371" name="sync_cancel">"సమకాలీకరణను రద్దు చేయి"</string>
+    <string msgid="3089360175872892781" name="sync_disabled">"నిలిపివేయబడింది"</string>
+    <string msgid="1330721038775646022" name="sync_in_progress">"సమకాలీకరించబడుతోంది..."</string>
+    <string msgid="8229476000384257186" name="sync_is_failing">"ప్రస్తుతం సమకాలీకరణ పని చేయడం లేదు. ఇది కొద్దిసేపట్లో తిరిగి పని చేస్తుంది."</string>
+    <string msgid="8732244492880016471" name="sync_now">"ఇప్పుడే సమకాలీకరించు"</string>
+    <string msgid="6215431399759498005" name="system_accessibility">"ప్రాప్యత సామర్థ్యం"</string>
+    <string msgid="3216531917536720277" name="system_accessibility_config">"కాన్ఫిగరేషన్"</string>
+    <string msgid="6714782635926048678" name="system_accessibility_service_off_confirm_desc">"సరే ఎంచుకోవడం వలన <ns1:g id="SERVICE">%1$s</ns1:g> ఆపివేయబడుతుంది."</string>
+    <string msgid="963297812889694832" name="system_accessibility_service_off_confirm_title">"<ns1:g id="SERVICE">%1$s</ns1:g>ను ఆపివేయాలా?"</string>
+    <string msgid="1102358356500113060" name="system_accessibility_service_on_confirm_desc">"<ns1:g id="SERVICE">%1$s</ns1:g> పాస్‌వర్డ్‌లు మినహా మీరు టైప్ చేసిన మొత్తం వచనాన్ని సేకరించగలదు. ఇందులో క్రెడిట్ కార్డ్ నంబర్‌ల వంటి వ్యక్తిగత డేటా ఉంటుంది."</string>
+    <string msgid="8200707259067035823" name="system_accessibility_service_on_confirm_title">"<ns1:g id="SERVICE">%1$s</ns1:g>ని ఉపయోగించాలా?"</string>
+    <string msgid="4389074529913575327" name="system_accessibility_status">"స్థితి"</string>
+    <string msgid="8905477795536714590" name="system_accessibility_tts_output">"టెక్స్ట్ టు స్పీచ్"</string>
+    <string msgid="3635672039775772910" name="system_allow_mock_locations">"అనుకృత స్థానాలను అనుమతించు"</string>
+    <string msgid="1866566828098009853" name="system_always_check">"ఎల్లప్పుడూ తనిఖీ చేయి"</string>
+    <string msgid="7413512458963984521" name="system_animator_duration_scale">"యానిమేటర్ వ్యవధి ప్రమాణం"</string>
+    <string msgid="6293850468968494924" name="system_apps">"అనువర్తనాలు"</string>
+    <string msgid="3629668599205033272" name="system_auto_date_time">"స్వయంచాలక తేదీ &amp; సమయం"</string>
+    <string msgid="7921766877363771436" name="system_background_process_limit">"నేపథ్య ప్రాసెస్ పరిమితి"</string>
+    <string msgid="6622796686823406402" name="system_backup_password">"బ్యాకప్ పాస్‌వర్డ్"</string>
+    <string msgid="2425757846046504431" name="system_bt_hci_log">"బ్లూటూత్ HCI లాగింగ్"</string>
+    <string msgid="6421567823845207156" name="system_cast">"Google ప్రసారం"</string>
+    <string msgid="8716366734950874267" name="system_check_for_drm_content_only">"DRM కంటెంట్‌కు మాత్రమే తనిఖీ చేయి"</string>
+    <string msgid="7690908744371594279" name="system_choose_date_format">"తేదీ ఆకృతిని ఎంచుకోండి"</string>
+    <string msgid="5923988155158351543" name="system_collecting_bug_report">"బగ్ నివేదికను సేకరిస్తోంది!\nనివేదిక తయారైన తర్వాత మేము మిమ్మల్ని మరింత సమాచారం కోసం అడుగుతాము."</string>
+    <string msgid="1396108342854067722" name="system_collecting_bug_report_error">"బగ్ నివేదికను సేకరించడం సాధ్యపడలేదు!\nదయచేసి తర్వాత మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="2767108116769558081" name="system_date">"తేదీ"</string>
+    <string msgid="8898457978560618950" name="system_date_time">"తేదీ &amp; సమయం"</string>
+    <string msgid="7204447785851191331" name="system_debugging">"డీబగ్గింగ్"</string>
+    <string msgid="6454962099870874762" name="system_desc_backup_password">"డెస్క్‌టాప్ పూర్తి బ్యాకప్‌లను సంరక్షించు"</string>
+    <string msgid="4219265203570411773" name="system_desc_bt_hci_log">"బ్లూటూత్ HCI స్నూప్ లాగింగ్‌ను ప్రారంభించు"</string>
+    <string msgid="6879753401058891183" name="system_desc_hdcp_checking">"DRM కంటెంట్‌కు మాత్రమే ఉపయోగించు"</string>
+    <string msgid="4400727262768931480" name="system_desc_hdmi_optimization">"డిస్‌ప్లేని గరిష్ట రిజల్యూషన్‌కి లేదా ఫ్రేమ్‌రేట్‌కి అనుకూలపరచండి. ఇది కేవలం అల్ట్రా HD డిస్‌ప్లే‌లను మాత్రమే ప్రభావితం చేస్తుంది. ఈ సెట్టింగ్‌ను మార్చడం వలన మీ పరికరం పునఃప్రారంభమవుతుంది."</string>
+    <string msgid="4243551425631207495" name="system_desc_location">"మీ స్థాన సమాచారాన్ని ఉపయోగించడానికి మీ అనుమతిని అడిగిన అనువర్తనాలను అనుమతించండి"</string>
+    <string msgid="3394374680078903193" name="system_desc_network_location">"అనువర్తనాలు స్థానాన్ని గుర్తించడంలో Google సహాయం తీసుకోనివ్వండి. అనువర్తనాలు ఏవీ అమలులో లేకపోయినప్పటికీ Googleకి అనామక స్థాన డేటాను పంపాలని దీనర్థం."</string>
+    <string msgid="3929125496258579850" name="system_desc_network_location_confirm">"అజ్ఞాత స్థాన డేటాను సేకరించడానికి Google స్థాన సేవను అనుమతించండి. కొంత డేటా మీ పరికరంలో నిల్వ చేయబడి ఉండవచ్చు. అనువర్తనాలు ఏవీ అమలు కానప్పుడు కూడా సేకరణ జరగవచ్చు."</string>
+    <string msgid="2836283129486718887" name="system_desc_profile_gpu_rendering">"adb shell dumpsys gfxinfoలో అమలు చేసే సమయాన్ని గణించండి"</string>
+    <string msgid="1367498732529710136" name="system_desc_reboot_confirm">"ఈ సెట్టింగ్‌ను నవీకరించడానికి, మీ పరికరాన్ని పునఃప్రారంభించాలి"</string>
+    <string msgid="6151280238151381703" name="system_desc_show_cpu_usage">"ప్రస్తుత CPU వినియోగాన్ని స్క్రీన్ అతివ్యాప్తి చూపుతోంది"</string>
+    <string msgid="8204945204510618865" name="system_desc_show_gpu_overdraw">"ఉత్తమం నుండి అధమం వరకు: నీలి రంగు, ఆకుపచ్చ రంగు, లేత ఎరుపు రంగు, ఎరుపు రంగు"</string>
+    <string msgid="8045162296029336710" name="system_desc_show_gpu_view_updates">"GPUతో గీసినప్పుడు విండోల లోపల వీక్షణలను ఫ్లాష్ చేయండి"</string>
+    <string msgid="642854466995400529" name="system_desc_show_hardware_layer">"హార్డ్‌వేర్ లేయర్‌లు నవీకరించబడినప్పుడు వాటిని ఆకుపచ్చ రంగులో ఫ్లాష్ చేసి చూపండి"</string>
+    <string msgid="3449386884226708985" name="system_desc_show_layout_bounds">"క్లిప్ సరిహద్దులు, అంచులు మొ. చూపండి"</string>
+    <string msgid="8177734845253807688" name="system_desc_show_surface_updates">"పూర్తి విండో ఉపరితలాలు నవీకరించబడినప్పుడు వాటిని ఫ్లాష్ చేసి చూపండి"</string>
+    <string msgid="229588006508356238" name="system_desc_stay_awake">"నిద్రావస్థను నిలిపివేయి"</string>
+    <string msgid="4647420860235689510" name="system_desc_strict_mode_enabled">"అనువర్తనాలు ప్రధాన థ్రెడ్‌లో సుదీర్ఘ చర్యలు అమలు చేస్తున్నప్పుడు స్క్రీన్‌ను ఫ్లాష్ చేసి చూపండి"</string>
+    <string msgid="1627218971851223147" name="system_desc_take_bug_report">"ఇమెయిల్ చిరునామాకు నివేదిక పంపు"</string>
+    <string msgid="5168830368191788731" name="system_desc_usb_debugging">"USB కనెక్ట్ అయినప్పుడు డీబగ్ మోడ్"</string>
+    <string msgid="6722973410408262393" name="system_desc_verify_apps_over_usb">"హానికరమైన ప్రవర్తన కోసం ADB/ADT ద్వారా ఇన్‌స్టాల్ చేయబడిన అనువర్తనాలను తనిఖీ చేయి"</string>
+    <string msgid="2342968959255039368" name="system_desc_wait_for_debugger">"డీబగ్ చేయబడిన అనువర్తనం అమలు కావడానికి ముందు జోడించాల్సిన డీబగ్గర్ కోసం నిరీక్షిస్తుంది"</string>
+    <string msgid="1559904751873455868" name="system_desc_wifi_verbose_logging">"Wi‑Fi వెర్బోస్ లాగింగ్‌ను ప్రారంభించండి"</string>
+    <string msgid="3237985523474863638" name="system_developer_options">"డెవలపర్ ఎంపికలు"</string>
+    <string msgid="7906911077198718958" name="system_dont_keep_activities">"కార్యాచరణలను ఉంచవద్దు"</string>
+    <string msgid="6573389872154957039" name="system_drawing">"చిత్రలేఖనం"</string>
+    <string msgid="8669468986250302378" name="system_email_address">"ఇమెయిల్ చిరునామా"</string>
+    <string msgid="4038210655699986482" name="system_enable_traces">"ట్రేస్‌లను ప్రారంభించు"</string>
+    <string msgid="3535958631591158282" name="system_general">"సాధారణం"</string>
+    <string msgid="8470793875143334320" name="system_hdcp_checking">"HDCP తనిఖీ"</string>
+    <string msgid="9120919064234265144" name="system_hdmi_optimization">"HDMI అనుకూలీకరణ"</string>
+    <string msgid="6164987320529039626" name="system_input">"ఇన్‌పుట్"</string>
+    <string msgid="2413907183796651102" name="system_inputs">"ఇన్‌పుట్‌లు"</string>
+    <string msgid="8920883886563714355" name="system_install_voice_data">"వాయిస్ డేటాను ఇన్‌స్టాల్ చేయండి"</string>
+    <string msgid="7680159735294672514" name="system_keyboard">"కీబోర్డ్"</string>
+    <string msgid="2337138146114609247" name="system_language">"భాష"</string>
+    <string msgid="502463575930545806" name="system_location">"స్థానం"</string>
+    <string msgid="8424072546138094053" name="system_monitoring">"పర్యవేక్షణ"</string>
+    <string msgid="3095006393148731886" name="system_network_location">"Wi-Fi నెట్‌వర్క్ స్థానం"</string>
+    <string msgid="8435144328428634060" name="system_network_location_confirm">"స్థాన సమ్మతి"</string>
+    <string msgid="6666520460705041617" name="system_never_check">"ఎప్పటికీ తనిఖీ చేయవద్దు"</string>
+    <string msgid="7187293932891811148" name="system_play_sample">"నమూనాను ప్లే చేయి"</string>
+    <string msgid="2673764026490179227" name="system_pointer_location">"పాయింటర్ స్థానం"</string>
+    <string msgid="8258210139854655567" name="system_preferred_engine">"ప్రాధాన్య ఇంజిన్"</string>
+    <string msgid="3438771015102629799" name="system_profile_gpu_rendering">"ప్రొఫైల్ GPU అమలు"</string>
+    <string msgid="534407910866199191" name="system_reboot_confirm">"ఇప్పుడే పునఃప్రారంభించాలా?"</string>
+    <string msgid="2837264654143247611" name="system_search">"శోధించండి"</string>
+    <string msgid="4190058778883258927" name="system_security">"భద్రత &amp; పరిమితులు"</string>
+    <string msgid="8592021815119618485" name="system_select_debug_app">"డీబగ్ అనువర్తనాన్ని ఎంచుకోండి"</string>
+    <string msgid="7230571820151215779" name="system_services">"సేవలు"</string>
+    <string msgid="2437586307768561116" name="system_set_date">"తేదీని సెట్ చేయండి"</string>
+    <string msgid="4661804115501057452" name="system_set_time">"సమయాన్ని సెట్ చేయి"</string>
+    <string msgid="4447882066895090612" name="system_set_time_format">"24-గంటల ఆకృతిని ఉపయోగించు"</string>
+    <string msgid="8239601932757697259" name="system_set_time_zone">"సమయ మండలిని సెట్ చేయండి"</string>
+    <string msgid="3601183436857424712" name="system_show_all_anrs">"అన్ని ANRలను చూపు"</string>
+    <string msgid="4797599582027671138" name="system_show_cpu_usage">"CPU వినియోగాన్ని చూపు"</string>
+    <string msgid="707861254106800199" name="system_show_gpu_overdraw">"GPU అతివ్యాప్తిని చూపు"</string>
+    <string msgid="7936280271091152459" name="system_show_gpu_view_updates">"GPU వీక్షణ నవీకరణలను చూపు"</string>
+    <string msgid="7301942527058509453" name="system_show_hardware_layer">"హార్డ్‌వేర్ లేయర్‌ని చూపండి"</string>
+    <string msgid="645732439882291943" name="system_show_layout_bounds">"లేఅవుట్ హద్దులను చూపు"</string>
+    <string msgid="8878834675712192327" name="system_show_surface_updates">"ఉపరితల నవీకరణలను చూపండి"</string>
+    <string msgid="2179121368437801757" name="system_show_touches">"స్పర్శ ప్రదేశాలను చూపు"</string>
+    <string msgid="5264650214879185873" name="system_speak_passwords">"పాస్‌వర్డ్‌లను చదివి వినిపించండి"</string>
+    <string msgid="8128688499687306982" name="system_speech">"ప్రసంగం"</string>
+    <string msgid="8099856582088545576" name="system_speech_rate">"ప్రసంగం రేట్"</string>
+    <string msgid="1212296404230848490" name="system_stay_awake">"సక్రియంగా ఉంచు"</string>
+    <string msgid="5728680397806673270" name="system_strict_mode_enabled">"ఖచ్చితమైన మోడ్ ప్రారంభించబడింది"</string>
+    <string msgid="3550575498907672342" name="system_take_bug_report">"బగ్ నివేదికను తీసుకోండి"</string>
+    <string msgid="6726022312605226285" name="system_time">"సమయం"</string>
+    <string msgid="2964817709721784757" name="system_transition_animation_scale">"పరివర్తన యానిమేషన్ ప్రమాణం"</string>
+    <string msgid="3777895294421924323" name="system_usb_debugging">"USB డీబగ్గింగ్"</string>
+    <string msgid="7340861918835270609" name="system_verify_apps_over_usb">"USB ద్వారా అనువర్తనాలను ధృవీకరించు"</string>
+    <string msgid="4007354935701089555" name="system_wait_for_debugger">"డీబగ్గర్ కోసం నిరీక్షణ"</string>
+    <string msgid="3474525355071613242" name="system_wifi_verbose_logging">"Wi-Fi వెర్బోస్ లాగింగ్"</string>
+    <string msgid="3213952676672537856" name="system_window_animation_scale">"విండో యానిమేషన్ ప్రమాణం"</string>
+    <string msgid="3785289190730642093" name="text_obfuscation_toggle_caption">"పాస్‌వర్డ్‌ను దాచు"</string>
+    <string msgid="4089136801976399147" name="third_party_location_services_title">"3వ పక్షం స్థాన సేవలు"</string>
+    <string msgid="7760859333083008983" name="time_separator">":"</string>
+    <string msgid="4846143417666038604" name="title_cancel">"రద్దు చేయండి"</string>
+    <string msgid="6929522003149212388" name="title_configure">"కాన్ఫిగర్ చేయి"</string>
+    <string msgid="4259032357469819835" name="title_current_keyboard">"ప్రస్తుత కీబోర్డ్"</string>
+    <string msgid="1513875539231931892" name="title_dns_1">"DNS 1"</string>
+    <string msgid="7805767982172685879" name="title_dns_2">"DNS 2"</string>
+    <string msgid="8710084774588697646" name="title_internet_connection">"ఇంటర్నెట్ కనెక్షన్"</string>
+    <string msgid="4533523100923004711" name="title_ip_address">"IP చిరునామా"</string>
+    <string msgid="6408399523925189065" name="title_ip_settings">"IP సెట్టింగ్‌లు"</string>
+    <string msgid="3428401680168668544" name="title_mac_address">"MAC చిరునామా"</string>
+    <string msgid="3222416880787889272" name="title_network_prefix_length">"నెట్‌వర్క్ ఆదిప్రత్యయం పొడవు"</string>
+    <string msgid="1021329453788761592" name="title_ok">"సరే"</string>
+    <string msgid="1038871400014761952" name="title_select_wifi_network">"మీ Wi-Fi నెట్‌వర్క్‌ని ఎంచుకోండి"</string>
+    <string msgid="205478650262078041" name="title_signal_strength">"సిగ్నల్ సామర్థ్యం"</string>
+    <string msgid="4858945903642469730" name="title_ssid">"Wi-Fi నెట్‌వర్క్‌ పేరుని నమోదు చేయండి"</string>
+    <string msgid="6690544371649264526" name="title_static">"స్థిరం"</string>
+    <string msgid="1202798409060082670" name="title_test_connection">"కనెక్షన్ పరీక్షించండి"</string>
+    <string msgid="5389467736846644832" name="title_wifi_advanced_options">"<ns1:g id="SSID">%1$s</ns1:g> ప్రాక్సీ మరియు IP సెట్టింగ్‌లను కాన్ఫిగర్ చేయాలా?"</string>
+    <string msgid="9080004548419447580" name="title_wifi_could_not_connect">"<ns1:g id="SSID">%1$s</ns1:g>కి కనెక్ట్ చేయడం సాధ్యపడలేదు"</string>
+    <string msgid="328274688839033015" name="title_wifi_could_not_connect_ap_reject">"Wi-Fi నెట్‌వర్క్‌ కనెక్షన్‌ని ఆమోదించలేదు"</string>
+    <string msgid="4836595650380723944" name="title_wifi_could_not_connect_authentication_failure">"Wi-Fi పాస్‌వర్డ్‌ చెల్లదు"</string>
+    <string msgid="5158184646985406394" name="title_wifi_could_not_connect_timeout">"<ns1:g id="SSID">%1$s</ns1:g>ని కనుగొనడం సాధ్యపడలేదు"</string>
+    <string msgid="708638317882707069" name="title_wifi_could_not_save">"<ns1:g id="SSID">%1$s</ns1:g> కాన్ఫిగరేషన్‌ను సేవ్ చేయడం సాధ్యపడలేదు"</string>
+    <string msgid="8202712852864206601" name="title_wifi_dns1">"DNS 1:"</string>
+    <string msgid="2673986973918499478" name="title_wifi_dns2">"DNS 2:"</string>
+    <string msgid="7210935277165358134" name="title_wifi_gateway">"గేట్‌వే:"</string>
+    <string msgid="1176502993805009566" name="title_wifi_ip_address">"IP చిరునామా:"</string>
+    <string msgid="1176973848286865602" name="title_wifi_ip_settings">"IP సెట్టింగ్‌లు"</string>
+    <string msgid="7228948551397955678" name="title_wifi_ip_settings_invalid">"IP సెట్టింగ్‌లు చెల్లవు"</string>
+    <string msgid="819998498700202436" name="title_wifi_known_network">"<ns1:g id="SSID">%1$s</ns1:g> సేవ్ చేయబడిన నెట్‌వర్క్"</string>
+    <string msgid="4821632382990582038" name="title_wifi_network_prefix_length">"నెట్‌వర్క్ ఆదిప్రత్యయం పొడవు:"</string>
+    <string msgid="7127675763248224969" name="title_wifi_no_networks_available">"స్కాన్ చేస్తోంది…"</string>
+    <string msgid="4522775396659538614" name="title_wifi_proxy_bypass">"దీని కోసం బైపాస్ ప్రాక్సీ:"</string>
+    <string msgid="4655634673840885248" name="title_wifi_proxy_hostname">"ప్రాక్సీ హోస్ట్‌ పేరు:"</string>
+    <string msgid="9194893429116021337" name="title_wifi_proxy_port">"ప్రాక్సీ పోర్ట్:"</string>
+    <string msgid="7728120764469991303" name="title_wifi_proxy_settings">"ప్రాక్సీ సెట్టింగ్‌లు"</string>
+    <string msgid="7380479044141040849" name="title_wifi_proxy_settings_invalid">"ప్రాక్సీ సెట్టింగ్‌లు చెల్లవు"</string>
+    <string msgid="2946168478936086933" name="user_add_profile_item_summary">"మీ ఖాతాలోని అనువర్తనాలు మరియు ఇతర కంటెంట్‌కి ప్రాప్యతను నియంత్రించండి"</string>
+    <string msgid="336521054830056189" name="user_new_profile_name">"నియంత్రిత ప్రొఫైల్"</string>
+    <string msgid="2107349341393761750" name="user_restrictions_controlled_by">"<ns1:g id="APP">%1$s</ns1:g> ద్వారా నియంత్రించబడింది"</string>
+    <string msgid="8317193312532216351" name="user_restrictions_title">"అనువర్తనం &amp; కంటెంట్ ప్రాప్యత"</string>
+    <string msgid="8382179653567099571" name="whichApplication">"దీన్ని ఉపయోగించి చర్యను పూర్తి చేయండి"</string>
+    <string msgid="8165601242122651326" name="wifi_action_advanced_no">"వద్దు (సిఫార్సు చేయబడింది)"</string>
+    <string msgid="8615353318560146504" name="wifi_action_advanced_options_description">"<ns1:g id="PROXY_SETTINGS_SUMMARY">%1$s</ns1:g>, <ns1:g id="IP_SETTINGS_SUMMARY">%2$s</ns1:g>"</string>
+    <string msgid="3242132674399983503" name="wifi_action_advanced_options_title">"అధునాతన ఎంపికలు"</string>
+    <string msgid="8586473568311558982" name="wifi_action_advanced_yes">"సరే"</string>
+    <string msgid="5196215981075986148" name="wifi_action_change_network">"మార్చు"</string>
+    <string msgid="6338911832360962268" name="wifi_action_dhcp">"DHCP"</string>
+    <string msgid="1449920958930251977" name="wifi_action_dont_change_network">"మార్చవద్దు"</string>
+    <string msgid="5932500664228395779" name="wifi_action_ok">"సరే"</string>
+    <string msgid="8402002777441261064" name="wifi_action_proxy_manual">"మాన్యువల్"</string>
+    <string msgid="4457231399674182650" name="wifi_action_proxy_none">"ఏదీ వద్దు"</string>
+    <string msgid="4673786410274206843" name="wifi_action_save">"సేవ్ చేయి"</string>
+    <string msgid="1025855501453321749" name="wifi_action_static">"స్థిరం"</string>
+    <string msgid="7664354971197839253" name="wifi_action_status_info">"స్థితి సమాచారం"</string>
+    <string msgid="3308643222864163092" name="wifi_action_try_again">"మళ్లీ ప్రయత్నించు"</string>
+    <string msgid="560074338908947419" name="wifi_action_view_available_networks">"అందుబాటులో ఉన్న నెట్‌వర్క్‌లను వీక్షించండి"</string>
+    <string msgid="8570424816865506077" name="wifi_connect">"కనెక్ట్ చేయి"</string>
+    <string msgid="1299861268647323455" name="wifi_connecting">"<ns1:g id="SSID">%1$s</ns1:g>కి కనెక్ట్ చేస్తోంది"</string>
+    <string msgid="5100439885010143290" name="wifi_disabled_generic">"నిలిపివేయబడింది"</string>
+    <string msgid="7558613087615078317" name="wifi_disabled_network_failure">"బలహీన ఇంటర్నెట్ కనెక్షన్ విస్మరించబడింది"</string>
+    <string msgid="1318626812163574372" name="wifi_disabled_password_failure">"ప్రామాణీకరణ సమస్య"</string>
+    <string msgid="214345156394229347" name="wifi_dns1_hint">"చెల్లుబాటు అయ్యే IP చిరునామాను నమోదు చేయండి లేదా ఖాళీగా వదిలివేయండి.\nఉదాహరణ: 8.8.8.8"</string>
+    <string msgid="1075709328208368894" name="wifi_dns2_hint">"చెల్లుబాటు అయ్యే IP చిరునామాను నమోదు చేయండి లేదా ఖాళీగా వదిలివేయండి.\nఉదాహరణ: 8.8.4.4"</string>
+    <string msgid="7302755141573045803" name="wifi_forget_network">"నెట్‌వర్క్‌ను విస్మరించు"</string>
+    <string msgid="3328285160018330334" name="wifi_forget_network_description">"ఇది సేవ్ చేసిన పాస్‌వర్డ్‌తో సహా ఈ నెట్‌వర్క్‌కి కనెక్ట్ చేయడా. ఉపయో. సమాచారాన్ని క్లియర్ చేస్తుంది"</string>
+    <string msgid="7687219682024189028" name="wifi_gateway_hint">"చెల్లుబాటు అయ్యే IP చిరునామాను నమోదు చేయండి లేదా ఖాళీగా వదిలిపెట్టండి.\nఉదాహరణ: 192.168.1.1"</string>
+    <string msgid="1895267564692073689" name="wifi_ip_address_hint">"చెల్లుబాటు అయ్యే IP చిరునామాను నమోదు చేయండి.\nఉదాహరణ: 192.168.1.128"</string>
+    <string msgid="6172189835428184828" name="wifi_ip_settings_invalid_dns">"చెల్లుబాటు అయ్యే DNS చిరునామాను నమోదు చేయండి"</string>
+    <string msgid="3292444764474145026" name="wifi_ip_settings_invalid_gateway">"చెల్లుబాటు అయ్యే గేట్‌వే చిరునామాను నమోదు చేయండి"</string>
+    <string msgid="5228247770505105107" name="wifi_ip_settings_invalid_ip_address">"చెల్లుబాటు అయ్యే IP చిరునామాను నమోదు చేయండి"</string>
+    <string msgid="6209978918929182270" name="wifi_ip_settings_invalid_network_prefix_length">"నెట్. ఆది. పొడ. 0 మరియు 32 మధ్య ఉండేలా నమో. చేయం."</string>
+    <string msgid="332915798888599682" name="wifi_network_prefix_length_hint">"చెల్లుబాటు అయ్యే నెట్‌వర్క్ ఆదిప్రత్యయం పొడవును నమోదు చేయండి.\nఉదాహరణ: 24"</string>
+    <string msgid="342867509887486418" name="wifi_not_in_range">"పరిధిలో లేదు"</string>
+    <string msgid="710973813096194477" name="wifi_remembered">"సేవ్ చేయబడింది"</string>
+    <string msgid="1269061570772019215" name="wifi_saving">"<ns1:g id="SSID">%1$s</ns1:g> కాన్ఫిగరేషన్‌ను సేవ్ చేస్తోంది"</string>
+    <string msgid="9147292132572887175" name="wifi_secured_first_item">"<ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g>తో సురక్షితం చేయబడింది"</string>
+    <string msgid="4204734116810783051" name="wifi_secured_second_item">", <ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g>తో సురక్షితం చేయబడింది"</string>
+    <string msgid="1241101191574932821" name="wifi_security_none">"ఏదీ వద్దు"</string>
+    <string msgid="1106303698253987745" name="wifi_security_type_eap">"802.1x EAP"</string>
+    <string msgid="6622722325237471927" name="wifi_security_type_none">"ఏదీ వద్దు"</string>
+    <string msgid="3836879161029325671" name="wifi_security_type_wep">"WEP"</string>
+    <string msgid="4948411057925876780" name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
+    <string msgid="1244646604369133314" name="wifi_setting_available_networks">"అందుబాటులో ఉండే నెట్‌వర్క్‌లు"</string>
+    <string msgid="6244107218643835636" name="wifi_setting_header_available_networks">"Wi-Fi"</string>
+    <string msgid="1530334691232749342" name="wifi_setting_header_other_options">"ఇతర ఎంపికలు"</string>
+    <string msgid="2791106243851894788" name="wifi_setting_other_options_add_network">"కొత్త నెట్‌వర్క్‌ని జోడించండి"</string>
+    <string msgid="2320322351779996152" name="wifi_setting_other_options_wps">"WPS ద్వారా కనెక్ట్ చేయి"</string>
+    <string msgid="3217814666041974878" name="wifi_setting_see_all">"అన్నీ చూడండి"</string>
+    <string msgid="7583498018733069053" name="wifi_summary_description_connected_to_wifi_network">"ఇప్పటికే <ns1:g id="SSID">%1$s</ns1:g>కి కనెక్ట్ చేయబడింది. వేరొక నెట్‌వర్క్‌కి కనెక్ట్ చేయాలా?"</string>
+    <string msgid="8329216588732277139" name="wifi_summary_title_connected">"నెట్‌వర్క్ కనెక్ట్ చేయబడింది"</string>
+    <string msgid="3799548944869386251" name="wifi_summary_title_not_connected">"నెట్‌వర్క్ కనెక్ట్ కాలేదు"</string>
+    <string msgid="7903601448928422642" name="wifi_summary_unknown_network">"తెలియని నెట్‌వర్క్"</string>
+    <string msgid="2505782834128907733" name="wifi_wps_available_first_item">"WPS అందుబాటులో ఉంది"</string>
+    <string msgid="375469856423243587" name="wifi_wps_available_second_item">" (WPS అందుబాటులో ఉంది)"</string>
+    <string msgid="3562470978552920877" name="wifi_wps_cancel_scan">"రద్దు చేయి"</string>
+    <string msgid="8934636373182298397" name="wifi_wps_failed_generic">"Wi-Fi రూటర్‌ను కనుగొనడం సాధ్యపడలేదు"</string>
+    <string msgid="3091222818050940041" name="wifi_wps_failed_overlap">"మరో WPS సెషన్ ప్రోగ్రెస్‌లో ఉంది. కొన్ని నిమిషాల్లో మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="1712545345594227319" name="wifi_wps_failed_tkip">"Wi-Fi రూటర్ భద్రతా సెట్టింగ్ (TKIP)కి మద్దతు లేదు"</string>
+    <string msgid="9158670824165143348" name="wifi_wps_failed_wep">"Wi-Fi రూటర్ భద్రతా సెట్టింగ్ (WEP)కి మద్దతు లేదు"</string>
+    <string msgid="7082889465182680949" name="wifi_wps_in_progress">"WPS ఇప్పటికే ప్రోగ్రెస్‌లో ఉంది, ముగియడానికి గరిష్టంగా 2 నిమిషాలు పట్టవచ్చు"</string>
+    <string msgid="3618110962669110034" name="wifi_wps_instructions">"మీ రూటర్‌లో Wi-Fi సురక్షిత సెటప్ బటన్‌ను నొక్కండి.\nఇది \"WPS\" అని పిలవబడవచ్చు లేదా ఎడమవైపు గుర్తును కలిగి ఉంటుంది."</string>
+    <string msgid="594985182235834825" name="wifi_wps_onstart_pin">"మీ Wi-Fi రూటర్‌లో PIN <ns1:g id="NUMBER">%1$s</ns1:g>ని నమోదు చేయండి"</string>
+    <string msgid="4206001352944024353" name="wifi_wps_onstart_pin_description">"మీరు PINను నమోదు చేసిన తర్వాత, సెటప్‌ పూర్తి కావడానికి గరిష్టంగా 2 నిమిషాలు పట్టవచ్చు"</string>
+    <string msgid="6171190323753080808" name="wifi_wps_retry_scan">"మళ్లీ ప్రయత్నించండి"</string>
+    <string msgid="1872305810119408482" name="wifi_wps_title">"WPS రూటర్ కోసం శోధిస్తోంది…"</string>
+    <string msgid="1052148085426051873" name="wps_network">"WPS ద్వారా కనెక్ట్ చేయి"</string>
+</resources>

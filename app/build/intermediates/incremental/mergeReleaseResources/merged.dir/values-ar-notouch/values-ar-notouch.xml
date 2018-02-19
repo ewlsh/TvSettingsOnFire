@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"غرفة المعيشة"</item>
+    <item msgid="7887185726776968055">"غرفة الوسائط"</item>
+    <item msgid="372573326176756144">"غرفة الأسرة"</item>
+    <item msgid="8112576067079559786">"غرفة تناول الطعام"</item>
+    <item msgid="2891751328917513846">"غرفة صغيرة"</item>
+    <item msgid="7390608863950443962">"غرفة النوم"</item>
+    <item msgid="682313511953895794">"المطبخ"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"ليس هناك حساب يخزن حاليًا البيانات التي يتم نسخها احتياطيًا."</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"هل تريد إيقاف النسخ الاحتياطي لكلمات مرور Wi-Fi والإشارات المرجعية والإعدادات الأخرى وبيانات التطبيق ومحو كل النُسخ على خوادم Google؟"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"تغيير"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"هل تريد مسح جميع المعلومات الشخصية والتطبيقات التي تم تنزيلها؟ لا يمكنك التراجع عن هذا الإجراء!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"مسح كل شيء"</string>
+    <string msgid="5972936200641815527" name="custom_room">"إدخال اسم مخصص…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"محو ذاكرة التخزين المؤقت"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"محو البيانات"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"سيتم حذف جميع بيانات التطبيق هذه نهائيًا."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"يشمل هذا جميع الملفات والإعدادات والحسابات وقواعد البيانات، وما إلى ذلك."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"محو الإعدادات الافتراضية"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"لم يتم تعيين إعدادات افتراضية"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"تعيين تشغيل هذا التطبيق لبعض الإجراءات"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"فرض الإيقاف"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"في حالة فرض إيقاف التطبيق، ربما لا يعمل بشكل صحيح."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"الإشعارات"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"فتح"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"الأذونات"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"إزالة"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"هل تريد إزالة هذا التطبيق؟"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"الإصدار <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"بلا"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"وقت السكون"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"تتوقّف الشاشة عن العمل بعد هذه الفترة من الخمول."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> بعد الحلم"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"أحلام اليقظة"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"وقت تشغيل خلفيات أحلام اليقظة التفاعلية"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"تبدأ شاشة التوقف أحلام اليقظة بعد هذه الفترة من عدم النشاط. إذا لم يتم تحديد إحدى شاشات أحلام اليقظة، يتم إيقاف الشاشة."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"بعد <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> من عدم النشاط"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"البدء الآن"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"رفض الكل"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"عند تمكينه، ستظهر الإشعارات الجديدة في الإعدادات فقط"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"الرجاء عدم الإزعاج"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"سيؤدي هذا الإجراء إلى مسح جميع بياناتك من وحدة التخزين الداخلية بجهازك، بما في ذلك حساب Google، وبيانات وإعدادات النظام والتطبيق، والتطبيقات التي تمّ تنزيلها"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"إعادة تعيين الجهاز"</string>
+    <string msgid="549230720820096102" name="keep_settings">"عدم التغيير"</string>
+    <string msgid="2164687828212723531" name="menu_help">"مساعدة"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"لا شيء"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"استرداد تلقائي"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"الحساب الاحتياطي"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"الاحتفاظ بنسخة احتياطية من بياناتي"</string>
+    <string msgid="4080602542483519716" name="select_description">"سيساعد الاسم في تعريف ^1 عند الدخول إليه من أجهزة أخرى مثل الهاتف أو الجهاز اللوحي أو الكمبيوتر."</string>
+    <string msgid="2657901623249723536" name="select_title">"اختيار اسم لـ ^1"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"إلغاء"</string>
+    <string msgid="4439170658516725721" name="settings_off">"إيقاف"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"موافق"</string>
+    <string msgid="1295064657786011878" name="settings_on">"تشغيل"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" هو اسم جهاز ^2 هذا. فهل تريد إجراء تغيير على ذلك؟"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"تم تحديد اسم ^1"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"إعادة المحاولة"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"حدث خطأ"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"تم الاتصال بنجاح."</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"أدخل كلمة المرور إلى <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"تم الحفظ بنجاح."</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"جارٍ الانضمام إلى ^1"</string>
+</resources>

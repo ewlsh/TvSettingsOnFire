@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Stofa"</item>
+    <item msgid="7887185726776968055">"Sjónvarpsherbergi"</item>
+    <item msgid="372573326176756144">"Fjölskylduherbergi"</item>
+    <item msgid="8112576067079559786">"Borðstofa"</item>
+    <item msgid="2891751328917513846">"Lesstofa"</item>
+    <item msgid="7390608863950443962">"Svefnherbergi"</item>
+    <item msgid="682313511953895794">"Eldhús"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Sem stendur geymir enginn reikningur öryggisafrit af gögnum"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Hætta að taka öryggisafrit af Wi-Fi aðgangsorðum, bókamerkjum, öðrum stillingum og gögnum forrita, og eyða öllum afritum af þjónum Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Breyta"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Eyða öllum persónuupplýsingum og sóttum forritum? Ekki er hægt að afturkalla þessa aðgerð."</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Eyða öllu"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Sláðu inn eigið heiti..."</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Hreinsa úr skyndiminni"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Hreinsa gögn"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Öllum gögnum þessa forrits verður eytt varanlega."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Þar með eru allar skrár, stillingar, reikningar, gagnagrunnar o.s.frv."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Hreinsa sjálfgildi"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Engin sjálfgildi stillt"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Stillt á að ræsa þetta forrit við sumar aðgerðir"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Þvinga fram lokun"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Ef þú þvingar fram lokun forrits gæti það látið illa."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Tilkynningar"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Opna"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Aðgangsheimildir"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Eyða"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Viltu fjarlægja þetta forrit?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"útgáfa <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Enginn"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Hvenær slokknar á skjánum"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"Slökkt verður á skjánum eftir aðgerðaleysi í þetta langan tíma."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"eftir skjávara í <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Skjávari"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Hvenær nota á skjávara"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Skjávari birtist eftir svona langt aðgerðaleysi. Ef enginn skjávari er valinn er slökkt á skjánum."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Eftir <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> án aðgerða"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Byrja núna"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Hunsa allt"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Þegar þetta er virkt birtast nýjar tilkynningar bara í stillingunum"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Ónáðið ekki"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Þetta eyðir öllum gögnum úr innbyggðri geymslu tækisins, þar á meðal Google reikningnum þínum, gögnum og stillingum kerfis og forrita og sóttum forritum"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Endurstilla tæki"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Ekki breyta"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Hjálp"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Engar"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Sjálfvirk endurheimt"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Afritunarreikningur"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Taka öryggisafrit af gögnunum mínum"</string>
+    <string msgid="4080602542483519716" name="select_description">"Heiti gerir þér kleift að bera kennsl á ^1 þegar þú færð aðgang að því úr öðrum tækjum á borð við síma, spjaldtölvu eða tölvu."</string>
+    <string msgid="2657901623249723536" name="select_title">"Veldu heiti fyrir ^1"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Hætta við"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Slökkt"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"Í lagi"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Kveikt"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"Heiti þessa ^2 tækis er „^1“. Viltu breyta því?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"Þetta ^1 hefur verið nefnt"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Reyna aftur"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Villa kom upp"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Tengingin heppnaðist!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Sláðu inn aðgangsorð fyrir <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Vistað!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Tengist ^1"</string>
+</resources>

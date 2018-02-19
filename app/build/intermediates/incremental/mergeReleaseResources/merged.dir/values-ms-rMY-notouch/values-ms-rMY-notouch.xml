@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Ruang Tamu"</item>
+    <item msgid="7887185726776968055">"Bilik Media"</item>
+    <item msgid="372573326176756144">"Bilik Keluarga"</item>
+    <item msgid="8112576067079559786">"Bilik Makan"</item>
+    <item msgid="2891751328917513846">"Bilik peribadi"</item>
+    <item msgid="7390608863950443962">"Bilik tidur"</item>
+    <item msgid="682313511953895794">"Dapur"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Tiada akaun yang sedang menyimpan data sandaran"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Berhenti membuat sandaran kata laluan Wi-Fi, penanda halaman, tetapan lain dan data aplikasi anda, serta padamkan semua salinan pada pelayan Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Tukar"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Padamkan semua maklumat peribadi anda dan aplikasi yang dimuat turun? Anda tidak boleh membalikkan tindakan ini!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Padamkan kesemuanya"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Masukkan Nama Tersuai…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Padam bersih cache"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Padam bersih data"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Semua data apl ini akan dipadamkan secara kekal."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Ini termasuklah semua fail, tetapan, akaun, pangkalan data, dsb."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Padam bersih tindakan lalai"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Tiada lalai ditetapkan"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Dittpkn spya lncrkn apl utk tndkn trtntu"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Henti paksa"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Jika anda menghentikan aplikasi secara paksa, aplikasi itu mungkin tidak berfungsi dengan betul."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Pemberitahuan"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Buka"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Kebenaran"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Nyahpasang"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Adakah anda mahu menyahpasang apl ini?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"versi <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Tiada"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Bila masa untuk tidur"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"Skrin dimatikan selepas tempoh tidak aktif ini."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> selepas lamunan"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Lamunan"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Bila untuk melamun"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Lamunan bermula selepas tempoh ketakaktifan ini. Jika tiada lamunan dipilih, paparan akan dimatikan."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Selepas <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> tiada aktiviti"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Mulakan sekarang"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Ketepikan semua"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Didayakan, pemberitahuan muncul dlm Ttpn"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Jangan ganggu"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Tindakan ini akan memadamkan semua data dari storan dalaman peranti anda, termasuk: akaun Google anda, data dan tetapan sistem serta apl dan apl yang dimuat turun"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Tetapkan semula peranti"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Jangan tukar"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Bantuan"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Tiada"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Pemulihan automatik"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Akaun sandaran"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Sandarkan data saya"</string>
+    <string msgid="4080602542483519716" name="select_description">"Nama dapat membantu mengenal pasti ^1 anda apabila mengaksesnya dari peranti lain seperti telefon, tablet atau komputer anda."</string>
+    <string msgid="2657901623249723536" name="select_title">"Pilih nama untuk ^1 anda"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Batal"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Mati"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Hidup"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" ialah nama ^2 ini. Adakah anda mahu menukar ini?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"^1 ini dinamakan"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Cuba semula"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Berlaku ralat"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Berjaya disambungkan!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Masukkan kata laluan untuk <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Berjaya disimpan!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Menyertai ^1"</string>
+</resources>

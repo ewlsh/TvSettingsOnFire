@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_action_bg_focused.9.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_bg.9.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_in_app_search.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_search_mic.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_search_mic_out.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_sad_cloud.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_actions_right_arrow.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_action_bg_focused.9.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_actions_right_arrow.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_shadow_focused.9.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_shadow_focused.9.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_shadow_normal.9.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_search_mic_out.png",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_search_mic.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_bg.9.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_in_app_search.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_in_app_search_shadow_normal.9.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lb_ic_sad_cloud.png",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/drawable-xxhdpi-v4/lb_ic_sad_cloud.png"
+    }
+]

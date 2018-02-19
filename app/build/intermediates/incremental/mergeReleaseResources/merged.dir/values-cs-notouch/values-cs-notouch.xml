@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Obývací pokoj"</item>
+    <item msgid="7887185726776968055">"Multimediální místnost"</item>
+    <item msgid="372573326176756144">"Společenská místnost"</item>
+    <item msgid="8112576067079559786">"Jídelna"</item>
+    <item msgid="2891751328917513846">"Pracovna"</item>
+    <item msgid="7390608863950443962">"Ložnice"</item>
+    <item msgid="682313511953895794">"Kuchyně"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Záložní data nejsou momentálně ukládána do žádného účtu."</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Chcete přestat zálohovat hesla sítí Wi-Fi, záložky, další nastavení, data aplikací a vymazat všechny kopie ze serverů Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Změnit"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Chcete smazat všechny osobní informace a stažené aplikace? Tuto akci nelze vrátit zpět."</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Odstranit vše"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Zadejte vlastní název…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Vymazat mezipaměť"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Vymazat data"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Všechna data této aplikace budou trvale vymazána."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Vymazány budou všechny soubory, nastavení, účty, databáze apod."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Vymazat výchozí nastavení"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Nejsou nastavena výchozí nastavení"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Nastavit spuštění této aplikace pro akce"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Vynutit zastavení"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Vynucené zastavení může způsobit nepředvídatelné chování aplikace."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Oznámení"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Otevřít"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Oprávnění"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Odinstalovat"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Chcete tuto aplikaci odinstalovat?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"verze <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Žádný"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Kdy spát"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"Po této době neaktivity se vypne obrazovka."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> po aktivaci spořiče obrazovky"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Spořič obrazovky"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Kdy spořič spustit"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Spořič obrazovky se spustí po této době nečinnosti. Pokud není vybrán žádný spořič obrazovky, displej se vypne."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Po nečinnosti trvající <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Začít"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Ignorovat vše"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Oznámení se zobrazují pouze v nastavení"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Nerušit"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Touto akcí smažete z interního úložiště zařízení všechna data, včetně následujících: svůj účet Google, data a nastavení systému a aplikací a stažené aplikace"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Resetovat zařízení"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Neměnit"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Nápověda"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Žádné"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Automatické obnovení"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Záložní účet"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Zálohovat moje data"</string>
+    <string msgid="4080602542483519716" name="select_description">"Název pomůže vaše zařízení ^1 identifikovat, když do něj budete přistupovat z jiných zařízení, například z telefonu, tabletu nebo počítače."</string>
+    <string msgid="2657901623249723536" name="select_title">"Zvolte název zařízení ^1"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Zrušit"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Vypnuto"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Zapnuto"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"Název tohoto zařízení ^2 je ^1. Chcete jej změnit?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"Toto zařízení ^1 již má název"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Opakovat"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Došlo k chybě"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Připojení bylo úspěšné!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Zadejte heslo pro síť <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Úspěšně uloženo."</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Připojování k ^1"</string>
+</resources>

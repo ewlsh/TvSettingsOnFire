@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/debug/xml-el/timezones.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/src/main/res/xml-el/timezones.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/res/merged/debug/xml-el/timezones.xml",
+        "source": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/xml-el/timezones.xml"
+    }
+]

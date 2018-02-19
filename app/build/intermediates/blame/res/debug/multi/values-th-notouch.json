@@ -1,0 +1,2182 @@
+[
+    {
+        "outputFile": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th-notouch/values-th-notouch.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 10,
+                    "endColumn": 17,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 6518,
+                        "endLine": 74,
+                        "endColumn": 17,
+                        "endOffset": 6987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 145,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4535,
+                        "endColumn": 145,
+                        "endOffset": 4676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 211,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endColumn": 211,
+                        "endOffset": 4971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 74,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4681,
+                        "endColumn": 82,
+                        "endOffset": 4759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 79,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7317,
+                        "endColumn": 79,
+                        "endOffset": 7392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 177,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5581,
+                        "endColumn": 177,
+                        "endOffset": 5754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 96,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5759,
+                        "endColumn": 96,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endColumn": 90,
+                    "endOffset": 1453
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6992,
+                        "endColumn": 90,
+                        "endOffset": 7078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1458,
+                    "endColumn": 104,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2781,
+                        "endColumn": 104,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 106,
+                    "endOffset": 1665
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 106,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1670,
+                    "endColumn": 139,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 139,
+                        "endOffset": 2229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 159,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2234,
+                        "endColumn": 159,
+                        "endOffset": 2389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 114,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2394,
+                        "endColumn": 114,
+                        "endOffset": 2504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 125,
+                    "endOffset": 2206
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 125,
+                        "endOffset": 2776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2211,
+                    "endColumn": 145,
+                    "endOffset": 2352
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2509,
+                        "endColumn": 145,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2357,
+                    "endColumn": 109,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 109,
+                        "endOffset": 1590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2467,
+                    "endColumn": 145,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1595,
+                        "endColumn": 145,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 111,
+                    "endOffset": 2720
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2886,
+                        "endColumn": 111,
+                        "endOffset": 2993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2725,
+                    "endColumn": 94,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 94,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endColumn": 106,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2998,
+                        "endColumn": 106,
+                        "endOffset": 3100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 108,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 108,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 136,
+                    "endOffset": 3168
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 136,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3173,
+                    "endColumn": 138,
+                    "endOffset": 3307
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 142,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3312,
+                    "endColumn": 85,
+                    "endOffset": 3393
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3411,
+                        "endColumn": 85,
+                        "endOffset": 3492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3398,
+                    "endColumn": 108,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4122,
+                        "endColumn": 108,
+                        "endOffset": 4226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 141,
+                    "endOffset": 3644
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4231,
+                        "endColumn": 141,
+                        "endOffset": 4368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3649,
+                    "endColumn": 157,
+                    "endOffset": 3802
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4373,
+                        "endColumn": 161,
+                        "endOffset": 4530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3807,
+                    "endColumn": 90,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3497,
+                        "endColumn": 90,
+                        "endOffset": 3583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 96,
+                    "endOffset": 3990
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endColumn": 96,
+                        "endOffset": 3769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3995,
+                    "endColumn": 183,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3774,
+                        "endColumn": 183,
+                        "endOffset": 3953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 159,
+                    "endOffset": 4334
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3958,
+                        "endColumn": 163,
+                        "endOffset": 4117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4339,
+                    "endColumn": 88,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3588,
+                        "endColumn": 88,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 94,
+                    "endOffset": 4518
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endColumn": 94,
+                        "endOffset": 5946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4523,
+                    "endColumn": 133,
+                    "endOffset": 4652
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 6121,
+                        "endColumn": 133,
+                        "endOffset": 6250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4657,
+                    "endColumn": 88,
+                    "endOffset": 4741
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 6032,
+                        "endColumn": 88,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4746,
+                    "endColumn": 217,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5363,
+                        "endColumn": 217,
+                        "endOffset": 5576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 92,
+                    "endOffset": 5052
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5270,
+                        "endColumn": 92,
+                        "endOffset": 5358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5057,
+                    "endColumn": 81,
+                    "endOffset": 5134
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7397,
+                        "endColumn": 81,
+                        "endOffset": 7474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5139,
+                    "endColumn": 81,
+                    "endOffset": 5216
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7479,
+                        "endColumn": 81,
+                        "endOffset": 7556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5221,
+                    "endColumn": 80,
+                    "endOffset": 5297
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5951,
+                        "endColumn": 80,
+                        "endOffset": 6027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5302,
+                    "endColumn": 99,
+                    "endOffset": 5397
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5170,
+                        "endColumn": 99,
+                        "endOffset": 5265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5402,
+                    "endColumn": 97,
+                    "endOffset": 5495
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5072,
+                        "endColumn": 97,
+                        "endOffset": 5165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5500,
+                    "endColumn": 95,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4976,
+                        "endColumn": 95,
+                        "endOffset": 5067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 167,
+                    "endOffset": 5759
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6352,
+                        "endColumn": 167,
+                        "endOffset": 6515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5764,
+                    "endColumn": 96,
+                    "endOffset": 5856
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 6255,
+                        "endColumn": 96,
+                        "endOffset": 6347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5861,
+                    "endColumn": 80,
+                    "endOffset": 5937
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3180,
+                        "endColumn": 80,
+                        "endOffset": 3256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5942,
+                    "endColumn": 74,
+                    "endOffset": 6012
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3336,
+                        "endColumn": 74,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6017,
+                    "endColumn": 74,
+                    "endOffset": 6087
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3105,
+                        "endColumn": 74,
+                        "endOffset": 3175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6092,
+                    "endColumn": 74,
+                    "endOffset": 6162
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3261,
+                        "endColumn": 74,
+                        "endOffset": 3331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6167,
+                    "endColumn": 136,
+                    "endOffset": 6299
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7180,
+                        "endColumn": 136,
+                        "endOffset": 7312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6304,
+                    "endColumn": 96,
+                    "endOffset": 6396
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7083,
+                        "endColumn": 96,
+                        "endOffset": 7175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6401,
+                    "endColumn": 96,
+                    "endOffset": 6493
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7654,
+                        "endColumn": 96,
+                        "endOffset": 7746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6498,
+                    "endColumn": 92,
+                    "endOffset": 6586
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7561,
+                        "endColumn": 92,
+                        "endOffset": 7649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6591,
+                    "endColumn": 104,
+                    "endOffset": 6691
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 104,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6696,
+                    "endColumn": 132,
+                    "endOffset": 6824
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 136,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6829,
+                    "endColumn": 99,
+                    "endOffset": 6924
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 99,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6929,
+                    "endColumn": 100,
+                    "endOffset": 7025
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 100,
+                        "endOffset": 1037
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th-notouch/values-th-notouch.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 10,
+                    "endColumn": 17,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 6518,
+                        "endLine": 74,
+                        "endColumn": 17,
+                        "endOffset": 6987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 145,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4535,
+                        "endColumn": 145,
+                        "endOffset": 4676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 211,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endColumn": 211,
+                        "endOffset": 4971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 74,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4681,
+                        "endColumn": 82,
+                        "endOffset": 4759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 79,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7317,
+                        "endColumn": 79,
+                        "endOffset": 7392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 177,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5581,
+                        "endColumn": 177,
+                        "endOffset": 5754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 96,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5759,
+                        "endColumn": 96,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endColumn": 90,
+                    "endOffset": 1453
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6992,
+                        "endColumn": 90,
+                        "endOffset": 7078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1458,
+                    "endColumn": 104,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2781,
+                        "endColumn": 104,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 106,
+                    "endOffset": 1665
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 106,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1670,
+                    "endColumn": 139,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 139,
+                        "endOffset": 2229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 159,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2234,
+                        "endColumn": 159,
+                        "endOffset": 2389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 114,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2394,
+                        "endColumn": 114,
+                        "endOffset": 2504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 125,
+                    "endOffset": 2206
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 125,
+                        "endOffset": 2776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2211,
+                    "endColumn": 145,
+                    "endOffset": 2352
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2509,
+                        "endColumn": 145,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2357,
+                    "endColumn": 109,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 109,
+                        "endOffset": 1590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2467,
+                    "endColumn": 145,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1595,
+                        "endColumn": 145,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 111,
+                    "endOffset": 2720
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2886,
+                        "endColumn": 111,
+                        "endOffset": 2993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2725,
+                    "endColumn": 94,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 94,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endColumn": 106,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2998,
+                        "endColumn": 106,
+                        "endOffset": 3100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 108,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 108,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 136,
+                    "endOffset": 3168
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 136,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3173,
+                    "endColumn": 138,
+                    "endOffset": 3307
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 142,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3312,
+                    "endColumn": 85,
+                    "endOffset": 3393
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3411,
+                        "endColumn": 85,
+                        "endOffset": 3492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3398,
+                    "endColumn": 108,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4122,
+                        "endColumn": 108,
+                        "endOffset": 4226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 141,
+                    "endOffset": 3644
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4231,
+                        "endColumn": 141,
+                        "endOffset": 4368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3649,
+                    "endColumn": 157,
+                    "endOffset": 3802
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4373,
+                        "endColumn": 161,
+                        "endOffset": 4530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3807,
+                    "endColumn": 90,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3497,
+                        "endColumn": 90,
+                        "endOffset": 3583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 96,
+                    "endOffset": 3990
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endColumn": 96,
+                        "endOffset": 3769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3995,
+                    "endColumn": 183,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3774,
+                        "endColumn": 183,
+                        "endOffset": 3953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 159,
+                    "endOffset": 4334
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3958,
+                        "endColumn": 163,
+                        "endOffset": 4117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4339,
+                    "endColumn": 88,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3588,
+                        "endColumn": 88,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 94,
+                    "endOffset": 4518
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endColumn": 94,
+                        "endOffset": 5946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4523,
+                    "endColumn": 133,
+                    "endOffset": 4652
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 6121,
+                        "endColumn": 133,
+                        "endOffset": 6250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4657,
+                    "endColumn": 88,
+                    "endOffset": 4741
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 6032,
+                        "endColumn": 88,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4746,
+                    "endColumn": 217,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5363,
+                        "endColumn": 217,
+                        "endOffset": 5576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 92,
+                    "endOffset": 5052
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5270,
+                        "endColumn": 92,
+                        "endOffset": 5358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5057,
+                    "endColumn": 81,
+                    "endOffset": 5134
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7397,
+                        "endColumn": 81,
+                        "endOffset": 7474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5139,
+                    "endColumn": 81,
+                    "endOffset": 5216
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7479,
+                        "endColumn": 81,
+                        "endOffset": 7556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5221,
+                    "endColumn": 80,
+                    "endOffset": 5297
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5951,
+                        "endColumn": 80,
+                        "endOffset": 6027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5302,
+                    "endColumn": 99,
+                    "endOffset": 5397
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5170,
+                        "endColumn": 99,
+                        "endOffset": 5265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5402,
+                    "endColumn": 97,
+                    "endOffset": 5495
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5072,
+                        "endColumn": 97,
+                        "endOffset": 5165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5500,
+                    "endColumn": 95,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4976,
+                        "endColumn": 95,
+                        "endOffset": 5067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 167,
+                    "endOffset": 5759
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6352,
+                        "endColumn": 167,
+                        "endOffset": 6515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5764,
+                    "endColumn": 96,
+                    "endOffset": 5856
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 6255,
+                        "endColumn": 96,
+                        "endOffset": 6347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5861,
+                    "endColumn": 80,
+                    "endOffset": 5937
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3180,
+                        "endColumn": 80,
+                        "endOffset": 3256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5942,
+                    "endColumn": 74,
+                    "endOffset": 6012
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3336,
+                        "endColumn": 74,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6017,
+                    "endColumn": 74,
+                    "endOffset": 6087
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3105,
+                        "endColumn": 74,
+                        "endOffset": 3175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6092,
+                    "endColumn": 74,
+                    "endOffset": 6162
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3261,
+                        "endColumn": 74,
+                        "endOffset": 3331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6167,
+                    "endColumn": 136,
+                    "endOffset": 6299
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7180,
+                        "endColumn": 136,
+                        "endOffset": 7312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6304,
+                    "endColumn": 96,
+                    "endOffset": 6396
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7083,
+                        "endColumn": 96,
+                        "endOffset": 7175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6401,
+                    "endColumn": 96,
+                    "endOffset": 6493
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7654,
+                        "endColumn": 96,
+                        "endOffset": 7746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6498,
+                    "endColumn": 92,
+                    "endOffset": 6586
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7561,
+                        "endColumn": 92,
+                        "endOffset": 7649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6591,
+                    "endColumn": 104,
+                    "endOffset": 6691
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 104,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6696,
+                    "endColumn": 132,
+                    "endOffset": 6824
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 136,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6829,
+                    "endColumn": 99,
+                    "endOffset": 6924
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 99,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6929,
+                    "endColumn": 100,
+                    "endOffset": 7025
+                },
+                "from": {
+                    "file": "/home/evan/Development/TvSettings-git/TvSettings/Settings/app/src/main/res/values-th-notouch/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 100,
+                        "endOffset": 1037
+                    }
+                }
+            }
+        ]
+    }
+]

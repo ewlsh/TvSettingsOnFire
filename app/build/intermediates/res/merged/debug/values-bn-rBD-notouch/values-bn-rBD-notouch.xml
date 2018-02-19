@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"লিভিং রুম"</item>
+    <item msgid="7887185726776968055">"মিডিয়া রুম"</item>
+    <item msgid="372573326176756144">"ফ্যামিলি রুম"</item>
+    <item msgid="8112576067079559786">"খাবার ঘর"</item>
+    <item msgid="2891751328917513846">"কুঠরি"</item>
+    <item msgid="7390608863950443962">"শোওয়ার ঘর"</item>
+    <item msgid="682313511953895794">"রান্নাঘর"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"বর্তমানে কোনো অ্যাকাউন্টই ব্যাক আপ করা ডেটা সংরক্ষণ করছে না"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"আপনার Wi-Fi পাসওয়ার্ড, বুকমার্ক, অন্যান্য সেটিংস, এবং অ্যাপ্লিকেশান ডেটা ব্যাক আপ করা বন্ধ করে Google সার্ভারে থাকা সব অনুলিপি মুছে ফেলবেন?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"পরিবর্তন করুন"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"আপনার সমস্ত ব্যক্তিগত ডেটা এবং ডাউনলোড করা অ্যাপ্লিকেশান মুছে দিতে চান? আপনি পদক্ষেপটি আর বাতিল করতে পারবেন না!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"সবকিছু মুছে দিন"</string>
+    <string msgid="5972936200641815527" name="custom_room">"কাস্টম নাম লিখুন..."</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"ক্যাশে সাফ করুন"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"ডেটা সাফ করুন"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"এই অ্যাপ্লিকেশানের সব ডেটা স্থায়ীভাবে মুছে ফেলা হবে।"</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"এর মধ্যে সব ফাইল, সেটিংস, অ্যাকাউন্ট, ডেটাবেস ইত্যাদি অন্তর্ভুক্ত।"</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"ডিফল্টগুলি সাফ করুন"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"কোনো ডিফল্ট সেট করা নেই"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"কিছু ক্রিয়ার জন্য এই অ্যাপ্লিকেশানটি লঞ্চ করতে সেট করুন"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"জোর করে বন্ধ করুন"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"আপনি কোনো অ্যাপ্লিকেশানকে জোর করে বন্ধ করলে, তা অস্বাভাবিক ব্যবহার করতে পারে।"</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"বিজ্ঞপ্তিগুলি"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"খুলুন"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"অনুমতিগুলি"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"আনইনস্টল করুন"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"আপনি কি এই অ্যাপ্লিকেশানটিকে আনইনস্টল করতে চান?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"সংস্করণ <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"কোনো কিছুই নয়"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"কখন ঘুমাতে যাবে"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"এই সময়সীমা পর্যন্ত নিষ্ক্রিয় অবস্থায় থাকলে স্ক্রীন বন্ধ হয়ে যাবে৷"</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"দিবাস্বপ্নের পরে <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g>"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"স্ক্রিনসেভার"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"কখন দিবাস্বপ্নে যাবে"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"এত সময় ধরে নিষ্ক্রিয় থাকার পরে স্ক্রিনসেভার শুরু হয়। কোনো স্ক্রিনসেভার নির্বাচিত না করা থাকলে প্রদর্শন বন্ধ হয়ে যাবে।"</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> নিষ্ক্রিয়তার পরে"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"এখন শুরু করুন"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"সব খারিজ করুন"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"সক্ষম করা হলে, নতুন বিজ্ঞপ্তিগুলি শুধুমাত্র সেটিংসে দেখা যাবে"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"বিরক্ত করবেন না"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"এটি আপনার ডিভাইসের অভ্যন্তরীণ সঞ্চয়স্থান থেকে সব ডেটা মুছে ফেলবে। আপনার Google অ্যাকাউন্ট, সিস্টেম ও অ্যাপ্লিকেশানের ডেটা ও সেটিংস এবং ডাউনলোড করা অ্যাপ্লিকেশান এসব ডেটার অন্তর্ভুক্ত।"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"ডিভাইসটি পুনরায় সেট করুন"</string>
+    <string msgid="549230720820096102" name="keep_settings">"পরিবর্তন করবেন না"</string>
+    <string msgid="2164687828212723531" name="menu_help">"সহায়তা"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"একটিও নেই"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"স্বয়ংক্রিয় পুনরুদ্ধার"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"ব্যাকআপ অ্যাকাউন্ট"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"আমার ডেটার ব্যাকআপ রাখুন"</string>
+    <string msgid="4080602542483519716" name="select_description">"আপনার ফোন, ট্যাবলেট বা কম্পিউটারের মতো অন্য কোনো ডিভাইস থেকে যখন ^1 এ অ্যাক্সেস করবেন তখন এর নাম এটিকে সনাক্ত করতে সহায়তা করবে৷"</string>
+    <string msgid="2657901623249723536" name="select_title">"আপনার ^1 এর জন্য একটি নাম চয়ন করুন"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"বাতিল করুন"</string>
+    <string msgid="4439170658516725721" name="settings_off">"বন্ধ করুন"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"ঠিক আছে"</string>
+    <string msgid="1295064657786011878" name="settings_on">"চালু করুন"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"এই ^2 এর নাম \"^1\"৷ আপনি কি এর পরিবর্তন করতে চান?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"এই ^1 এর নাম দেওয়া হয়েছে"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"পুনরায় চেষ্টা করুন"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"একটি ত্রুটি ঘটেছে"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"সফলভাবে সংযুক্ত হয়েছে!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"<ns1:g id="SSID">%1$s</ns1:g> এর জন্য পাসওয়ার্ড দিন"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"সফলভাবে সংরক্ষিত হয়েছে!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"^1 যোগদান করছে"</string>
+</resources>

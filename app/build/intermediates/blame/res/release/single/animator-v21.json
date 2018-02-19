@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/res/merged/release/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/evan/Development/TvSettings/Settings/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.4.0/res/animator-v21/lb_playback_description_fade_out.xml"
+    }
+]

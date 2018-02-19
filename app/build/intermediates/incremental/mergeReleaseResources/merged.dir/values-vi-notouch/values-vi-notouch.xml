@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+    <item msgid="2748008285322003570">"Phòng khách"</item>
+    <item msgid="7887185726776968055">"Phòng truyền thông"</item>
+    <item msgid="372573326176756144">"Phòng gia đình"</item>
+    <item msgid="8112576067079559786">"Phòng ăn"</item>
+    <item msgid="2891751328917513846">"Phòng nhỏ riêng"</item>
+    <item msgid="7390608863950443962">"Phòng ngủ"</item>
+    <item msgid="682313511953895794">"Bếp"</item>
+  </string-array>
+    <string msgid="2013649183664358673" name="backup_configure_account_default_summary">"Hiện không có tài khoản nào đang lưu trữ dữ liệu được sao lưu"</string>
+    <string msgid="448169495686297910" name="backup_erase_dialog_message">"Dừng sao lưu mật khẩu Wi-Fi, dấu trang, cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên máy chủ của Google?"</string>
+    <string msgid="8900389956460363471" name="backup_erase_dialog_title"/>
+    <string msgid="199354038426145612" name="change_setting">"Thay đổi"</string>
+    <string msgid="5710644039419606428" name="confirm_factory_reset_description">"Xóa tất cả thông tin cá nhân và ứng dụng đã tải xuống của bạn? Bạn không thể hoàn nguyên tác vụ này!"</string>
+    <string msgid="519046408823105666" name="confirm_factory_reset_device">"Xóa mọi thứ"</string>
+    <string msgid="5972936200641815527" name="custom_room">"Nhập tên tùy chỉnh…"</string>
+    <string msgid="7878530504449821203" name="device_apps_app_management_clear_cache">"Xóa bộ nhớ cache"</string>
+    <string msgid="8288695583331012586" name="device_apps_app_management_clear_data">"Xóa dữ liệu"</string>
+    <string msgid="2197842469669426232" name="device_apps_app_management_clear_data_desc">"Tất cả dữ liệu của ứng dụng này sẽ bị xóa vĩnh viễn."</string>
+    <string msgid="376666756087041021" name="device_apps_app_management_clear_data_what">"Các dữ liệu bị xóa bao gồm tất cả các tệp, cài đặt, tài khoản, cơ sở dữ liệu, v.v."</string>
+    <string msgid="6654723680469212060" name="device_apps_app_management_clear_default">"Xóa mặc định"</string>
+    <string msgid="6312021202504995474" name="device_apps_app_management_clear_default_none">"Chưa đặt mặc định"</string>
+    <string msgid="6233682647156684225" name="device_apps_app_management_clear_default_set">"Đặt khởi chạy ƯD này cho một số tác vụ"</string>
+    <string msgid="1803832648099079651" name="device_apps_app_management_force_stop">"Buộc dừng"</string>
+    <string msgid="221435219644064243" name="device_apps_app_management_force_stop_desc">"Nếu bạn buộc dừng một ứng dụng, ứng dụng đó có thể hoạt động sai."</string>
+    <string msgid="7069935222112158478" name="device_apps_app_management_notifications">"Thông báo"</string>
+    <string msgid="3326361233913951387" name="device_apps_app_management_open">"Mở"</string>
+    <string msgid="5758303833496289673" name="device_apps_app_management_permissions">"Quyền"</string>
+    <string msgid="6054050725055974790" name="device_apps_app_management_uninstall">"Gỡ cài đặt"</string>
+    <string msgid="3542570994262234511" name="device_apps_app_management_uninstall_desc">"Bạn có muốn gỡ cài đặt ứng dụng này không?"</string>
+    <string msgid="6315648665194084382" name="device_apps_app_management_version">"phiên bản <ns1:g id="APP_VERSION">%1$s</ns1:g>"</string>
+    <string msgid="5310233518671772034" name="device_daydreams_none">"Không có"</string>
+    <string msgid="1846621864054404830" name="device_daydreams_screen_off">"Thời điểm ngủ"</string>
+    <string msgid="7699124270812914310" name="device_daydreams_screen_off_description">"Màn hình sẽ tắt sau khoảng thời gian không hoạt động này."</string>
+    <string msgid="6350806465141059041" name="device_daydreams_screen_off_summary">"<ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> sau khi ngủ"</string>
+    <string msgid="1754678562660674925" name="device_daydreams_select">"Chế độ ngủ"</string>
+    <string msgid="5263432145910468025" name="device_daydreams_sleep">"Khoảng thời gian trước khi ngủ"</string>
+    <string msgid="8438730889852772376" name="device_daydreams_sleep_description">"Chế độ ngủ bắt đầu sau khoảng thời gian không hoạt động này. Nếu không chọn chế độ ngủ, màn hình sẽ tắt."</string>
+    <string msgid="4442691086777437088" name="device_daydreams_sleep_summary">"Sau <ns1:g id="SLEEP_DESCRIPTION">%1$s</ns1:g> không hoạt động"</string>
+    <string msgid="7442554912076991502" name="device_daydreams_test">"Bắt đầu ngay"</string>
+    <string msgid="3350731990365092847" name="dismiss_all_notifications">"Loại bỏ tất cả"</string>
+    <string msgid="3186041965642361597" name="do_not_disturb_desc">"Khi bật, thông báo mới chỉ có trong Cài đặt"</string>
+    <string msgid="1050245577355301376" name="do_not_disturb_title">"Không làm phiền"</string>
+    <string msgid="6709336495536583649" name="factory_reset_description">"Tác vụ này sẽ xóa tất cả dữ liệu khỏi bộ nhớ trong của thiết bị, bao gồm: tài khoản Google, cài đặt và dữ liệu hệ thống cũng như ứng dụng, ứng dụng đã tải xuống"</string>
+    <string msgid="7615350252195583106" name="factory_reset_device">"Đặt lại thiết bị"</string>
+    <string msgid="549230720820096102" name="keep_settings">"Không thay đổi"</string>
+    <string msgid="2164687828212723531" name="menu_help">"Trợ giúp"</string>
+    <string msgid="3241328952121767751" name="no_notifications">"Không có"</string>
+    <string msgid="8896792578363571896" name="privacy_automatic_restore">"Tự động khôi phục"</string>
+    <string msgid="6127132568071889274" name="privacy_backup_account">"Tài khoản dự phòng"</string>
+    <string msgid="3652306596140877278" name="privacy_backup_data">"Sao lưu dữ liệu của tôi"</string>
+    <string msgid="4080602542483519716" name="select_description">"Tên giúp nhận dạng ^1 của bạn khi truy cập ^1 từ các thiết bị khác như điện thoại, máy tính bảng hoặc máy tính của bạn."</string>
+    <string msgid="2657901623249723536" name="select_title">"Chọn tên cho ^1 của bạn"</string>
+    <string msgid="1649053173330804917" name="settings_cancel">"Hủy"</string>
+    <string msgid="4439170658516725721" name="settings_off">"Tắt"</string>
+    <string msgid="5501301223475616254" name="settings_ok">"OK"</string>
+    <string msgid="1295064657786011878" name="settings_on">"Bật"</string>
+    <string msgid="4892610880616296037" name="settings_status_description">"\"^1\" là tên của ^2 này. Bạn có muốn đổi tên này không?"</string>
+    <string msgid="3280459921834269206" name="settings_status_title">"Đã đặt tên ^1 này"</string>
+    <string msgid="4917381906591779977" name="setup_failure_button_retry">"Thử lại"</string>
+    <string msgid="4408868360762577232" name="setup_failure_title">"Đã xảy ra lỗi"</string>
+    <string msgid="3362351168182711828" name="wifi_setup_connection_success">"Đã kết nối thành công!"</string>
+    <string msgid="4324884380214448502" name="wifi_setup_input_password">"Nhập mật khẩu cho <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="2001513015933996675" name="wifi_setup_save_success">"Đã lưu thành công!"</string>
+    <string msgid="42826539810553389" name="wifi_setup_waiting_for_join">"Đang kết nối với ^1"</string>
+</resources>

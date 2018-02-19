@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="account_detail_settings">
+    <item msgid="2736778804563540468">"ชื่อ"</item>
+    <item msgid="6466271488216028049">"รูปภาพ"</item>
+    <item msgid="5763918836533170723">"ความปลอดภัย"</item>
+    <item msgid="5219275476980441834">"Google Wallet"</item>
+    <item msgid="5333563881963545303">"ประวัติการสั่งซื้อ"</item>
+    <item msgid="6174147587962184914">"นำบัญชีออก"</item>
+  </string-array>
+    <string-array name="ampm">
+    <item msgid="4375405926289364989">"AM"</item>
+    <item msgid="4802437431289555052">"PM"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+    <item msgid="6966595852691619795">"ปิดภาพเคลื่อนไหว"</item>
+    <item msgid="1302400121783768928">"ภาพเคลื่อนไหวขนาด .5 เท่า"</item>
+    <item msgid="9088460595137551270">"ภาพเคลื่อนไหวขนาด 1 เท่า"</item>
+    <item msgid="5640745580399155880">"ภาพเคลื่อนไหวขนาด 1.5 เท่า"</item>
+    <item msgid="3320199023884342141">"ภาพเคลื่อนไหวขนาด 2 เท่า"</item>
+    <item msgid="5620232666163371843">"ภาพเคลื่อนไหวขนาด 5 เท่า"</item>
+    <item msgid="8580701701183364590">"ภาพเคลื่อนไหวขนาด 10 เท่า"</item>
+  </string-array>
+    <string-array name="app_process_limit_entries">
+    <item msgid="9052853079905663082">"ขีดจำกัดมาตรฐาน"</item>
+    <item msgid="6534728802931195545">"ไม่มีกระบวนการพื้นหลัง"</item>
+    <item msgid="290172167371846384">"มากที่สุด 1 กระบวนการ"</item>
+    <item msgid="4818593824413771192">"มากที่สุด 2 กระบวนการ"</item>
+    <item msgid="8337569181800165433">"มากที่สุด 3 กระบวนการ"</item>
+    <item msgid="8261219565766202947">"มากที่สุด 4 กระบวนการ"</item>
+  </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="5333047169042840730">"ไม่มี"</item>
+    <item msgid="7663488423233018922">"ตีกรอบ"</item>
+    <item msgid="7891048730741670843">"เงาตกกระทบ"</item>
+    <item msgid="6613725572146700438">"ยกขึ้น"</item>
+    <item msgid="1007736533206905292">"ลดต่ำ"</item>
+  </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4304493614734189861">"เล็กมาก"</item>
+    <item msgid="1694402928400844023">"เล็ก"</item>
+    <item msgid="1235495470844109970">"ปกติ"</item>
+    <item msgid="481223375568095790">"ใหญ่"</item>
+    <item msgid="8614563351231073075">"ใหญ่มาก"</item>
+  </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7311196539184412021">"25%"</item>
+    <item msgid="4609292560884303243">"50%"</item>
+    <item msgid="1626485489418859846">"75%"</item>
+    <item msgid="1811192455405034366">"100%"</item>
+  </string-array>
+    <string-array name="captioning_preset_selector_titles">
+    <item msgid="7937747884375690010">"สีขาวบนพื้นสีดำ"</item>
+    <item msgid="5187532965364561774">"สีดำบนพื้นสีขาว"</item>
+    <item msgid="7275908232441066633">"สีเหลืองบนพื้นสีดำ"</item>
+    <item msgid="3907210401785295669">"สีเหลืองบนพื้นสีน้ำเงิน"</item>
+    <item msgid="7050475937183962123">"กำหนดเอง"</item>
+  </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+    <item msgid="4410581208185456276">"ค่าเริ่มต้น"</item>
+    <item msgid="9033306684422202101">"Sans-serif"</item>
+    <item msgid="1864985245839120339">"Sans-serif แบบย่อ"</item>
+    <item msgid="2707402752636362906">"Sans-Serif ความกว้างคงที่"</item>
+    <item msgid="4549910217342216388">"Serif"</item>
+    <item msgid="4764344884232052861">"Serif ความกว้างคงที่"</item>
+    <item msgid="8561996903323025702">"เบาสมอง"</item>
+    <item msgid="8403638572764467550">"คัดลายมือ"</item>
+    <item msgid="5560655268137500927">"อักษรตัวพิมพ์ใหญ่ขนาดเล็ก"</item>
+  </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+    <item msgid="6733816499120044964">"ปิด"</item>
+    <item msgid="8974325215258674273">"แสดงพื้นที่การวาดทับ"</item>
+    <item msgid="5877416885028854162">"แสดงตัวนับการวาดทับ"</item>
+  </string-array>
+    <string-array name="enable_opengl_traces_entries">
+    <item msgid="7803412455089800607">"ไม่มี"</item>
+    <item msgid="1284340221135955876">"Logcat"</item>
+    <item msgid="5054298948370382226">"Systrace (กราฟิก)"</item>
+    <item msgid="6650537879885155020">"ชุดรายการเรียกใน glGetError"</item>
+  </string-array>
+    <string-array name="hdcp_checking_summaries">
+    <item msgid="28682351350387246">"ไม่ใช้เลย"</item>
+    <item msgid="5583820743908145007">"สำหรับเนื้อหา DRM"</item>
+    <item msgid="6148080515126921450">"ทุกครั้ง"</item>
+  </string-array>
+    <string-array name="hdmi_optimization_entries">
+    <item msgid="3490064566563023094">"ความละเอียดที่ดีที่สุด"</item>
+    <item msgid="8319005042985738916">"อัตราเฟรมที่ดีที่สุด"</item>
+  </string-array>
+    <string-array name="playback_rate">
+    <item msgid="2256013827330361362">"-32x"</item>
+    <item msgid="8015022487770548480">"-16x"</item>
+    <item msgid="6059574568244647874">"-8x"</item>
+    <item msgid="2843793773083341043">"-4x"</item>
+    <item msgid="9116032734624497341">"-2x"</item>
+    <item msgid="8985811210531660085">"2x"</item>
+    <item msgid="8446986380658461054">"4x"</item>
+    <item msgid="8690234526777393881">"8x"</item>
+    <item msgid="5018600639704774041">"16x"</item>
+    <item msgid="1207415094508824492">"32x"</item>
+  </string-array>
+    <string-array name="screen_off_timeout_entries">
+    <item msgid="8244337465472020927">"30 นาที"</item>
+    <item msgid="1001586019759702505">"1 ชั่วโมง"</item>
+    <item msgid="5216959047515554188">"3 ชั่วโมง"</item>
+    <item msgid="4152882798140628647">"6 ชั่วโมง"</item>
+    <item msgid="412984226950404956">"12 ชั่วโมง"</item>
+    <item msgid="2178434662173258997">"ไม่เลย"</item>
+  </string-array>
+    <string-array name="sleep_timeout_entries">
+    <item msgid="1213527366819650274">"5 นาที"</item>
+    <item msgid="3695675702735844029">"10 นาที"</item>
+    <item msgid="5742541267966746817">"15 นาที"</item>
+    <item msgid="4333958225402992378">"30 นาที"</item>
+    <item msgid="3103819305854192542">"1 ชม."</item>
+  </string-array>
+    <string-array name="track_frame_time_entries">
+    <item msgid="3161533682947406047">"ปิด"</item>
+    <item msgid="6446688182396957172">"เป็นแถบบนหน้าจอ"</item>
+    <item msgid="9080500692341488612">"ใน adb shell dumpsys gfxinfo"</item>
+  </string-array>
+    <string-array name="transition_animation_scale_entries">
+    <item msgid="5604755386232556553">"ปิดภาพเคลื่อนไหว"</item>
+    <item msgid="5578331490208019526">"ภาพเคลื่อนไหวขนาด .5 เท่า"</item>
+    <item msgid="5338802612080069593">"ภาพเคลื่อนไหวขนาด 1 เท่า"</item>
+    <item msgid="1309704285131661878">"ภาพเคลื่อนไหวขนาด 1.5 เท่า"</item>
+    <item msgid="5654221040036850960">"ภาพเคลื่อนไหวขนาด 2 เท่า"</item>
+    <item msgid="6092484055733043622">"ภาพเคลื่อนไหวขนาด 5 เท่า"</item>
+    <item msgid="4049359393103906268">"ภาพเคลื่อนไหวขนาด 10 เท่า"</item>
+  </string-array>
+    <string-array name="tts_rate_entries">
+    <item msgid="6425501867101281228">"ช้ามาก"</item>
+    <item msgid="3458529225374884970">"ช้า"</item>
+    <item msgid="4131204219571166311">"ปกติ"</item>
+    <item msgid="786682416218616624">"เร็ว"</item>
+    <item msgid="1708844147149066133">"เร็วมาก"</item>
+  </string-array>
+    <string-array name="wifi_signal_strength">
+    <item msgid="6926038943588801452">"ไม่ดี"</item>
+    <item msgid="5986166866411161790">"ปานกลาง"</item>
+    <item msgid="7541004325985469896">"ดี"</item>
+    <item msgid="1546771355788926692">"ยอดเยี่ยม"</item>
+  </string-array>
+    <string-array name="wifi_status">
+    <item msgid="6120109946893037801"/>
+    <item msgid="5210943529756743284">"กำลังสแกน..."</item>
+    <item msgid="7895190850044173217">"กำลังเชื่อมต่อ…"</item>
+    <item msgid="7589307602609991992">"กำลังตรวจสอบสิทธิ์..."</item>
+    <item msgid="7439429469102224627">"กำลังรับที่อยู่ IP…"</item>
+    <item msgid="7079865889809010740">"เชื่อมต่อแล้ว"</item>
+    <item msgid="8018480471737227053">"ระงับการใช้งาน"</item>
+    <item msgid="9110004131358099530">"กำลังยกเลิกการเชื่อมต่อ..."</item>
+    <item msgid="2366780999250675263">"ยกเลิกการเชื่อมต่อแล้ว"</item>
+    <item msgid="944848437579938960">"ไม่สำเร็จ"</item>
+    <item msgid="6501589509838730555">"ถูกบล็อก"</item>
+    <item msgid="1877062378387320625">"หลีกเลี่ยงการเชื่อมต่อกับสัญญาณที่ไม่แรงพอชั่วคราว"</item>
+  </string-array>
+    <string-array name="wifi_status_with_ssid">
+    <item msgid="8339598300796362026"/>
+    <item msgid="4703591207522320165">"กำลังสแกน..."</item>
+    <item msgid="7351421574703844779">"กำลังเชื่อมต่อกับ <ns1:g id="NETWORK_NAME">%1$s</ns1:g>..."</item>
+    <item msgid="874502389678205660">"กำลังตรวจสอบสิทธิ์กับ <ns1:g id="NETWORK_NAME">%1$s</ns1:g>..."</item>
+    <item msgid="7964187733783647040">"กำลังรับที่อยู่ IP จาก <ns1:g id="NETWORK_NAME">%1$s</ns1:g>…"</item>
+    <item msgid="4990222034464002805">"เชื่อมต่อกับ <ns1:g id="NETWORK_NAME">%1$s</ns1:g> แล้ว"</item>
+    <item msgid="5347651564202902346">"ระงับการใช้งาน"</item>
+    <item msgid="4812777464932254477">"กำลังยกเลิกการเชื่อมต่อจาก <ns1:g id="NETWORK_NAME">%1$s</ns1:g>..."</item>
+    <item msgid="4985746712759777559">"ยกเลิกการเชื่อมต่อแล้ว"</item>
+    <item msgid="6482743140170037710">"ไม่สำเร็จ"</item>
+    <item msgid="7486075980265993798">"ถูกบล็อก"</item>
+    <item msgid="6842213039083339420">"หลีกเลี่ยงการเชื่อมต่อกับสัญญาณที่ไม่แรงพอชั่วคราว"</item>
+  </string-array>
+    <string-array name="window_animation_scale_entries">
+    <item msgid="258143468897415016">"ปิดภาพเคลื่อนไหว"</item>
+    <item msgid="5618283113978106483">"ภาพเคลื่อนไหวขนาด .5 เท่า"</item>
+    <item msgid="397451685490290179">"ภาพเคลื่อนไหวขนาด 1 เท่า"</item>
+    <item msgid="6331600473492644688">"ภาพเคลื่อนไหวขนาด 1.5 เท่า"</item>
+    <item msgid="7004952449777104295">"ภาพเคลื่อนไหวขนาด 2 เท่า"</item>
+    <item msgid="1063528777234221038">"ภาพเคลื่อนไหวขนาด 5 เท่า"</item>
+    <item msgid="6926378938392529339">"ภาพเคลื่อนไหวขนาด 10 เท่า"</item>
+  </string-array>
+    <plurals name="inputs_header_connected_input">
+    <item msgid="5569334300062609355" quantity="one">"อินพุตที่เชื่อมต่อ"</item>
+    <item msgid="280747600882155182" quantity="other">"อินพุตที่เชื่อมต่อ"</item>
+  </plurals>
+    <plurals name="inputs_header_disconnected_input">
+    <item msgid="4711426139459946065" quantity="one">"อินพุตที่ไม่ได้เชื่อมต่อ"</item>
+    <item msgid="4526893384805247472" quantity="other">"อินพุตที่ไม่ได้เชื่อมต่อ"</item>
+  </plurals>
+    <plurals name="inputs_header_standby_input">
+    <item msgid="737206065869471978" quantity="one">"อินพุตสแตนด์บาย"</item>
+    <item msgid="1673538341842385592" quantity="other">"อินพุตสแตนด์บาย"</item>
+  </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+    <item msgid="5114936540577834412" quantity="one">"อนุญาต 1 แอป"</item>
+    <item msgid="5242661864373721262" quantity="other">"อนุญาต %d แอป"</item>
+  </plurals>
+    <plurals name="show_dev_countdown">
+    <item msgid="5656331074727404150" quantity="one">"อีก <ns1:g id="STEP_COUNT">%1$d</ns1:g> ขั้นตอน คุณก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว"</item>
+    <item msgid="6907126743472136795" quantity="other">"อีก <ns1:g id="STEP_COUNT">%1$d</ns1:g> ขั้นตอน คุณก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว"</item>
+  </plurals>
+    <string msgid="1769540499832401944" name="about_additional_terms">"ดูข้อกำหนดเพิ่มเติม"</string>
+    <string msgid="3364786994943748337" name="about_ads">"โฆษณา"</string>
+    <string msgid="9148789767199785676" name="about_build">"บิวด์"</string>
+    <string msgid="8511870741437307531" name="about_legal_info">"ข้อมูลทางกฎหมาย"</string>
+    <string msgid="7867205982113209033" name="about_legal_license">"สัญญาอนุญาตโอเพนซอร์ส"</string>
+    <string msgid="8522566562321418498" name="about_license_activity_unavailable">"ข้อมูลสัญญาอนุญาตไม่สามารถใช้ได้"</string>
+    <string msgid="6625269442206323995" name="about_model">"รุ่น"</string>
+    <string msgid="4131396784531360434" name="about_preference">"เกี่ยวกับ"</string>
+    <string msgid="7104996228479152643" name="about_privacy_policy">"ดูนโยบายส่วนบุคคล"</string>
+    <string msgid="2723560490027171187" name="about_serial">"หมายเลขซีเรียล"</string>
+    <string msgid="7282772247661356586" name="about_system_update">"การอัปเดตระบบ"</string>
+    <string msgid="3025043473995690659" name="about_terms_of_service">"ดูข้อกำหนดในการให้บริการ"</string>
+    <string msgid="1177287676732287266" name="about_version">"เวอร์ชัน"</string>
+    <string msgid="5736003473060436384" name="about_warranty">"การรับประกัน"</string>
+    <string msgid="6133896463407851079" name="accessibility_captions">"คำบรรยาย"</string>
+    <string msgid="4290317621720499628" name="accessibility_captions_description">"การตั้งค่าการวางซ้อนข้อความคำบรรยายในวิดีโอ"</string>
+    <string msgid="3441648940134070004" name="accessibility_none">"ไม่มี"</string>
+    <string msgid="322888335240595695" name="accessibility_service_settings">"การตั้งค่าบริการ"</string>
+    <string msgid="1347802656349218830" name="accessories_add">"เพิ่มอุปกรณ์เสริม"</string>
+    <string msgid="5892952745770640383" name="accessories_add_bluetooth_inst">"ก่อนจับคู่อุปกรณ์บลูทูธ โปรดตรวจสอบว่าอุปกรณ์อยู่ในโหมดจับคู่"</string>
+    <string msgid="3900633668371061399" name="accessories_add_multiple">"หากต้องการเลือกอุปกรณ์อื่น ให้กดปุ่มจับคู่บนอุปกรณ์นี้"</string>
+    <string msgid="3696794187001405647" name="accessories_add_multiple_select">"หากต้องการจับคู่กับอุปกรณ์ที่เลือก ให้กดปุ่มจับคู่ของอุปกรณ์นี้ค้างไว้ 5 วินาที"</string>
+    <string msgid="6940361421891873321" name="accessories_add_title">"กำลังค้นหาอุปกรณ์เสริม…"</string>
+    <string msgid="8455249961819802466" name="accessories_add_title_multiple">"พบอุปกรณ์หลายชิ้น"</string>
+    <string msgid="8618829246837821752" name="accessories_autopair_msg">"พบอุปกรณ์แล้วและจะจับคู่อัตโนมัติในอีก <ns1:g id="COUNTDOWN">%1$s</ns1:g> วินาที"</string>
+    <string msgid="503302832375993697" name="accessories_camera">"กล้องถ่ายรูป"</string>
+    <string msgid="2188138914890229082" name="accessories_remote">"รีโมต"</string>
+    <string msgid="3115459158860792046" name="accessories_remote_list_title">"ข้อมูลรีโมต: <ns1:g id="SERIALNUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1107690327150126038" name="accessories_wifi_display">"การแสดงผล WiFi"</string>
+    <string msgid="4779506305656453262" name="accessories_wifi_display_enable">"การแสดงผล WiFi"</string>
+    <string msgid="3242645267864813273" name="accessories_wifi_display_pin_required">"ต้องระบุ PIN"</string>
+    <string msgid="7416728299196887186" name="accessories_wifi_display_rename_device">"เปลี่ยนชื่อ"</string>
+    <string msgid="2156489304110030393" name="accessory_connected">"เชื่อมต่อแล้ว"</string>
+    <string msgid="4799658564005710297" name="accessory_options">"อุปกรณ์เสริม"</string>
+    <string msgid="3250766501262581206" name="accessory_rename">"เปลี่ยนชื่อ"</string>
+    <string msgid="4419328837733619447" name="accessory_state_canceled">"ถูกยกเลิก"</string>
+    <string msgid="8777884957977608529" name="accessory_state_connecting">"กำลังเชื่อมต่อ…"</string>
+    <string msgid="4529815543328841909" name="accessory_state_error">"ไม่สามารถจับคู่อุปกรณ์"</string>
+    <string msgid="1959238931866401476" name="accessory_state_paired">"จับคู่แล้ว"</string>
+    <string msgid="7501989679637780963" name="accessory_state_pairing">"กำลังจับคู่…"</string>
+    <string msgid="8242725516604465355" name="accessory_unpair">"เลิกจับคู่"</string>
+    <string msgid="7568241162181184667" name="accessory_unpairing">"กำลังเลิกจับคู่…"</string>
+    <string msgid="3288957118207682685" name="account_header_remove_account">"นำบัญชีออก"</string>
+    <string msgid="2679585471372319471" name="account_header_sync">"ซิงค์"</string>
+    <string msgid="4313580520737295272" name="account_remove">"นำบัญชีออก"</string>
+    <string msgid="980654375770693544" name="account_remove_failed">"ไม่สามารถลบบัญชี"</string>
+    <string msgid="773808124331714965" name="account_sync">"เลือกแอปที่ซิงค์"</string>
+    <string msgid="4364261457368041502" name="action_off_description">"ปิด"</string>
+    <string msgid="3157728958166559966" name="action_off_title">"ปิด"</string>
+    <string msgid="4559342592998850852" name="action_on_description">"เปิด"</string>
+    <string msgid="6852389884236870765" name="action_on_title">"เปิด"</string>
+    <string msgid="4098060223200619258" name="add_account">"เพิ่มบัญชี"</string>
+    <string msgid="7950769159839284068" name="add_account_button_label">"เพิ่มบัญชีใหม่"</string>
+    <string msgid="2074883912462075625" name="add_network">"เพิ่มเครือข่าย"</string>
+    <string msgid="1235622082275451350" name="agree">"ยอมรับ"</string>
+    <string msgid="1057645533268907906" name="alwaysUseOption">"ใช้ทุกครั้ง"</string>
+    <string msgid="7128459989232213727" name="alwaysUseQuestion">"ใช้ตัวเลือกนี้ทุกครั้งสำหรับการทำงานนี้ไหม"</string>
+    <string msgid="6818309827329010677" name="app_not_supported_in_limited">"แอปนี้ไม่ได้รับการสนับสนุนในโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="1967195038085624916" name="app_sees_restricted_accounts">"แอปนี้สามารถเข้าถึงบัญชีของคุณ"</string>
+    <string msgid="4222190849854323480" name="apps_downloaded">"แอปที่ดาวน์โหลดไว้"</string>
+    <string msgid="6430310491739956228" name="apps_running">"แอปที่ใช้งานอยู่"</string>
+    <string msgid="2499191125802829425" name="apps_system">"แอประบบ"</string>
+    <string msgid="4152153558528588479" name="bluetooth_cancel">"ยกเลิก"</string>
+    <string msgid="7031117992819855434" name="bluetooth_confirm_passkey_msg">"หากต้องการจับคู่กับ &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b> โปรดตรวจสอบว่าอุปกรณ์แสดงรหัสผ่าน &lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b>"</string>
+    <string msgid="8951451728250058901" name="bluetooth_display_passkey_pin_msg">"หากต้องการจับคู่กับ: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>&lt;br>พิมพ์: &lt;b><ns1:g id="PASSKEY">%2$s</ns1:g>&lt;/b> ลงไป แล้วกด \"Enter\""</string>
+    <string msgid="7980787196089653577" name="bluetooth_enter_passkey_msg">"หากต้องการจับคู่กับ: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>, &lt;br> พิมพ์รหัสผ่านที่กำหนดของอุปกรณ์:"</string>
+    <string msgid="7443458826667686394" name="bluetooth_enter_pin_msg">"หากต้องการจับคู่กับ: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>, &lt;br> พิมพ์ PIN ที่กำหนดของอุปกรณ์:"</string>
+    <string msgid="8234127565393932499" name="bluetooth_incoming_pairing_msg">"จาก: &lt;b><ns1:g id="DEVICE_NAME">%1$s</ns1:g>&lt;/b>&lt;br>จับคู่กับอุปกรณ์นี้ไหม"</string>
+    <string msgid="7836818609620478122" name="bluetooth_pair">"จับคู่อุปกรณ์"</string>
+    <string msgid="4523088117471287665" name="bluetooth_pairing_request">"คำขอการจับคู่อุปกรณ์บลูทูธ"</string>
+    <string msgid="2319900367581543300" name="bluetooth_pin_values_hint">"ปกติจะเป็น 0000 หรือ 1234"</string>
+    <string msgid="72080729155950127" name="captioning_preview_text">"คำบรรยายจะมีหน้าตาแบบนี้"</string>
+    <string msgid="448518890988125453" name="captions_backgroundcolor">"สีพื้นหลัง"</string>
+    <string msgid="2643722493273126220" name="captions_backgroundopacity">"ความโปร่งแสงของพื้นหลัง"</string>
+    <string msgid="7423638523487868230" name="captions_captionstyle">"รูปแบบคำบรรยาย"</string>
+    <string msgid="5537548915977371014" name="captions_configure">"กำหนดค่า"</string>
+    <string msgid="2699780648112330911" name="captions_customoptions">"ตัวเลือกที่กำหนดเอง"</string>
+    <string msgid="735692527287125548" name="captions_display">"จอแสดงผล"</string>
+    <string msgid="496953007835201523" name="captions_display_off">"ปิด"</string>
+    <string msgid="1989009878719500520" name="captions_display_on">"เปิด"</string>
+    <string msgid="845125757332620884" name="captions_edgecolor">"สีขอบ"</string>
+    <string msgid="841331274533086103" name="captions_edgetype">"ชนิดขอบ"</string>
+    <string msgid="6840670778173003604" name="captions_fontfamily">"ชุดแบบอักษร"</string>
+    <string msgid="3291057448460880449" name="captions_lanaguage">"ภาษา"</string>
+    <string msgid="3233568269335050287" name="captions_textcolor">"สีข้อความ"</string>
+    <string msgid="5536765490446288641" name="captions_textopacity">"ความโปร่งแสงของข้อความ"</string>
+    <string msgid="4828195509546070971" name="captions_textsize">"ขนาดข้อความ"</string>
+    <string msgid="8986165172260903279" name="captions_windowcolor">"สีของหน้าต่าง"</string>
+    <string msgid="2784473496224936703" name="captions_windowopacity">"ความโปร่งแสงของหน้าต่าง"</string>
+    <string msgid="6672090823838639972" name="choose_account_title">"เลือกบัญชี"</string>
+    <string msgid="34004552592079689" name="choose_account_type_title">"เลือกประเภทบัญชี"</string>
+    <string msgid="8804213372565106403" name="color_black">"ดำ"</string>
+    <string msgid="6761708560115194175" name="color_blue">"น้ำเงิน"</string>
+    <string msgid="796226330055745" name="color_cyan">"ฟ้า"</string>
+    <string msgid="5637299846460438696" name="color_gray">"เทา"</string>
+    <string msgid="3745551274773976763" name="color_green">"เขียว"</string>
+    <string msgid="6395786485839439122" name="color_magenta">"ม่วงแดง"</string>
+    <string msgid="5281446963475996688" name="color_none">"ไม่มี"</string>
+    <string msgid="5630553203246525989" name="color_red">"แดง"</string>
+    <string msgid="65537523012024751" name="color_white">"ขาว"</string>
+    <string msgid="1023390829879874964" name="color_yellow">"เหลือง"</string>
+    <string msgid="2955133568424704042" name="computing_size">"กำลังคำนวณ…"</string>
+    <string msgid="7563100162902079938" name="connected">"เชื่อมต่อแล้ว"</string>
+    <string msgid="2858199826425132228" name="connectivity_advanced_options">"ตัวเลือกขั้นสูง"</string>
+    <string msgid="370129113175689226" name="connectivity_advanced_options_description">"<ns1:g id="SSID_0">%1$s</ns1:g>, <ns1:g id="SSID_1">%2$s</ns1:g>"</string>
+    <string msgid="2182407318634700320" name="connectivity_ethernet">"อีเทอร์เน็ต"</string>
+    <string msgid="8321537111272398501" name="connectivity_network">"เครือข่าย"</string>
+    <string msgid="489974791299647708" name="connectivity_wifi">"WiFi"</string>
+    <string msgid="7882269975674640060" name="date_separator">"/"</string>
+    <string msgid="4142806827237093397" name="delete_location_history_desc">"การลบนี้จะลบประวัติตำแหน่งทั้งหมดที่จัดเก็บไว้จากอุปกรณ์นี้สำหรับบัญชี Google นี้ คุณเลิกทำการลบนี้ไม่ได้ แอปบางแอป เช่น Google Now จะหยุดทำงาน"</string>
+    <string msgid="5804802702252280549" name="delete_location_history_title">"ลบประวัติตำแหน่ง"</string>
+    <string msgid="6997571927680580633" name="desc_auto_date_time">"ใช้เวลาที่ระบุโดยเครือข่าย"</string>
+    <string msgid="7187242843867404657" name="desc_configure_keyboard">"ตัวเลือกแป้นพิมพ์"</string>
+    <string msgid="9180435229638772838" name="device_apps">"แอป"</string>
+    <string msgid="5627523987587511884" name="device_backup_restore">"การสำรองและคืนค่าข้อมูล"</string>
+    <string msgid="8632962533376605191" name="device_calibration">"การเทียบมาตรฐาน"</string>
+    <string msgid="4933581408059561077" name="device_daydream">"เดย์ดรีม"</string>
+    <string msgid="101455384386372747" name="device_display">"จอแสดงผล"</string>
+    <string msgid="2670488158531273028" name="device_name">"ชื่ออุปกรณ์"</string>
+    <string msgid="2827002349560023125" name="device_reset">"รีเซ็ตข้อมูลเป็นค่าเริ่มต้น"</string>
+    <string msgid="7793281745920228622" name="device_sound_effects">"เสียงระบบ"</string>
+    <string msgid="5536683600091277826" name="device_storage">"ที่เก็บข้อมูล"</string>
+    <string msgid="1425978936501134425" name="device_storage_reset">"ที่เก็บข้อมูลและการรีเซ็ต"</string>
+    <string msgid="5536822848499568335" name="dhcp">"DHCP"</string>
+    <string msgid="9170636026862400981" name="disagree">"ไม่ยอมรับ"</string>
+    <string msgid="5504549024985225774" name="display_options">"ตัวเลือกการแสดงผล"</string>
+    <string msgid="300552308104354666" name="error_action_not_supported">"ไม่สนับสนุนการทำงานนี้"</string>
+    <string msgid="2467496590891949814" name="gateway">"เกตเวย์"</string>
+    <string msgid="3382840371861269146" name="google_location_services_title">"บริการตำแหน่งของ Google"</string>
+    <string msgid="823295909353025991" name="header_category_accessories">"รีโมตและอุปกรณ์เสริม"</string>
+    <string msgid="4855983928659541345" name="header_category_device">"อุปกรณ์"</string>
+    <string msgid="8893959635328775096" name="header_category_personal">"ส่วนตัว"</string>
+    <string msgid="175105555164713972" name="header_category_preferences">"ค่ากำหนด"</string>
+    <string msgid="3243287334177831637" name="header_category_system">"ระบบ"</string>
+    <string msgid="5704676433978730340" name="inputs_aux">"Aux"</string>
+    <string msgid="3843526039402969407" name="inputs_blu_ray">"บลูเรย์"</string>
+    <string msgid="9081641596942038538" name="inputs_cable">"สายสัญญาณ"</string>
+    <string msgid="8403155117662874704" name="inputs_cec_settings">"การตั้งค่าการควบคุมอุปกรณ์"</string>
+    <string msgid="5584925321693432362" name="inputs_custom_name">"ชื่อที่กำหนดเอง"</string>
+    <string msgid="374036983231176581" name="inputs_custom_title">"ชื่อที่กำหนดเอง:"</string>
+    <string msgid="7510049770946999285" name="inputs_device_auto_off">"ปิดอุปกรณ์อัตโนมัติ"</string>
+    <string msgid="2679638131351116942" name="inputs_device_auto_off_desc">"ปิดอุปกรณ์ HDMI ด้วยทีวี"</string>
+    <string msgid="602486238850738828" name="inputs_dvd">"ดีวีดี"</string>
+    <string msgid="1114086481110094757" name="inputs_game">"คอนโซลเกม"</string>
+    <string msgid="2462240356665628563" name="inputs_hdmi_control">"การควบคุม HDMI"</string>
+    <string msgid="2300590479729796132" name="inputs_hdmi_control_desc">"อนุญาตให้ทีวีควบคุมอุปกรณ์ HDMI"</string>
+    <string msgid="3701104827756278489" name="inputs_header_cec">"การควบคุมอิเล็กทรอนิกส์สำหรับผู้บริโภค (CEC)"</string>
+    <string msgid="1575971556150395486" name="inputs_hide">"ซ่อนอยู่"</string>
+    <string msgid="8172670556559886526" name="inputs_hide_desc">"ไม่แสดงเวลาสลับอินพุต"</string>
+    <string msgid="4249080110281833521" name="inputs_inputs">"อินพุต"</string>
+    <string msgid="2463661081264605403" name="inputs_state_connected">"เชื่อมต่อแล้ว"</string>
+    <string msgid="2861557722523733817" name="inputs_state_connected_standby">"สแตนด์บาย"</string>
+    <string msgid="558532410057350104" name="inputs_state_disconnected">"ยกเลิกการเชื่อมต่อแล้ว"</string>
+    <string msgid="2627932269256793797" name="inputs_tv_auto_on">"เปิดทีวีอัตโนมัติ"</string>
+    <string msgid="7658625130577708249" name="inputs_tv_auto_on_desc">"เปิดทีวีด้วยอุปกรณ์ HDMI"</string>
+    <string msgid="6051458702672920102" name="justOnceOption">"เฉพาะครั้งนี้"</string>
+    <string msgid="6178494892357077274" name="last_synced">"ซิงค์ล่าสุดเมื่อ <ns1:g id="TIME">%1s</ns1:g>"</string>
+    <string msgid="5107150533945388559" name="launcher_network_app_name">"เครือข่าย"</string>
+    <string msgid="671448012575234643" name="launcher_restricted_profile_app_name">"โปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="5782771766725939392" name="launcher_settings_app_name">"การตั้งค่า"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"ต่อไป"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"เสร็จสิ้น"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"เมนูการนำทาง"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"ถัดไป"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"เริ่มต้นใช้งาน"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"ปิดใช้คำบรรยาย"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"เปิดใช้คำบรรยาย"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"กรอไปข้างหน้า"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"กรอไปข้างหน้า %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"ปิดใช้คุณภาพสูง"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"เปิดใช้คุณภาพสูง"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"การทำงานเพิ่มเติม"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"หยุดชั่วคราว"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"เข้าสู่โหมดการแสดงผลหลายแหล่งพร้อมกัน"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"เล่น"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"เล่นซ้ำทั้งหมด"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ไม่เล่นซ้ำ"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"เล่นซ้ำรายการเดียว"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"กรอกลับ"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"กรอกลับ %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"ปิดใช้การสุ่มเพลง"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"เปิดใช้การสุ่มเพลง"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"ข้ามไปรายการถัดไป"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"ข้ามไปรายการก่อนหน้า"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"ยกเลิกการเลือกว่าไม่ชอบ"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"เลือกว่าไม่ชอบ"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"ยกเลิกการเลือกว่าชอบ"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"เลือกว่าชอบ"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"ค้นหา"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"พูดเพื่อค้นหา"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"ค้นหา <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"พูดเพื่อทำการค้นหาใน <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string msgid="3437903422445812245" name="location_category_recent_location_requests">"คำขอตำแหน่งล่าสุด"</string>
+    <string msgid="576143332793626088" name="location_high_battery_use">"ใช้แบตเตอรี่มาก"</string>
+    <string msgid="2946680949724247804" name="location_history">"ประวัติตำแหน่ง"</string>
+    <string msgid="3861249867748294369" name="location_history_desc">"เมื่อประวัติตำแหน่งสำหรับบัญชีนี้เปิดอยู่ Google สามารถจัดเก็บข้อมูลตำแหน่งของอุปกรณ์เพื่อให้แอปใช้งาน\n\nตัวอย่างเช่น Google Maps สามารถแสดงเส้นทาง และ Google Now สามารถแจ้งให้คุณทราบเกี่ยวกับสภาพการจราจรในการเดินทาง\n\nคุณสามารถปิดประวัติตำแหน่งได้ทุกเมื่อ แต่การปิดจะไม่ใช่การลบประวัติตำแหน่ง หากต้องการดูและจัดการประวัติตำแหน่ง โปรดไปที่ maps.google.com/locationhistory"</string>
+    <string msgid="5756040390248358148" name="location_low_battery_use">"ใช้แบตเตอรี่น้อย"</string>
+    <string msgid="6573195849329396150" name="location_mode_title">"โหมด"</string>
+    <string msgid="2778774510654527264" name="location_mode_wifi_description">"ใช้ WiFi เพื่อหาตำแหน่ง"</string>
+    <string msgid="4218851908476344030" name="location_no_recent_apps">"ไม่มีแอปใดทำการขอตำแหน่งเมื่อเร็วๆ นี้"</string>
+    <string msgid="3054236612250063073" name="location_reporting">"การรายงานตำแหน่ง"</string>
+    <string msgid="6256424995139430823" name="location_reporting_desc">"Google ใช้คุณลักษณะนี้ในผลิตภัณฑ์ต่างๆ เช่น Google Now และ Google Maps การเปิดการรายงานตำแหน่งช่วยให้ผลิตภัณฑ์ Google ที่ใช้คุณลักษณะนี้สามารถจัดเก็บและใช้ข้อมูลตำแหน่งล่าสุดของอุปกรณ์ซึ่งเกี่ยวข้องกับบัญชี Google ของคุณ"</string>
+    <string msgid="5441085185119797200" name="location_services">"บริการตำแหน่ง"</string>
+    <string msgid="3456414279428237558" name="location_status">"สถานะตำแหน่ง"</string>
+    <string msgid="7600163182794860262" name="location_title">"ตำแหน่งของฉัน"</string>
+    <string msgid="7653487431810593891" name="network_ssid">"SSID เครือข่าย"</string>
+    <string msgid="4197983402774959346" name="noApplications">"ไม่มีแอปใดทำงานนี้ได้"</string>
+    <string msgid="5663180241276177314" name="noAppsGoBack">"กลับ"</string>
+    <string msgid="1746564297589309465" name="no_application">"ไม่มี"</string>
+    <string msgid="4118071594685269322" name="normal_date_format">"ท้องถิ่น (<ns1:g id="DATE">%s</ns1:g>)"</string>
+    <string msgid="6858480380326923017" name="not_connected">"ไม่ได้เชื่อมต่อ"</string>
+    <string msgid="5264189545064767245" name="off">"ปิด"</string>
+    <string msgid="6683600681314500652" name="on">"เปิด"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"การดำเนินการค้นหา"</string>
+    <string msgid="3539704463099544488" name="other_network">"เครือข่ายอื่น…"</string>
+    <string msgid="1322790875762726719" name="password">"รหัสผ่าน"</string>
+    <string msgid="5541414789309863965" name="pin_button_cancel">"ยกเลิก"</string>
+    <string msgid="939191809977197451" name="pin_button_done">"เสร็จ"</string>
+    <string msgid="1510456697040826496" name="pin_enter_again">"ป้อน PIN ใหม่อีกครั้ง"</string>
+    <string msgid="4788218421265924211" name="pin_enter_new_pin">"ตั้ง PIN ใหม่"</string>
+    <string msgid="851029058127630869" name="pin_enter_old_pin">"ป้อน PIN เก่า"</string>
+    <string msgid="821552376577935497" name="pin_enter_pin">"ป้อน PIN"</string>
+    <string msgid="5980400420298506069" name="pin_enter_unlock_channel">"ป้อน PIN เพื่อดูช่องนี้"</string>
+    <string msgid="52453773316071511" name="pin_enter_unlock_program">"ป้อน PIN เพื่อดูโปรแกรมนี้"</string>
+    <string msgid="5653864140710683928" name="pin_enter_wrong">"คุณป้อน PIN ผิด 5 ครั้งแล้ว\nลองอีกครั้ง <ns1:g id="RELATIVE_TIME_SPAN">%1$s</ns1:g>"</string>
+    <string msgid="5886041789737632996" name="pin_toast_not_match">"ลองอีกครั้ง PIN ไม่ตรงกัน"</string>
+    <string msgid="4628358195224633248" name="pin_toast_wrong">"PIN ผิด ลองอีกครั้ง"</string>
+    <string msgid="4428793978424303244" name="proxy_error_empty_host_set_port">"หากช่องโฮสต์ว่างเปล่า ให้ปล่อยช่องพอร์ตให้ว่างไว้"</string>
+    <string msgid="6835658067776408062" name="proxy_error_empty_port">"ต้องระบุข้อมูลในช่องพอร์ต"</string>
+    <string msgid="4921547051724987804" name="proxy_error_invalid_exclusion_list">"รายการยกเว้นนี้ไม่ถูกต้อง โปรดป้อนรายการโดเมนที่ยกเว้นโดยคั่นด้วยเครื่องหมายจุลภาค"</string>
+    <string msgid="3660415920668138953" name="proxy_error_invalid_host">"ชื่อโฮสต์ไม่ถูกต้อง"</string>
+    <string msgid="1434922103959603993" name="proxy_error_invalid_port">"พอร์ตไม่ถูกต้อง"</string>
+    <string msgid="86175095050438325" name="proxy_exclusionlist_hint">"โปรดป้อนรายการโดเมนที่ยกเว้นโดยคั่นด้วยเครื่องหมายจุลภาค หรือเว้นช่องว่างไว้\nตัวอย่างเช่น example.com,mycomp.test.com,localhost"</string>
+    <string msgid="3719688422767210803" name="proxy_hostname_hint">"ป้อนชื่อโฮสต์ที่ถูกต้อง\nตัวอย่างเช่น proxy.example.com"</string>
+    <string msgid="8532733797275927007" name="proxy_port_hint">"ป้อนพอร์ตที่ถูกต้อง\nตัวอย่างเช่น 8080"</string>
+    <string msgid="6160239282535986523" name="proxy_warning_limited_support">"เบราว์เซอร์ใช้พร็อกซี HTTP แต่แอปอื่นๆ อาจไม่ใช้"</string>
+    <string msgid="8221482127562510757" name="rename_device">"เปลี่ยนชื่ออุปกรณ์"</string>
+    <string msgid="2903829140619950232" name="restricted_profile_allowed">"ได้รับอนุญาต"</string>
+    <string msgid="2848537651211816659" name="restricted_profile_change_password_title">"เปลี่ยน PIN"</string>
+    <string msgid="5269477581791409700" name="restricted_profile_configure_apps_description_loading">"รอสักครู่…"</string>
+    <string msgid="11507255932348492" name="restricted_profile_configure_apps_title">"แอปที่ได้รับอนุญาต"</string>
+    <string msgid="4684188123147519620" name="restricted_profile_configure_title">"การตั้งค่า"</string>
+    <string msgid="5749967525546068650" name="restricted_profile_confirm_password">"ยืนยันรหัส PIN ที่ใช้เพื่อออกจากโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="7081117593480952518" name="restricted_profile_create">"สร้างผู้ใช้ที่ถูกจำกัด"</string>
+    <string msgid="8418415019078825537" name="restricted_profile_customize_restrictions">"กำหนดค่าข้อจำกัด"</string>
+    <string msgid="2998929625283492853" name="restricted_profile_delete_dialog_title">"นำผู้ใช้ที่ถูกจำกัดออกไหม"</string>
+    <string msgid="3445944923018324707" name="restricted_profile_delete_title">"ลบโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="5961473119032585585" name="restricted_profile_enter_password">"ป้อนรหัส PIN เพื่อออกจากโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="1622620680118897330" name="restricted_profile_not_allowed">"ไม่อนุญาต"</string>
+    <string msgid="3989154189940037175" name="restricted_profile_set_password">"ตั้งค่ารหัส PIN ใหม่ที่ใช้เพื่อออกจากโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="1893784095623209495" name="restricted_profile_switch_out">"ออกจากโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="1926433350907032138" name="restricted_profile_switch_to">"เข้าสู่โปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="3104855945910233028" name="restriction_description">"<ns1:g id="DESCRIPTION">%1$s</ns1:g>\n<ns1:g id="VALUE">%2$s</ns1:g>"</string>
+    <string msgid="4195349388342385870" name="restriction_location_enable_summary">"ให้แอปใช้ข้อมูลตำแหน่งของคุณ"</string>
+    <string msgid="2575116135395354938" name="restriction_location_enable_title">"ตำแหน่ง"</string>
+    <string msgid="5474988613144349415" name="search_title">"ค้นหา"</string>
+    <string msgid="524443802004143058" name="security_type">"ประเภทของการรักษาความปลอดภัย"</string>
+    <string msgid="7167350583097191925" name="security_unknown_sources_confirm_desc">"อุปกรณ์และข้อมูลส่วนบุคคลของคุณมีความเสี่ยงยิ่งขึ้นที่จะถูกโจมตีจากแอปที่ไม่รู้จักแหล่งที่มา คุณยอมรับว่าคุณจะเป็นผู้รับผิดชอบแต่เพียงผู้เดียวต่อความเสียหายใดๆ ที่เกิดกับอุปกรณ์หรือหรือการสูญเสียข้อมูลที่เป็นผลจากการใช้แอปเหล่านี้"</string>
+    <string msgid="7197053279914817124" name="security_unknown_sources_desc">"อนุญาตให้ติดตั้งแอปจากแหล่งอื่นๆ ที่นอกเหนือไปจาก Play สโตร์"</string>
+    <string msgid="769762478057744545" name="security_unknown_sources_title">"ไม่รู้จักที่มา"</string>
+    <string msgid="1456317893117818733" name="security_verify_apps_desc">"ไม่อนุญาตหรือแจ้งเตือนก่อนที่จะติดตั้งแอปที่อาจก่อให้เกิดอันตราย"</string>
+    <string msgid="5787946958632254988" name="security_verify_apps_title">"ยืนยันแอป"</string>
+    <string msgid="4243616485579754401" name="settings_app_name">"การตั้งค่า"</string>
+    <string msgid="7525967300421794483" name="show_dev_already">"ไม่จำเป็น คุณเป็นนักพัฒนาซอฟต์แวร์อยู่แล้ว"</string>
+    <string msgid="8997172736024819952" name="show_dev_on">"ตอนนี้คุณเป็นนักพัฒนาซอฟต์แวร์แล้ว!"</string>
+    <string msgid="6380260543776712357" name="skip_network">"ข้าม"</string>
+    <string msgid="4366049071039081219" name="storage_apps_usage">"แอป"</string>
+    <string msgid="1241005580092138871" name="storage_available">"พร้อมใช้งาน"</string>
+    <string msgid="2644732407412520565" name="storage_calculating_size">"กำลังคำนวณ…"</string>
+    <string msgid="2977564696540645452" name="storage_dcim_usage">"รูปภาพและวิดีโอ"</string>
+    <string msgid="6172975879962599380" name="storage_downloads_usage">"ดาวน์โหลด"</string>
+    <string msgid="5906737163212649904" name="storage_media_cache_usage">"ข้อมูลในแคช"</string>
+    <string msgid="6066868724030127457" name="storage_media_misc_usage">"เบ็ดเตล็ด"</string>
+    <string msgid="3509327591741514083" name="storage_music_usage">"เสียง"</string>
+    <string msgid="8958530823208352781" name="storage_size">"พื้นที่ทั้งหมด: <ns1:g id="TOTAL_SPACE">%1$s</ns1:g>"</string>
+    <string msgid="2132026108559493394" name="storage_title">"ที่เก็บข้อมูล"</string>
+    <string msgid="5839264070098894371" name="sync_cancel">"เลิกซิงค์"</string>
+    <string msgid="3089360175872892781" name="sync_disabled">"ถูกปิด"</string>
+    <string msgid="1330721038775646022" name="sync_in_progress">"กำลังซิงค์…"</string>
+    <string msgid="8229476000384257186" name="sync_is_failing">"ไม่สามารถซิงค์ได้ในขณะนี้ จะใช้งานได้อีกครั้งเร็วๆ นี้"</string>
+    <string msgid="8732244492880016471" name="sync_now">"ซิงค์เลย"</string>
+    <string msgid="6215431399759498005" name="system_accessibility">"การเข้าถึง"</string>
+    <string msgid="3216531917536720277" name="system_accessibility_config">"การกำหนดค่า"</string>
+    <string msgid="6714782635926048678" name="system_accessibility_service_off_confirm_desc">"การเลือก \"ตกลง\" จะหยุด <ns1:g id="SERVICE">%1$s</ns1:g>"</string>
+    <string msgid="963297812889694832" name="system_accessibility_service_off_confirm_title">"หยุด <ns1:g id="SERVICE">%1$s</ns1:g> ไหม"</string>
+    <string msgid="1102358356500113060" name="system_accessibility_service_on_confirm_desc">"<ns1:g id="SERVICE">%1$s</ns1:g> สามารถเก็บรวบรวมข้อความที่คุณพิมพ์ทั้งหมด ยกเว้นรหัสผ่าน โดยรวมถึงข้อมูลส่วนตัวต่างๆ เช่น หมายเลขบัตรเครดิต"</string>
+    <string msgid="8200707259067035823" name="system_accessibility_service_on_confirm_title">"ใช้ <ns1:g id="SERVICE">%1$s</ns1:g> ไหม"</string>
+    <string msgid="4389074529913575327" name="system_accessibility_status">"สถานะ"</string>
+    <string msgid="8905477795536714590" name="system_accessibility_tts_output">"การอ่านออกเสียงข้อความ"</string>
+    <string msgid="3635672039775772910" name="system_allow_mock_locations">"อนุญาตให้จำลองตำแหน่ง"</string>
+    <string msgid="1866566828098009853" name="system_always_check">"ตรวจสอบทุกครั้ง"</string>
+    <string msgid="7413512458963984521" name="system_animator_duration_scale">"ความเร็วตามผู้สร้างกำหนด"</string>
+    <string msgid="6293850468968494924" name="system_apps">"แอป"</string>
+    <string msgid="3629668599205033272" name="system_auto_date_time">"วันที่และเวลาอัตโนมัติ"</string>
+    <string msgid="7921766877363771436" name="system_background_process_limit">"ขีดจำกัดกระบวนการพื้นหลัง"</string>
+    <string msgid="6622796686823406402" name="system_backup_password">"รหัสผ่านสำรอง"</string>
+    <string msgid="2425757846046504431" name="system_bt_hci_log">"การบันทึกบลูทูธ HCI"</string>
+    <string msgid="6421567823845207156" name="system_cast">"Google Cast"</string>
+    <string msgid="8716366734950874267" name="system_check_for_drm_content_only">"ตรวจสอบเนื้อหา DRM เท่านั้น"</string>
+    <string msgid="7690908744371594279" name="system_choose_date_format">"เลือกรูปแบบวันที่"</string>
+    <string msgid="5923988155158351543" name="system_collecting_bug_report">"กำลังรวบรวมรายงานข้อบกพร่อง!\nเราจะขอข้อมูลเพิ่มเติมจากคุณเมื่อรายงานพร้อม"</string>
+    <string msgid="1396108342854067722" name="system_collecting_bug_report_error">"ไม่สามารถรวบรวมรายงานข้อบกพร่องได้!\nโปรดลองอีกครั้งในภายหลัง"</string>
+    <string msgid="2767108116769558081" name="system_date">"วันที่"</string>
+    <string msgid="8898457978560618950" name="system_date_time">"วันที่และเวลา"</string>
+    <string msgid="7204447785851191331" name="system_debugging">"การแก้ปัญหา"</string>
+    <string msgid="6454962099870874762" name="system_desc_backup_password">"ป้องกันข้อมูลสำรองทั้งหมดของเดสก์ท็อป"</string>
+    <string msgid="4219265203570411773" name="system_desc_bt_hci_log">"เปิดใช้งานการบันทึกสอดแนมบลูทูธ HCI"</string>
+    <string msgid="6879753401058891183" name="system_desc_hdcp_checking">"ใช้สำหรับเนื้อหา DRM เท่านั้น"</string>
+    <string msgid="4400727262768931480" name="system_desc_hdmi_optimization">"เพิ่มประสิทธิภาพจอแสดงผลเพื่อความละเอียดสูงสุดหรืออัตราเฟรมสูงสุด ตัวเลือกนี้มีผลต่อจอแสดงผล Ultra HD เท่านั้น การเปลี่ยนแปลงการตั้งค่านี้จะทำให้อุปกรณ์รีสตาร์ท"</string>
+    <string msgid="4243551425631207495" name="system_desc_location">"ให้แอปที่ขออนุญาตจากคุณแล้วใช้ข้อมูลตำแหน่งของคุณได้"</string>
+    <string msgid="3394374680078903193" name="system_desc_network_location">"ให้ Google ช่วยแอประบุตำแหน่ง ซึ่งหมายถึงการส่งข้อมูลตำแหน่งแบบไม่เปิดเผยชื่อไปยัง Google แม้ว่าจะไม่มีแอปทำงานอยู่"</string>
+    <string msgid="3929125496258579850" name="system_desc_network_location_confirm">"อนุญาตให้บริการแสดงตำแหน่งของ Google เก็บรวบรวมข้อมูลตำแหน่งที่ไม่ระบุชื่อ ข้อมูลบางอย่างอาจถูกจัดเก็บในอุปกรณ์ของคุณ อาจมีการเก็บข้อมูลแม้ในขณะที่ไม่มีแอปทำงานอยู่เลย"</string>
+    <string msgid="2836283129486718887" name="system_desc_profile_gpu_rendering">"วัดเวลาที่ใช้แสดงผลใน adb shell dumpsys gfxinfo"</string>
+    <string msgid="1367498732529710136" name="system_desc_reboot_confirm">"ต้องรีสตาร์ทอุปกรณ์เพื่ออัปเดตการตั้งค่านี้"</string>
+    <string msgid="6151280238151381703" name="system_desc_show_cpu_usage">"การวางซ้อนหน้าจอที่แสดงการใช้ CPU ในปัจจุบัน"</string>
+    <string msgid="8204945204510618865" name="system_desc_show_gpu_overdraw">"จากดีที่สุดไปหาแย่ที่สุด: ฟ้า เขียว แดงอ่อน แดง"</string>
+    <string msgid="8045162296029336710" name="system_desc_show_gpu_view_updates">"แสดงมุมมองภายในหน้าต่างเมื่อวาดด้วย GPU"</string>
+    <string msgid="642854466995400529" name="system_desc_show_hardware_layer">"แสดงเลเยอร์ฮาร์ดแวร์เป็นสีเขียวเมื่อมีการอัปเดต"</string>
+    <string msgid="3449386884226708985" name="system_desc_show_layout_bounds">"แสดงหน้าปกคลิป ขอบ ฯลฯ"</string>
+    <string msgid="8177734845253807688" name="system_desc_show_surface_updates">"แสดงพื้นผิวหน้าต่างทั้งหมดเมื่อมีการอัปเดต"</string>
+    <string msgid="229588006508356238" name="system_desc_stay_awake">"ปิดใช้โหมดสลีป"</string>
+    <string msgid="4647420860235689510" name="system_desc_strict_mode_enabled">"แสดงหน้าจอเมื่อแอปทำงานในชุดข้อความหลักนาน"</string>
+    <string msgid="1627218971851223147" name="system_desc_take_bug_report">"ส่งรายงานไปยังที่อยู่อีเมล"</string>
+    <string msgid="5168830368191788731" name="system_desc_usb_debugging">"โหมดแก้ปัญหาเมื่อเชื่อมต่อ USB"</string>
+    <string msgid="6722973410408262393" name="system_desc_verify_apps_over_usb">"ตรวจสอบแอปที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย"</string>
+    <string msgid="2342968959255039368" name="system_desc_wait_for_debugger">"แอปที่ถูกแก้จะรอให้เครื่องซ่อมแซมเพิ่มก่อนทำงาน"</string>
+    <string msgid="1559904751873455868" name="system_desc_wifi_verbose_logging">"เปิดใช้การบันทึกรายละเอียด Wi-Fi"</string>
+    <string msgid="3237985523474863638" name="system_developer_options">"ตัวเลือกสำหรับนักพัฒนา"</string>
+    <string msgid="7906911077198718958" name="system_dont_keep_activities">"ไม่เก็บกิจกรรม"</string>
+    <string msgid="6573389872154957039" name="system_drawing">"การวาดภาพ"</string>
+    <string msgid="8669468986250302378" name="system_email_address">"ที่อยู่อีเมล"</string>
+    <string msgid="4038210655699986482" name="system_enable_traces">"เปิดใช้งานร่องรอย"</string>
+    <string msgid="3535958631591158282" name="system_general">"ทั่วไป"</string>
+    <string msgid="8470793875143334320" name="system_hdcp_checking">"การตรวจสอบ HDCP"</string>
+    <string msgid="9120919064234265144" name="system_hdmi_optimization">"การเพิ่มประสิทธิภาพ HDMI"</string>
+    <string msgid="6164987320529039626" name="system_input">"อินพุต"</string>
+    <string msgid="2413907183796651102" name="system_inputs">"อินพุต"</string>
+    <string msgid="8920883886563714355" name="system_install_voice_data">"ติดตั้งข้อมูลเสียง"</string>
+    <string msgid="7680159735294672514" name="system_keyboard">"แป้นพิมพ์"</string>
+    <string msgid="2337138146114609247" name="system_language">"ภาษา"</string>
+    <string msgid="502463575930545806" name="system_location">"ตำแหน่ง"</string>
+    <string msgid="8424072546138094053" name="system_monitoring">"การตรวจสอบ"</string>
+    <string msgid="3095006393148731886" name="system_network_location">"ตำแหน่งเครือข่าย WiFi"</string>
+    <string msgid="8435144328428634060" name="system_network_location_confirm">"การยินยอมให้ข้อมูลตำแหน่ง"</string>
+    <string msgid="6666520460705041617" name="system_never_check">"ไม่ต้องตรวจสอบ"</string>
+    <string msgid="7187293932891811148" name="system_play_sample">"เล่นตัวอย่าง"</string>
+    <string msgid="2673764026490179227" name="system_pointer_location">"ตำแหน่งของตัวชี้"</string>
+    <string msgid="8258210139854655567" name="system_preferred_engine">"เครื่องมือที่ต้องการ"</string>
+    <string msgid="3438771015102629799" name="system_profile_gpu_rendering">"การแสดงผล GPU ตามโปรไฟล์"</string>
+    <string msgid="534407910866199191" name="system_reboot_confirm">"ต้องการรีสตาร์ทเลยไหม"</string>
+    <string msgid="2837264654143247611" name="system_search">"ค้นหา"</string>
+    <string msgid="4190058778883258927" name="system_security">"ความปลอดภัยและข้อจำกัด"</string>
+    <string msgid="8592021815119618485" name="system_select_debug_app">"เลือกแอปที่จะแก้ปัญหา"</string>
+    <string msgid="7230571820151215779" name="system_services">"บริการ"</string>
+    <string msgid="2437586307768561116" name="system_set_date">"ตั้งวันที่"</string>
+    <string msgid="4661804115501057452" name="system_set_time">"ตั้งเวลา"</string>
+    <string msgid="4447882066895090612" name="system_set_time_format">"ใช้รูปแบบ 24 ชั่วโมง"</string>
+    <string msgid="8239601932757697259" name="system_set_time_zone">"ตั้งค่าเขตเวลา"</string>
+    <string msgid="3601183436857424712" name="system_show_all_anrs">"แสดง ANR ทั้งหมด"</string>
+    <string msgid="4797599582027671138" name="system_show_cpu_usage">"แสดงการใช้ CPU"</string>
+    <string msgid="707861254106800199" name="system_show_gpu_overdraw">"แสดงการใช้ GPU มากเกินไป"</string>
+    <string msgid="7936280271091152459" name="system_show_gpu_view_updates">"แสดงการอัปเดตมุมมอง GPU"</string>
+    <string msgid="7301942527058509453" name="system_show_hardware_layer">"แสดงเลเยอร์ฮาร์ดแวร์"</string>
+    <string msgid="645732439882291943" name="system_show_layout_bounds">"แสดงขอบของการจัดวาง"</string>
+    <string msgid="8878834675712192327" name="system_show_surface_updates">"แสดงการอัปเดตพื้นผิว"</string>
+    <string msgid="2179121368437801757" name="system_show_touches">"แสดงการแตะ"</string>
+    <string msgid="5264650214879185873" name="system_speak_passwords">"พูดรหัสผ่าน"</string>
+    <string msgid="8128688499687306982" name="system_speech">"คำพูด"</string>
+    <string msgid="8099856582088545576" name="system_speech_rate">"ความเร็วในการพูด"</string>
+    <string msgid="1212296404230848490" name="system_stay_awake">"เปิดหน้าจอค้างไว้"</string>
+    <string msgid="5728680397806673270" name="system_strict_mode_enabled">"เปิดใช้งานโหมดเข้มงวด"</string>
+    <string msgid="3550575498907672342" name="system_take_bug_report">"ใช้รายงานข้อบกพร่อง"</string>
+    <string msgid="6726022312605226285" name="system_time">"เวลา"</string>
+    <string msgid="2964817709721784757" name="system_transition_animation_scale">"อัตราการสลับภาพเคลื่อนไหว"</string>
+    <string msgid="3777895294421924323" name="system_usb_debugging">"การแก้ปัญหา USB"</string>
+    <string msgid="7340861918835270609" name="system_verify_apps_over_usb">"ยืนยันแอปผ่าน USB"</string>
+    <string msgid="4007354935701089555" name="system_wait_for_debugger">"รอเครื่องมือแก้ไขข้อบกพร่อง"</string>
+    <string msgid="3474525355071613242" name="system_wifi_verbose_logging">"การบันทึกรายละเอียด Wi-Fi"</string>
+    <string msgid="3213952676672537856" name="system_window_animation_scale">"ขนาดหน้าต่างภาพเคลื่อนไหว"</string>
+    <string msgid="3785289190730642093" name="text_obfuscation_toggle_caption">"ซ่อนรหัสผ่าน"</string>
+    <string msgid="4089136801976399147" name="third_party_location_services_title">"บริการตำแหน่งของบุคคลที่สาม"</string>
+    <string msgid="7760859333083008983" name="time_separator">":"</string>
+    <string msgid="4846143417666038604" name="title_cancel">"ยกเลิก"</string>
+    <string msgid="6929522003149212388" name="title_configure">"กำหนดค่า"</string>
+    <string msgid="4259032357469819835" name="title_current_keyboard">"แป้นพิมพ์ปัจจุบัน"</string>
+    <string msgid="1513875539231931892" name="title_dns_1">"DNS 1"</string>
+    <string msgid="7805767982172685879" name="title_dns_2">"DNS 2"</string>
+    <string msgid="8710084774588697646" name="title_internet_connection">"การเชื่อมต่ออินเทอร์เน็ต"</string>
+    <string msgid="4533523100923004711" name="title_ip_address">"ที่อยู่ IP"</string>
+    <string msgid="6408399523925189065" name="title_ip_settings">"การตั้งค่า IP"</string>
+    <string msgid="3428401680168668544" name="title_mac_address">"ที่อยู่ MAC"</string>
+    <string msgid="3222416880787889272" name="title_network_prefix_length">"ความยาวของหมายเลขเครือข่าย"</string>
+    <string msgid="1021329453788761592" name="title_ok">"ตกลง"</string>
+    <string msgid="1038871400014761952" name="title_select_wifi_network">"เลือกเครือข่าย WiFi ของคุณ"</string>
+    <string msgid="205478650262078041" name="title_signal_strength">"ความแรงสัญญาณ"</string>
+    <string msgid="4858945903642469730" name="title_ssid">"ป้อนชื่อเครือข่าย WiFi"</string>
+    <string msgid="6690544371649264526" name="title_static">"คงที่"</string>
+    <string msgid="1202798409060082670" name="title_test_connection">"ทดสอบการเชื่อมต่อ"</string>
+    <string msgid="5389467736846644832" name="title_wifi_advanced_options">"กำหนดค่าพร็อกซี <ns1:g id="SSID">%1$s</ns1:g> และค่า IP ไหม"</string>
+    <string msgid="9080004548419447580" name="title_wifi_could_not_connect">"ไม่สามารถเชื่อมต่อกับ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="328274688839033015" name="title_wifi_could_not_connect_ap_reject">"เครือข่าย Wi-Fi ไม่ยอมรับการเชื่อมต่อ"</string>
+    <string msgid="4836595650380723944" name="title_wifi_could_not_connect_authentication_failure">"รหัสผ่าน Wi-Fi ไม่ถูกต้อง"</string>
+    <string msgid="5158184646985406394" name="title_wifi_could_not_connect_timeout">"ไม่พบ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="708638317882707069" name="title_wifi_could_not_save">"ไม่สามารถบันทึกการกำหนดค่าสำหรับ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="8202712852864206601" name="title_wifi_dns1">"DNS 1:"</string>
+    <string msgid="2673986973918499478" name="title_wifi_dns2">"DNS 2:"</string>
+    <string msgid="7210935277165358134" name="title_wifi_gateway">"เกตเวย์:"</string>
+    <string msgid="1176502993805009566" name="title_wifi_ip_address">"ที่อยู่ IP:"</string>
+    <string msgid="1176973848286865602" name="title_wifi_ip_settings">"การตั้งค่า IP"</string>
+    <string msgid="7228948551397955678" name="title_wifi_ip_settings_invalid">"การตั้งค่า IP ไม่ถูกต้อง"</string>
+    <string msgid="819998498700202436" name="title_wifi_known_network">"<ns1:g id="SSID">%1$s</ns1:g> เป็นเครือข่ายที่บันทึกไว้"</string>
+    <string msgid="4821632382990582038" name="title_wifi_network_prefix_length">"ความยาวของหมายเลขเครือข่าย:"</string>
+    <string msgid="7127675763248224969" name="title_wifi_no_networks_available">"กำลังสแกน..."</string>
+    <string msgid="4522775396659538614" name="title_wifi_proxy_bypass">"ไม่ใช้พร็อกซีสำหรับ:"</string>
+    <string msgid="4655634673840885248" name="title_wifi_proxy_hostname">"ชื่อโฮสต์พร็อกซี:"</string>
+    <string msgid="9194893429116021337" name="title_wifi_proxy_port">"พอร์ตพร็อกซี:"</string>
+    <string msgid="7728120764469991303" name="title_wifi_proxy_settings">"การตั้งค่าพร็อกซี"</string>
+    <string msgid="7380479044141040849" name="title_wifi_proxy_settings_invalid">"การตั้งค่าพร็อกซีไม่ถูกต้อง"</string>
+    <string msgid="2946168478936086933" name="user_add_profile_item_summary">"จำกัดการเข้าถึงแอปและเนื้อหาอื่นในบัญชีของคุณ"</string>
+    <string msgid="336521054830056189" name="user_new_profile_name">"โปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="2107349341393761750" name="user_restrictions_controlled_by">"ควบคุมโดย <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="8317193312532216351" name="user_restrictions_title">"การเข้าถึงแอปและเนื้อหา"</string>
+    <string msgid="8382179653567099571" name="whichApplication">"ทำงานให้เสร็จโดยใช้"</string>
+    <string msgid="8165601242122651326" name="wifi_action_advanced_no">"ไม่ (แนะนำ)"</string>
+    <string msgid="8615353318560146504" name="wifi_action_advanced_options_description">"<ns1:g id="PROXY_SETTINGS_SUMMARY">%1$s</ns1:g>, <ns1:g id="IP_SETTINGS_SUMMARY">%2$s</ns1:g>"</string>
+    <string msgid="3242132674399983503" name="wifi_action_advanced_options_title">"ตัวเลือกขั้นสูง"</string>
+    <string msgid="8586473568311558982" name="wifi_action_advanced_yes">"ตกลง"</string>
+    <string msgid="5196215981075986148" name="wifi_action_change_network">"เปลี่ยน"</string>
+    <string msgid="6338911832360962268" name="wifi_action_dhcp">"DHCP"</string>
+    <string msgid="1449920958930251977" name="wifi_action_dont_change_network">"ไม่เปลี่ยน"</string>
+    <string msgid="5932500664228395779" name="wifi_action_ok">"ตกลง"</string>
+    <string msgid="8402002777441261064" name="wifi_action_proxy_manual">"ด้วยตนเอง"</string>
+    <string msgid="4457231399674182650" name="wifi_action_proxy_none">"ไม่มี"</string>
+    <string msgid="4673786410274206843" name="wifi_action_save">"บันทึก"</string>
+    <string msgid="1025855501453321749" name="wifi_action_static">"คงที่"</string>
+    <string msgid="7664354971197839253" name="wifi_action_status_info">"ข้อมูลสถานะ"</string>
+    <string msgid="3308643222864163092" name="wifi_action_try_again">"ลองอีกครั้ง"</string>
+    <string msgid="560074338908947419" name="wifi_action_view_available_networks">"ดูเครือข่ายที่พร้อมใช้งาน"</string>
+    <string msgid="8570424816865506077" name="wifi_connect">"เชื่อมต่อ"</string>
+    <string msgid="1299861268647323455" name="wifi_connecting">"กำลังเชื่อมต่อกับ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="5100439885010143290" name="wifi_disabled_generic">"ปิดอยู่"</string>
+    <string msgid="7558613087615078317" name="wifi_disabled_network_failure">"หลีกเลี่ยงการเชื่อมต่ออินเทอร์เน็ตที่สัญญาณไม่แรงพอ"</string>
+    <string msgid="1318626812163574372" name="wifi_disabled_password_failure">"ปัญหาในการตรวจสอบสิทธิ์"</string>
+    <string msgid="214345156394229347" name="wifi_dns1_hint">"ป้อนที่อยู่ IP ที่ถูกต้อง หรือเว้นว่างไว้\nตัวอย่างเช่น 8.8.8.8"</string>
+    <string msgid="1075709328208368894" name="wifi_dns2_hint">"ป้อนที่อยู่ IP ที่ถูกต้อง หรือเว้นว่างไว้\nตัวอย่างเช่น 8.8.4.4"</string>
+    <string msgid="7302755141573045803" name="wifi_forget_network">"ไม่จำเครือข่าย"</string>
+    <string msgid="3328285160018330334" name="wifi_forget_network_description">"การดำเนินการนี้จะล้างข้อมูลที่ใช้เพื่อเชื่อมต่อกับเครือข่ายนี้ ซึ่งรวมถึงรหัสผ่านที่บันทึกไว้ด้วย"</string>
+    <string msgid="7687219682024189028" name="wifi_gateway_hint">"ป้อนที่อยู่ IP ที่ถูกต้องหรือปล่อยว่างไว้\nตัวอย่างเช่น 192.168.1.1"</string>
+    <string msgid="1895267564692073689" name="wifi_ip_address_hint">"ป้อนที่อยู่ IP ที่ถูกต้อง\nตัวอย่างเช่น 192.168.1.128"</string>
+    <string msgid="6172189835428184828" name="wifi_ip_settings_invalid_dns">"ป้อนที่อยู่ DNS ที่ถูกต้อง"</string>
+    <string msgid="3292444764474145026" name="wifi_ip_settings_invalid_gateway">"ป้อนที่อยู่เกตเวย์ที่ถูกต้อง"</string>
+    <string msgid="5228247770505105107" name="wifi_ip_settings_invalid_ip_address">"ป้อนที่อยู่ IP ที่ถูกต้อง"</string>
+    <string msgid="6209978918929182270" name="wifi_ip_settings_invalid_network_prefix_length">"ป้อนคำนำหน้าเครือข่ายยาว 0-32 อักขระ"</string>
+    <string msgid="332915798888599682" name="wifi_network_prefix_length_hint">"ป้อนความยาวหมายเลขเครือข่ายที่ถูกต้อง\nเช่น 24"</string>
+    <string msgid="342867509887486418" name="wifi_not_in_range">"ไม่อยู่ในพื้นที่ให้บริการ"</string>
+    <string msgid="710973813096194477" name="wifi_remembered">"ที่บันทึกไว้"</string>
+    <string msgid="1269061570772019215" name="wifi_saving">"กำลังบันทึกการกำหนดค่าสำหรับ <ns1:g id="SSID">%1$s</ns1:g>"</string>
+    <string msgid="9147292132572887175" name="wifi_secured_first_item">"ป้องกันด้วย <ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g>"</string>
+    <string msgid="4204734116810783051" name="wifi_secured_second_item">", ป้องกันด้วย <ns1:g id="WIFI_SECURITY_SHORT">%1$s</ns1:g>"</string>
+    <string msgid="1241101191574932821" name="wifi_security_none">"ไม่มี"</string>
+    <string msgid="1106303698253987745" name="wifi_security_type_eap">"802.1x EAP"</string>
+    <string msgid="6622722325237471927" name="wifi_security_type_none">"ไม่มี"</string>
+    <string msgid="3836879161029325671" name="wifi_security_type_wep">"WEP"</string>
+    <string msgid="4948411057925876780" name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
+    <string msgid="1244646604369133314" name="wifi_setting_available_networks">"เครือข่ายที่พร้อมใช้งาน"</string>
+    <string msgid="6244107218643835636" name="wifi_setting_header_available_networks">"WiFi"</string>
+    <string msgid="1530334691232749342" name="wifi_setting_header_other_options">"ตัวเลือกอื่นๆ"</string>
+    <string msgid="2791106243851894788" name="wifi_setting_other_options_add_network">"เพิ่มเครือข่ายใหม่"</string>
+    <string msgid="2320322351779996152" name="wifi_setting_other_options_wps">"เชื่อมต่อผ่าน WPS"</string>
+    <string msgid="3217814666041974878" name="wifi_setting_see_all">"ดูทั้งหมด"</string>
+    <string msgid="7583498018733069053" name="wifi_summary_description_connected_to_wifi_network">"เชื่อมต่อ <ns1:g id="SSID">%1$s</ns1:g> แล้ว ต้องการเชื่อมต่อกับเครือข่ายอื่นไหม"</string>
+    <string msgid="8329216588732277139" name="wifi_summary_title_connected">"เชื่อมต่อเครือข่ายแล้ว"</string>
+    <string msgid="3799548944869386251" name="wifi_summary_title_not_connected">"ไม่ได้เชื่อมต่อเครือข่าย"</string>
+    <string msgid="7903601448928422642" name="wifi_summary_unknown_network">"เครือข่ายไม่ทราบชื่อ"</string>
+    <string msgid="2505782834128907733" name="wifi_wps_available_first_item">"WPS พร้อมใช้งาน"</string>
+    <string msgid="375469856423243587" name="wifi_wps_available_second_item">" (WPS พร้อมใช้งาน)"</string>
+    <string msgid="3562470978552920877" name="wifi_wps_cancel_scan">"ยกเลิก"</string>
+    <string msgid="8934636373182298397" name="wifi_wps_failed_generic">"ไม่พบเราเตอร์ Wi-Fi"</string>
+    <string msgid="3091222818050940041" name="wifi_wps_failed_overlap">"กำลังดำเนินการกับ WPS อีกเซสชันหนึ่ง โปรดลองอีกครั้งในอีกสักครู่"</string>
+    <string msgid="1712545345594227319" name="wifi_wps_failed_tkip">"ไม่สนับสนุนการตั้งค่าความปลอดภัยของเราเตอร์ Wi-Fi (TKIP)"</string>
+    <string msgid="9158670824165143348" name="wifi_wps_failed_wep">"ไม่สนับสนุนการตั้งค่าความปลอดภัยของเราเตอร์ Wi-Fi (WEP)"</string>
+    <string msgid="7082889465182680949" name="wifi_wps_in_progress">"WPS กำลังดำเนินการอยู่ และอาจใช้เวลาถึง 2 นาทีจึงจะเสร็จสิ้น"</string>
+    <string msgid="3618110962669110034" name="wifi_wps_instructions">"กดปุ่มการตั้งค่าการป้องกัน Wi-Fi บนเราเตอร์\nปุ่มนี้อาจเขียนว่า \"WPS\" หรือมีสัญลักษณ์ทางด้านซ้าย"</string>
+    <string msgid="594985182235834825" name="wifi_wps_onstart_pin">"ป้อน PIN <ns1:g id="NUMBER">%1$s</ns1:g> ในเราเตอร์ Wi-Fi ของคุณ"</string>
+    <string msgid="4206001352944024353" name="wifi_wps_onstart_pin_description">"หลังจากที่คุณป้อน PIN แล้ว การตั้งค่าอาจใช้เวลาถึง 2 นาทีกว่าจะเสร็จสิ้น"</string>
+    <string msgid="6171190323753080808" name="wifi_wps_retry_scan">"ลองอีกครั้ง"</string>
+    <string msgid="1872305810119408482" name="wifi_wps_title">"ค้นหาเราเตอร์ WPS…"</string>
+    <string msgid="1052148085426051873" name="wps_network">"เชื่อมต่อผ่าน WPS"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="rooms">
+        <!-- [CHAR LIMIT=40] -->
+        <item>Living Room</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Media Room</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Family Room</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Dining Room</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Den</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Bedroom</item>
+        <!-- [CHAR LIMIT=40] -->
+        <item>Kitchen</item>
+    </string-array>
+    <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
+    <string name="backup_erase_dialog_message">Stop backing up your Wi-Fi passwords, bookmarks, other settings, and app data, and erase all copies on Google servers?</string>
+    <string name="backup_erase_dialog_title"/>
+    <string name="change_setting">Change</string>
+    <string name="confirm_factory_reset_description">Erase all your personal information and downloaded apps? You can\'t reverse this action!</string>
+    <string name="confirm_factory_reset_device">Erase everything</string>
+    <string name="custom_room">Enter Custom Name…</string>
+    <string name="device_apps_app_management_clear_cache">Clear cache</string>
+    <string name="device_apps_app_management_clear_data">Clear data</string>
+    <string name="device_apps_app_management_clear_data_desc">All this app’s data will be deleted permanently.</string>
+    <string name="device_apps_app_management_clear_data_what">This includes all files, settings, accounts, databases, etc.</string>
+    <string name="device_apps_app_management_clear_default">Clear defaults</string>
+    <string name="device_apps_app_management_clear_default_none">No defaults set</string>
+    <string name="device_apps_app_management_clear_default_set">Set to launch this app for some actions</string>
+    <string name="device_apps_app_management_force_stop">Force stop</string>
+    <string name="device_apps_app_management_force_stop_desc">If you force stop an app, it may misbehave.</string>
+    <string name="device_apps_app_management_notifications">Notifications</string>
+    <string name="device_apps_app_management_open">Open</string>
+    <string name="device_apps_app_management_permissions">Permissions</string>
+    <string name="device_apps_app_management_uninstall">Uninstall</string>
+    <string name="device_apps_app_management_uninstall_desc">Do you want to uninstall this app?</string>
+    <string name="device_apps_app_management_version">version <ns1:g id="app_version">%1$s</ns1:g></string>
+    <string name="device_daydreams_none">None</string>
+    <string name="device_daydreams_screen_off">When to sleep</string>
+    <string name="device_daydreams_screen_off_description">Screen turns off after this period of inactivity.</string>
+    <string name="device_daydreams_screen_off_summary"><ns1:g id="sleep_description">%1$s</ns1:g> after dreaming</string>
+    <string name="device_daydreams_select">Daydream</string>
+    <string name="device_daydreams_sleep">When to daydream</string>
+    <string name="device_daydreams_sleep_description">Daydreaming begins after this period of inactivity. If no daydream is selected, the display turns off.</string>
+    <string name="device_daydreams_sleep_summary">After <ns1:g id="sleep_description">%1$s</ns1:g> of inactivity</string>
+    <string name="device_daydreams_test">Start now</string>
+    <string name="dismiss_all_notifications">Dismiss all</string>
+    <string name="do_not_disturb_desc">When enabled, new notiﬁcations will only appear in Settings</string>
+    <string name="do_not_disturb_title">Do not disturb</string>
+    <string name="factory_reset_description">This will erase all data from your device\'s internal storage, including: your Google account, system and app data and settings, and downloaded apps</string>
+    <string name="factory_reset_device">Reset device</string>
+    <string name="keep_settings">Don\'t change</string>
+    <string name="menu_help">Help</string>
+    <string name="no_notifications">None</string>
+    <string name="privacy_automatic_restore">Automatic restore</string>
+    <string name="privacy_backup_account">Backup account</string>
+    <string name="privacy_backup_data">Back up my data</string>
+    <string name="select_description">A name will help identify your ^1 when accessing it from other devices like your phone, tablet, or computer.</string>
+    <string name="select_title">Choose a name for your ^1</string>
+    <string name="settings_cancel">Cancel</string>
+    <string name="settings_off">Off</string>
+    <string name="settings_ok">OK</string>
+    <string name="settings_on">On</string>
+    <string name="settings_status_description">\"^1\" is the name of this ^2. Would you like to change this?</string>
+    <string name="settings_status_title">This ^1 is named</string>
+    <string name="setup_failure_button_retry">Retry</string>
+    <string name="setup_failure_title">An error occurred</string>
+    <string name="wifi_setup_connection_success">Connected successfully!</string>
+    <string name="wifi_setup_input_password">Enter password for <ns1:g id="ssid">%1$s</ns1:g></string>
+    <string name="wifi_setup_save_success">Saved successfully!</string>
+    <string name="wifi_setup_waiting_for_join">Joining ^1</string>
+</resources>
