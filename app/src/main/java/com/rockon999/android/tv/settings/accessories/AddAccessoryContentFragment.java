@@ -16,6 +16,7 @@
 
 package com.rockon999.android.tv.settings.accessories;
 
+import android.annotation.SuppressLint;
 import android.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -31,22 +32,28 @@ import com.rockon999.android.tv.settings.util.AccessibilityHelper;
  */
 public class AddAccessoryContentFragment extends Fragment {
 
+    private static final String MULTIPLE = "multiple";
+
     public View mView;
     private boolean mMultiple;
 
     public static AddAccessoryContentFragment newInstance(boolean multiple) {
-        AddAccessoryContentFragment fragment = new AddAccessoryContentFragment(multiple);
+        AddAccessoryContentFragment fragment = new AddAccessoryContentFragment();
+        Bundle args = new Bundle();
+        args.putBoolean(MULTIPLE, multiple);
+        fragment.setArguments(args);
         return fragment;
     }
 
-    public AddAccessoryContentFragment(boolean multiple) {
+    public AddAccessoryContentFragment() {
         super();
-        mMultiple = multiple;
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
+                             Bundle savedInstanceState) {
+        mMultiple = getArguments().getBoolean(MULTIPLE);
+
         mView = inflater.inflate(mMultiple ? R.layout.add_accessory_multiple_content_fragment :
                 R.layout.add_accessory_content_fragment, container, false);
 

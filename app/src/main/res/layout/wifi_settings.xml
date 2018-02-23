@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2014 The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2014 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,16 +13,19 @@
      limitations under the License.
 -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/progress_bar_vertical_padding"
     android:paddingLeft="@dimen/pad_left_unsafe_description"
     android:paddingRight="@dimen/pad_right_unsafe_action"
-    android:paddingTop="@dimen/progress_bar_vertical_padding"
-    android:paddingBottom="@dimen/progress_bar_vertical_padding"
-    android:orientation="vertical">
+    android:paddingTop="@dimen/progress_bar_vertical_padding">
+
     <FrameLayout
         android:id="@+id/content"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/wifi_progress" />
+        android:layout_below="@+id/wifi_progress"
+        tools:ignore="UnknownId" /> <!--todo-->
 </RelativeLayout>

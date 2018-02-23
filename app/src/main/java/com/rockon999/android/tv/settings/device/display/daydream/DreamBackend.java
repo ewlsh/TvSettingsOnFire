@@ -16,14 +16,6 @@
 
 package com.rockon999.android.tv.settings.device.display.daydream;
 
-import static android.provider.Settings.Secure.SCREENSAVER_ENABLED;
-import static android.provider.Settings.Secure.SLEEP_TIMEOUT;
-
-import com.mediatek.Manifest;
-import com.rockon999.android.tv.settings.R;
-import com.rockon999.android.tv.settings.dialog.old.Action;
-import com.rockon999.android.tv.settings.firetv.util.Unsupported;
-
 import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -31,24 +23,18 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.content.res.Resources;
-import android.os.RemoteException;
-// todo import android.os.ServiceManager;
-import android.os.ServiceManager;
 import android.provider.Settings;
 import android.service.dreams.DreamService;
-// todo import android.service.dreams.IDreamManager;
-import android.service.dreams.IDreamManager;
-import android.service.dreams.Sandman;
-import android.support.v4.content.ContextCompat;
-import android.util.Log;
 
-import java.lang.reflect.Field;
+import com.rockon999.android.tv.settings.R;
+import com.rockon999.android.tv.settings.dialog.old.Action;
+import com.rockon999.android.tv.settings.firetv.util.Unsupported;
+
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Hashtable;
 import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
+
+import static android.provider.Settings.Secure.SCREENSAVER_ENABLED;
 
 /**
  * Manages communication with the dream manager service.
